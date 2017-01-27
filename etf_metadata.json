@@ -1,0 +1,8797 @@
+{
+  "SLDR": [
+    "ALPS Sector Leaders ETF", 
+    "Large Growth", 
+    "ALPS"
+  ], 
+  "VTHR": [
+    "Vanguard Russell 3000 ETF", 
+    "Large Blend", 
+    "Vanguard"
+  ], 
+  "AGF": [
+    "DB Agriculture Long ETN", 
+    "Commodities Agriculture", 
+    "Deutsche Bank AG"
+  ], 
+  "AGA": [
+    "DB Agriculture Double Short ETN", 
+    "Trading--Inverse Commodities", 
+    "Deutsche Bank AG"
+  ], 
+  "USRT": [
+    "iShares Core US REIT", 
+    "Real Estate", 
+    "iShares"
+  ], 
+  "XBI": [
+    "SPDR\\u00ae S&P Biotech ETF", 
+    "Health", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "AGZ": [
+    "iShares Agency Bond", 
+    "Intermediate Government", 
+    "iShares"
+  ], 
+  "NYF": [
+    "iShares New York Muni Bond", 
+    "Muni New York Intermediate", 
+    "iShares"
+  ], 
+  "AGQ": [
+    "ProShares Ultra Silver", 
+    "Trading--Leveraged Commodities", 
+    "ProShares"
+  ], 
+  "SPY": [
+    "SPDR\\u00ae S&P 500 ETF", 
+    "Large Blend", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "BWX": [
+    "SPDR\\u00ae Blmbg Barclays Intl Trs Bd ETF", 
+    "World Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "BWZ": [
+    "SPDR\\u00ae Blmbg Barclays ST Intrn TrsBd ETF", 
+    "World Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "FYLD": [
+    "Cambria Foreign Shareholder Yield ETF", 
+    "Foreign Small/Mid Value", 
+    "CAMBRIA ETF TRUST"
+  ], 
+  "CRBQ": [
+    "Global Commodity Equity ETF", 
+    "Natural Resources", 
+    "ALPS"
+  ], 
+  "AGG": [
+    "iShares Core US Aggregate Bond", 
+    "Intermediate-Term Bond", 
+    "iShares"
+  ], 
+  "CRBN": [
+    "iShares MSCI ACWI Low Carbon Target", 
+    "World Stock", 
+    "iShares"
+  ], 
+  "IXJ": [
+    "iShares Global Healthcare", 
+    "Health", 
+    "iShares"
+  ], 
+  "XPH": [
+    "SPDR\\u00ae S&P Pharmaceuticals ETF", 
+    "Health", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "IXN": [
+    "iShares Global Tech", 
+    "Technology", 
+    "iShares"
+  ], 
+  "HILO": [
+    "Columbia EM Quality Dividend ETF", 
+    "Diversified Emerging Mkts", 
+    "Columbia"
+  ], 
+  "EGPT": [
+    "VanEck Vectors Egypt ETF", 
+    "Miscellaneous Region", 
+    "Market Vectors"
+  ], 
+  "IXC": [
+    "iShares Global Energy", 
+    "Equity Energy", 
+    "iShares"
+  ], 
+  "IXG": [
+    "iShares Global Financials", 
+    "Financial", 
+    "iShares"
+  ], 
+  "IXP": [
+    "iShares Global Telecom", 
+    "Communications", 
+    "iShares"
+  ], 
+  "XPP": [
+    "ProShares Ultra FTSE China 50", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "REMX": [
+    "VanEck Vectors Rare Earth/Strat Mtls ETF", 
+    "Equity Precious Metals", 
+    "Market Vectors"
+  ], 
+  "HYMB": [
+    "SPDR\\u00ae Nuveen S&P High Yield Muni Bd ETF", 
+    "High Yield Muni", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "NEAR": [
+    "iShares Short Maturity Bond", 
+    "Ultrashort Bond", 
+    "iShares"
+  ], 
+  "REML": [
+    "Credit Suisse X-LinksMP2xLvgMortREIT ETN", 
+    "Trading--Leveraged Equity", 
+    "Credit Suisse AG"
+  ], 
+  "JNK": [
+    "SPDR\\u00ae Barclays High Yield Bond ETF", 
+    "High Yield Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "HYDD": [
+    "Direxion Daily High Yield Bear 2X ETF", 
+    "Trading--Inverse Debt", 
+    "Direxion Funds"
+  ], 
+  "BJK": [
+    "VanEck Vectors Gaming ETF", 
+    "Consumer Cyclical", 
+    "Market Vectors"
+  ], 
+  "EVX": [
+    "VanEck Vectors Environmental Svcs ETF", 
+    "Industrials", 
+    "Market Vectors"
+  ], 
+  "LSC": [
+    "ELEMENTS S&P CTI TR ETN", 
+    "Managed Futures", 
+    "ELEMENTS"
+  ], 
+  "TTT": [
+    "ProShares UltraPro Short 20+ Year Trs", 
+    "Trading--Inverse Debt", 
+    "ProShares"
+  ], 
+  "VLU": [
+    "SPDR\\u00ae S&P 1500 Value Tilt ETF", 
+    "Large Value", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "GRU": [
+    "ELEMENTS MLCX Grains TR ETN", 
+    "Commodities Agriculture", 
+    "ELEMENTS"
+  ], 
+  "EIRL": [
+    "iShares MSCI Ireland Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "USLV": [
+    "VelocityShares 3x Long Silver ETN", 
+    "Trading--Leveraged Commodities", 
+    "Credit Suisse AG"
+  ], 
+  "GRN": [
+    "iPath\\u00ae Global Carbon ETN", 
+    "Commodities Miscellaneous", 
+    "Barclays Funds"
+  ], 
+  "EUMV": [
+    "iShares Edge MSCI Min Vol Europe", 
+    "Europe Stock", 
+    "iShares"
+  ], 
+  "USLB": [
+    "PowerShares Russell 1000 Low Beta Eq Wgt", 
+    "Mid-Cap Blend", 
+    "PowerShares"
+  ], 
+  "GRI": [
+    "Cohen & Steers Global Realty Majors ETF", 
+    "Global Real Estate", 
+    "ALPS"
+  ], 
+  "FTCS": [
+    "First Trust Capital Strength ETF", 
+    "Large Blend", 
+    "First Trust"
+  ], 
+  "PRNT": [
+    "The 3D Printing ETF", 
+    "Technology", 
+    "ARK ETF Trust"
+  ], 
+  "ERGF": [
+    "iShares Edge MSCI Multifactor Energy", 
+    "Equity Energy", 
+    "iShares"
+  ], 
+  "BFOR": [
+    "Barron's 400 ETF", 
+    "Mid-Cap Growth", 
+    "ALPS ETF"
+  ], 
+  "SDYL": [
+    "UBS ETRACS Mthly Pay 2xLvrgd S&P Div ETN", 
+    "Trading--Leveraged Equity", 
+    "UBS Group AG"
+  ], 
+  "VBK": [
+    "Vanguard Small-Cap Growth ETF", 
+    "Small Growth", 
+    "Vanguard"
+  ], 
+  "FIHD": [
+    "UBS AG FI Enhanced Global High Yield ETN", 
+    "World Stock", 
+    "UBS Group AG"
+  ], 
+  "SBEU": [
+    "ETFS Diversified-Factor Developed Eurp", 
+    "Europe Stock", 
+    "ETF Securities"
+  ], 
+  "VBR": [
+    "Vanguard Small-Cap Value ETF", 
+    "Small Value", 
+    "Vanguard"
+  ], 
+  "RAVI": [
+    "FlexShares Ready Access Variable Inc ETF", 
+    "Ultrashort Bond", 
+    "Flexshares Trust"
+  ], 
+  "IFAS": [
+    "iShares Asia Developed Real Estate", 
+    "Global Real Estate", 
+    "iShares"
+  ], 
+  "SMDV": [
+    "ProShares Russell 2000 Dividend Growers", 
+    "Small Value", 
+    "ProShares"
+  ], 
+  "FJP": [
+    "First Trust Japan AlphaDEX\\u00ae ETF", 
+    "Japan Stock", 
+    "First Trust"
+  ], 
+  "DBKO": [
+    "Deutsche X-trackers MSCI SKorea Hedgd Eq", 
+    "Miscellaneous Region", 
+    "Deutsche Asset Management"
+  ], 
+  "PTNQ": [
+    "Pacer Trendpilot\\u2122 100 ETF", 
+    "Large Growth", 
+    "Pacer"
+  ], 
+  "DBEM": [
+    "Deutsche X-trackers MSCI Em Mkts Hdgd Eq", 
+    "Diversified Emerging Mkts", 
+    "Deutsche Asset Management"
+  ], 
+  "DIVI": [
+    "AdvisorShares Athena High Dividend ETF", 
+    "World Stock", 
+    "AdvisorShares"
+  ], 
+  "GLTR": [
+    "ETFS Physical PM Basket", 
+    "Commodities Precious Metals", 
+    "ETF Securities"
+  ], 
+  "DIVC": [
+    "C-Tracks ETN Miller/Howard Strt Div Rinv", 
+    "Large Value", 
+    "Citigroup"
+  ], 
+  "DIVA": [
+    "QuantShares Hedged Dividend Income", 
+    "Long-Short Equity", 
+    "QuantShares"
+  ], 
+  "DBEF": [
+    "Deutsche X-trackers MSCI EAFE Hedged Eq", 
+    "Foreign Large Blend", 
+    "Deutsche Asset Management"
+  ], 
+  "ERUS": [
+    "iShares MSCI Russia Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "EFAX": [
+    "SPDR\\u00ae MSCI EAFE Fossil Fuel Free ETF", 
+    "Foreign Large Blend", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "DBEZ": [
+    "Deutsche X-trackers MSCI Eurozone Hdg Eq", 
+    "Europe Stock", 
+    "Deutsche Asset Management"
+  ], 
+  "DIVY": [
+    "Reality Shares DIVS ETF", 
+    "Multialternative", 
+    "Reality Shares ETF Trust"
+  ], 
+  "IAGG": [
+    "iShares Core International Aggregate Bd", 
+    "World Bond", 
+    "iShares"
+  ], 
+  "DBES": [
+    "Deutsche X-trackers MSCIEAFE SmCp HdgdEq", 
+    "Foreign Small/Mid Blend", 
+    "Deutsche Asset Management"
+  ], 
+  "EFAV": [
+    "iShares Edge MSCI Min Vol EAFE", 
+    "Foreign Large Blend", 
+    "iShares"
+  ], 
+  "EDC": [
+    "Direxion Daily Emrg Mkts Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "RLY": [
+    "SPDR\\u00ae SSgA Multi-Asset Real Return ETF", 
+    "World Allocation", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "EDZ": [
+    "Direxion Daily Emrg Mkts Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "ORG": [
+    "The Organics ETF", 
+    "Consumer Defensive", 
+    "Janus"
+  ], 
+  "IDMO": [
+    "PowerShares S&P Intl Dev Momentum ETF", 
+    "Foreign Large Blend", 
+    "PowerShares"
+  ], 
+  "DPU": [
+    "DB Commodity Long ETN", 
+    "Commodities Broad Basket", 
+    "Deutsche Bank AG"
+  ], 
+  "VXUS": [
+    "Vanguard Total International Stock ETF", 
+    "Foreign Large Blend", 
+    "Vanguard"
+  ], 
+  "SIPE": [
+    "SPDR\\u00ae Blmbg Barclays 0-5 Year TIPS ETF", 
+    "Inflation-Protected Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "MOTI": [
+    "VanEck Vectors Morningstar Intl Moat ETF", 
+    "Foreign Large Value", 
+    "Market Vectors"
+  ], 
+  "DPK": [
+    "Direxion Daily Dev Mkts Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "LD": [
+    "iPath\\u00ae Bloomberg Lead SubTR ETN", 
+    "Commodities Industrial Metals", 
+    "Barclays Funds"
+  ], 
+  "ONG": [
+    "iPath\\u00ae Pure Beta Energy ETN", 
+    "Commodities Energy", 
+    "Barclays Funds"
+  ], 
+  "RZG": [
+    "Guggenheim S&P SmallCap 600\\u00ae Pure Gr ETF", 
+    "Small Growth", 
+    "Guggenheim Investments"
+  ], 
+  "FXY": [
+    "CurrencyShares\\u00ae Japanese Yen ETF", 
+    "Single Currency", 
+    "Guggenheim Investments"
+  ], 
+  "FXZ": [
+    "First Trust Materials AlphaDEX\\u00ae ETF", 
+    "Natural Resources", 
+    "First Trust"
+  ], 
+  "FXU": [
+    "First Trust Utilities AlphaDEX\\u00ae ETF", 
+    "Utilities", 
+    "First Trust"
+  ], 
+  "KROO": [
+    "IQ Australia Small Cap ETF", 
+    "Miscellaneous Region", 
+    "IndexIQ"
+  ], 
+  "FXP": [
+    "ProShares UltraShort FTSE China 50", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "FXS": [
+    "CurrencyShares\\u00ae Swedish Krona ETF", 
+    "Single Currency", 
+    "Guggenheim Investments"
+  ], 
+  "FXR": [
+    "First Trust Indtls/PrdcrDurbAlphaDEX\\u00aeETF", 
+    "Industrials", 
+    "First Trust"
+  ], 
+  "FXL": [
+    "First Trust Technology AlphaDEX\\u00ae ETF", 
+    "Technology", 
+    "First Trust"
+  ], 
+  "FXO": [
+    "First Trust Financials AlphaDEX\\u00ae ETF", 
+    "Financial", 
+    "First Trust"
+  ], 
+  "FXN": [
+    "First Trust Energy AlphaDEX\\u00ae ETF", 
+    "Equity Energy", 
+    "First Trust"
+  ], 
+  "CNTR": [
+    "PowerShares Contrarian Opportunities ETF", 
+    "Mid-Cap Value", 
+    "PowerShares"
+  ], 
+  "FXE": [
+    "CurrencyShares\\u00ae Euro ETF", 
+    "Single Currency", 
+    "Guggenheim Investments"
+  ], 
+  "FXD": [
+    "First Trust Cnsmr Discret AlphaDEX\\u00ae ETF", 
+    "Consumer Cyclical", 
+    "First Trust"
+  ], 
+  "FXG": [
+    "First Trust Cnsmr Staples AlphaDEX\\u00ae ETF", 
+    "Consumer Defensive", 
+    "First Trust"
+  ], 
+  "FXF": [
+    "CurrencyShares\\u00ae Swiss Franc ETF", 
+    "Single Currency", 
+    "Guggenheim Investments"
+  ], 
+  "FXA": [
+    "CurrencyShares\\u00ae Australian Dollar ETF", 
+    "Single Currency", 
+    "Guggenheim Investments"
+  ], 
+  "FXB": [
+    "CurrencyShares\\u00ae British Pound Ster ETF", 
+    "Single Currency", 
+    "Guggenheim Investments"
+  ], 
+  "DTUS": [
+    "iPath\\u00ae US Treasury 2-year Bear ETN", 
+    "Trading--Inverse Debt", 
+    "Barclays Funds"
+  ], 
+  "RSXJ": [
+    "VanEck Vectors Russia Small-Cap ETF", 
+    "Miscellaneous Region", 
+    "Market Vectors"
+  ], 
+  "CFA": [
+    "Victory CEMP US 500 Volatility Wtd ETF", 
+    "Large Blend", 
+    "Victory"
+  ], 
+  "DJD": [
+    "Guggenheim Dow Jones Indl Avg Div ETF", 
+    "Large Value", 
+    "Guggenheim Investments"
+  ], 
+  "CBON": [
+    "VanEck Vectors ChinaAMC China Bond ETF", 
+    "Emerging-Markets Local-Currency Bond", 
+    "Market Vectors"
+  ], 
+  "LOWC": [
+    "SPDR\\u00ae MSCI ACWI Low Carbon Target ETF", 
+    "World Stock", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "ZROZ": [
+    "PIMCO 25+ Year Zero Coupon US Trs ETF", 
+    "Long Government", 
+    "Pimco"
+  ], 
+  "PRF": [
+    "PowerShares FTSE RAFI US 1000 ETF", 
+    "Large Value", 
+    "PowerShares"
+  ], 
+  "QINC": [
+    "First Trust RBA Quality Income ETF", 
+    "Mid-Cap Value", 
+    "First Trust"
+  ], 
+  "FXJP": [
+    "PowerShares Japan Ccy Hdgd Lw Vltl", 
+    "Japan Stock", 
+    "PowerShares"
+  ], 
+  "INXX": [
+    "Columbia India Infrastructure ETF", 
+    "India Equity", 
+    "Columbia"
+  ], 
+  "SAA": [
+    "ProShares Ultra SmallCap600", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "PRN": [
+    "PowerShares DWA Industrials Momentum ETF", 
+    "Industrials", 
+    "PowerShares"
+  ], 
+  "PFXF": [
+    "VanEck Vectors Pref Secs ex Fincls ETF", 
+    "Preferred Stock", 
+    "Market Vectors"
+  ], 
+  "HDGE": [
+    "AdvisorShares Ranger Equity Bear ETF", 
+    "Bear Market", 
+    "AdvisorShares"
+  ], 
+  "HYLS": [
+    "First Trust Tactical High Yield ETF", 
+    "High Yield Bond", 
+    "First Trust"
+  ], 
+  "ZIV": [
+    "VelocityShares Daily Inverse VIX MT ETN", 
+    "Volatility", 
+    "Credit Suisse AG"
+  ], 
+  "RFFC": [
+    "RiverFront Dynamic US Flex-Cap ETF", 
+    "Large Blend", 
+    "ALPS"
+  ], 
+  "IBMF": [
+    "iShares iBonds Sep 2017 Term Muni Bond", 
+    "Muni National Short", 
+    "iShares"
+  ], 
+  "IBMG": [
+    "iShares iBonds Sep 2018 Term Muni Bond", 
+    "Muni National Short", 
+    "iShares"
+  ], 
+  "JPHF": [
+    "JPMorgan Diversified Alternative ETF", 
+    "Multialternative", 
+    "JPMorgan"
+  ], 
+  "IBMK": [
+    "iShares iBonds Dec 2022 Term Muni Bond", 
+    "Muni National Interm", 
+    "iShares"
+  ], 
+  "IBMH": [
+    "iShares iBonds Sep 2019 Term Muni Bond", 
+    "Muni National Interm", 
+    "iShares"
+  ], 
+  "IBMI": [
+    "iShares iBonds Sep 2020 Term Muni Bond", 
+    "Muni National Interm", 
+    "iShares"
+  ], 
+  "DBO": [
+    "PowerShares DB Oil ETF", 
+    "Commodities Energy", 
+    "PowerShares DB"
+  ], 
+  "DBA": [
+    "PowerShares DB Agriculture ETF", 
+    "Commodities Agriculture", 
+    "PowerShares DB"
+  ], 
+  "DBC": [
+    "PowerShares DB Commodity Tracking ETF", 
+    "Commodities Broad Basket", 
+    "PowerShares DB"
+  ], 
+  "DBB": [
+    "PowerShares DB Base Metals ETF", 
+    "Commodities Industrial Metals", 
+    "PowerShares DB"
+  ], 
+  "DBE": [
+    "PowerShares DB Energy ETF", 
+    "Commodities Energy", 
+    "PowerShares DB"
+  ], 
+  "FNDE": [
+    "Schwab Fundamental Emerg Mkts Lg Co ETF", 
+    "Diversified Emerging Mkts", 
+    "Schwab ETFs"
+  ], 
+  "FNDF": [
+    "Schwab Fundamental Intl Lg Co ETF", 
+    "Foreign Large Value", 
+    "Schwab ETFs"
+  ], 
+  "FNDA": [
+    "Schwab Fundamental US Small Company ETF", 
+    "Small Blend", 
+    "Schwab ETFs"
+  ], 
+  "UYG": [
+    "ProShares Ultra Financials", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "FNDC": [
+    "Schwab Fundamental Intl Sm Co ETF", 
+    "Foreign Small/Mid Blend", 
+    "Schwab ETFs"
+  ], 
+  "DBP": [
+    "PowerShares DB Precious Metals ETF", 
+    "Commodities Precious Metals", 
+    "PowerShares DB"
+  ], 
+  "DBS": [
+    "PowerShares DB Silver ETF", 
+    "Commodities Precious Metals", 
+    "PowerShares DB"
+  ], 
+  "UYM": [
+    "ProShares Ultra Basic Materials", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "DBV": [
+    "PowerShares DB G10 Currency Harvest ETF", 
+    "Multicurrency", 
+    "PowerShares DB"
+  ], 
+  "GASL": [
+    "Direxion Daily Nat Gas Rltd Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "USMV": [
+    "iShares Edge MSCI Min Vol USA", 
+    "Large Blend", 
+    "iShares"
+  ], 
+  "MUB": [
+    "iShares National Muni Bond", 
+    "Muni National Interm", 
+    "iShares"
+  ], 
+  "DWIN": [
+    "PowerShares DWA Tact Multi-Asst Inc", 
+    "Allocation--30% to 50% Equity", 
+    "PowerShares"
+  ], 
+  "GASX": [
+    "Direxion Daily Nat Gas Rltd Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "DXPS": [
+    "WisdomTree United Kingdom Hedged Eq ETF", 
+    "Miscellaneous Region", 
+    "WisdomTree"
+  ], 
+  "XRLV": [
+    "PowerShares S&P 500ex-Rate SnsvLwVtl ETF", 
+    "Large Blend", 
+    "PowerShares"
+  ], 
+  "NLR": [
+    "VanEck Vectors Uranium+Nuclear Engy ETF", 
+    "Miscellaneous Sector", 
+    "Market Vectors"
+  ], 
+  "EDBI": [
+    "Legg Mason Emerging Mkts Divers Cor ETF", 
+    "Diversified Emerging Mkts", 
+    "Legg Mason"
+  ], 
+  "SLQD": [
+    "iShares 0-5 Year Invmt Grd Corp Bd", 
+    "Short-Term Bond", 
+    "iShares"
+  ], 
+  "MBSD": [
+    "FlexShares Disciplined Duration MBS ETF", 
+    "Intermediate Government", 
+    "Flexshares Trust"
+  ], 
+  "GCC": [
+    "WisdomTree Continuous Commodity ETF", 
+    "Commodities Broad Basket", 
+    "GreenHaven"
+  ], 
+  "GCE": [
+    "Claymore CEF GS Connect ETN", 
+    "Allocation--50% to 70% Equity", 
+    "Goldman Sachs"
+  ], 
+  "AFK": [
+    "VanEck Vectors Africa ETF", 
+    "Miscellaneous Region", 
+    "Market Vectors"
+  ], 
+  "DLN": [
+    "WisdomTree LargeCap Dividend ETF", 
+    "Large Value", 
+    "WisdomTree"
+  ], 
+  "YMLP": [
+    "VanEck Vectors High Income MLP ETF", 
+    "Energy Limited Partnership", 
+    "Van Eck"
+  ], 
+  "DLS": [
+    "WisdomTree International SmallCp Div ETF", 
+    "Foreign Small/Mid Value", 
+    "WisdomTree"
+  ], 
+  "YMLI": [
+    "VanEck Vectors High Inc Infras MLP ETF", 
+    "Energy Limited Partnership", 
+    "Van Eck"
+  ], 
+  "BSCP": [
+    "Guggenheim BulletShrs 2025 Corp Bd ETF", 
+    "Corporate Bond", 
+    "Guggenheim Investments"
+  ], 
+  "BSCQ": [
+    "Guggenheim BulletShares 2026 Corp Bd ETF", 
+    "Corporate Bond", 
+    "Guggenheim Investments"
+  ], 
+  "SST": [
+    "SPDR\\u00ae Blmbg Barclays ST Treasury ETF", 
+    "Short Government", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "VBND": [
+    "Vident Core US Bond Strategy ETF\\u2122", 
+    "Intermediate-Term Bond", 
+    "Vident Financial"
+  ], 
+  "FDVV": [
+    "Fidelity\\u00ae Core Dividend ETF", 
+    "Large Value", 
+    "Fidelity Investments"
+  ], 
+  "OVLC": [
+    "Guggenheim US Lg Cp Optimized Vol ETF", 
+    "Large Blend", 
+    "Guggenheim Investments"
+  ], 
+  "SSO": [
+    "ProShares Ultra S&P500", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "VTIP": [
+    "Vanguard Short-Term Infl-Prot Secs ETF", 
+    "Inflation-Protected Bond", 
+    "Vanguard"
+  ], 
+  "LARE": [
+    "Tierra XP Latin America Real Estate ETF", 
+    "Global Real Estate", 
+    "ETF Managers Trust"
+  ], 
+  "BSCG": [
+    "Guggenheim BulletShrs 2016 Corp Bd ETF", 
+    "Corporate Bond", 
+    "Guggenheim Investments"
+  ], 
+  "BSCI": [
+    "Guggenheim BulletShrs 2018 Corp Bd ETF", 
+    "Corporate Bond", 
+    "Guggenheim Investments"
+  ], 
+  "BSCJ": [
+    "Guggenheim BulletShrs 2019 Corp Bd ETF", 
+    "Corporate Bond", 
+    "Guggenheim Investments"
+  ], 
+  "BSCK": [
+    "Guggenheim BulletShrs 2020 Corp Bd ETF", 
+    "Corporate Bond", 
+    "Guggenheim Investments"
+  ], 
+  "CRED": [
+    "iShares US Credit Bond", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "BSCM": [
+    "Guggenheim BulletShrs 2022 Corp Bd ETF", 
+    "Corporate Bond", 
+    "Guggenheim Investments"
+  ], 
+  "BSCN": [
+    "Guggenheim BulletShrs 2023 Corp Bd ETF", 
+    "Corporate Bond", 
+    "Guggenheim Investments"
+  ], 
+  "BSCO": [
+    "Guggenheim BulletShrs 2024 Corp Bd ETF", 
+    "Corporate Bond", 
+    "Guggenheim Investments"
+  ], 
+  "DWFI": [
+    "SPDR\\u00ae Dorsey Wright Fixed Inc Allc ETF", 
+    "Long-Term Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "IDLV": [
+    "PowerShares S&P Intl Dev Low Volatil ETF", 
+    "Foreign Large Blend", 
+    "PowerShares"
+  ], 
+  "ECH": [
+    "iShares MSCI Chile Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "IDLB": [
+    "PowerShares FTSE Intl Lw Bt Eq Wgt", 
+    "Foreign Large Blend", 
+    "PowerShares"
+  ], 
+  "EUM": [
+    "ProShares Short MSCI Emerging Markets", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "EUO": [
+    "ProShares UltraShort Euro", 
+    "Trading--Miscellaneous", 
+    "ProShares"
+  ], 
+  "FMAT": [
+    "Fidelity\\u00ae MSCI Materials ETF", 
+    "Natural Resources", 
+    "Fidelity Investments"
+  ], 
+  "BBH": [
+    "VanEck Vectors Biotech ETF", 
+    "Health", 
+    "Market Vectors"
+  ], 
+  "ICVT": [
+    "iShares Convertible Bond", 
+    "Convertibles", 
+    "iShares"
+  ], 
+  "BBC": [
+    "BioShares\\u2122 Biotechnology Clinical Trials", 
+    "Health", 
+    "Bio Shares"
+  ], 
+  "CIBR": [
+    "First Trust NASDAQ Cybersecurity ETF", 
+    "Technology", 
+    "First Trust"
+  ], 
+  "YAO": [
+    "Guggenheim China All-Cap ETF", 
+    "China Region", 
+    "Guggenheim Investments"
+  ], 
+  "FPXI": [
+    "First Trust International IPO ETF", 
+    "Foreign Large Growth", 
+    "First Trust"
+  ], 
+  "BBP": [
+    "BioShares\\u2122 Biotechnology Products", 
+    "Health", 
+    "Bio Shares"
+  ], 
+  "TUZ": [
+    "PIMCO 1-3 Year US Treasury ETF", 
+    "Short Government", 
+    "Pimco"
+  ], 
+  "TVIZ": [
+    "VelocityShares Daily 2x VIX MT ETN", 
+    "Volatility", 
+    "Credit Suisse AG"
+  ], 
+  "SLYG": [
+    "SPDR\\u00ae S&P 600 Small Cap Growth ETF", 
+    "Small Growth", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "TUR": [
+    "iShares MSCI Turkey", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "DEUS": [
+    "Deutsche X-trackers Russell 1000 CmpsFtr", 
+    "Mid-Cap Blend", 
+    "Deutsche Asset Management"
+  ], 
+  "DVYA": [
+    "iShares Asia/Pacific Dividend", 
+    "Diversified Pacific/Asia", 
+    "iShares"
+  ], 
+  "VGIT": [
+    "Vanguard Intermediate-Term Govt Bd ETF", 
+    "Intermediate Government", 
+    "Vanguard"
+  ], 
+  "RDIV": [
+    "Oppenheimer Ultra Dividend Revenue ETF", 
+    "Large Value", 
+    "OppenheimerFunds"
+  ], 
+  "DVYE": [
+    "iShares Emerging Markets Dividend", 
+    "Diversified Emerging Mkts", 
+    "iShares"
+  ], 
+  "FYC": [
+    "First Trust Small Cap Gr AlphaDEX\\u00ae ETF", 
+    "Small Growth", 
+    "First Trust"
+  ], 
+  "CYB": [
+    "WisdomTree Chinese Yuan Strategy ETF", 
+    "Single Currency", 
+    "WisdomTree"
+  ], 
+  "FYT": [
+    "First Trust Small Cap Val AlphaDEX\\u00ae ETF", 
+    "Small Value", 
+    "First Trust"
+  ], 
+  "FYX": [
+    "First Trust Small Cap Core AlphaDEX\\u00ae ETF", 
+    "Small Blend", 
+    "First Trust"
+  ], 
+  "IMTB": [
+    "iShares 5-10 Year USD Bond", 
+    "Intermediate-Term Bond", 
+    "iShares"
+  ], 
+  "RJA": [
+    "ELEMENTS Rogers Intl Cmdty Agri TR ETN", 
+    "Commodities Agriculture", 
+    "ELEMENTS"
+  ], 
+  "FKO": [
+    "First Trust South Korea AlphaDEX\\u00ae ETF", 
+    "Miscellaneous Region", 
+    "First Trust"
+  ], 
+  "CWS": [
+    "AdvisorShares Focused Equity ETF", 
+    "Large Blend", 
+    "AdvisorShares"
+  ], 
+  "IMTM": [
+    "iShares Edge MSCI Intl Momentum Factor", 
+    "Foreign Large Growth", 
+    "iShares"
+  ], 
+  "CLYH": [
+    "iShares Interest Rt Hdgd 10+ Yr Crdt Bd", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "FRN": [
+    "Guggenheim Frontier Markets ETF", 
+    "Diversified Emerging Mkts", 
+    "Guggenheim Investments"
+  ], 
+  "CWI": [
+    "SPDR\\u00ae MSCI ACWI ex-US ETF", 
+    "Foreign Large Blend", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "VCR": [
+    "Vanguard Consumer Discretionary ETF", 
+    "Consumer Cyclical", 
+    "Vanguard"
+  ], 
+  "GAMR": [
+    "PureFunds\\u00ae Video Game Tech ETF", 
+    "Technology", 
+    "Pure Funds"
+  ], 
+  "SMEZ": [
+    "SPDR\\u00ae EURO STOXX Small Cap ETF", 
+    "Europe Stock", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "MILN": [
+    "Global X Millennials Thematic ETF", 
+    "Large Growth", 
+    "Global X Funds"
+  ], 
+  "CWB": [
+    "SPDR\\u00ae Blmbg Barclays Convert Secs ETF", 
+    "Convertibles", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "QGTA": [
+    "IQ Leaders GTAA Tracker ETF", 
+    "World Allocation", 
+    "IndexIQ"
+  ], 
+  "AIRR": [
+    "First Trust RBA Amer Indl RenaisTM ETF", 
+    "Industrials", 
+    "First Trust"
+  ], 
+  "DGRW": [
+    "WisdomTree US Quality Dividend Gr ETF", 
+    "Large Blend", 
+    "WisdomTree"
+  ], 
+  "DGRO": [
+    "iShares Core Dividend Growth", 
+    "Large Blend", 
+    "iShares"
+  ], 
+  "GDJJ": [
+    "ProShares Ultra Junior Miners", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "PAF": [
+    "PowerShares FTSE RAFI Asa Pac ex-Jpn ETF", 
+    "Pacific/Asia ex-Japan Stk", 
+    "PowerShares"
+  ], 
+  "DGRE": [
+    "WisdomTree Emerging Mkts Qual Div Gr ETF", 
+    "Diversified Emerging Mkts", 
+    "WisdomTree"
+  ], 
+  "PAK": [
+    "Global X MSCI Pakistan ETF", 
+    "Miscellaneous Region", 
+    "Global X Funds"
+  ], 
+  "IBLN": [
+    "Direxion iBillionaire ETF", 
+    "Large Growth", 
+    "Direxion Funds"
+  ], 
+  "FLQE": [
+    "Franklin LibertyQ Emerging Markets ETF", 
+    "Diversified Emerging Mkts", 
+    "Franklin Templeton Investments"
+  ], 
+  "FLQD": [
+    "Franklin LibertyQ Global Dividend ETF", 
+    "World Stock", 
+    "Franklin Templeton Investments"
+  ], 
+  "FLQG": [
+    "Franklin LibertyQ Global Equity ETF", 
+    "World Stock", 
+    "Franklin Templeton Investments"
+  ], 
+  "LRET": [
+    "UBS ETRACS MonPay 2xLvg MSCI US REIT ETN", 
+    "Trading--Leveraged Equity", 
+    "UBS Group AG"
+  ], 
+  "MTUM": [
+    "iShares Edge MSCI USA Momentum Factor", 
+    "Large Growth", 
+    "iShares"
+  ], 
+  "PERM": [
+    "Global X Permanent ETF", 
+    "World Allocation", 
+    "Global X Funds"
+  ], 
+  "UCIB": [
+    "UBS ETRACS BgCstMtCdy(CMCI)TtlRetETNSerB", 
+    "Commodities Broad Basket", 
+    "UBS Group AG"
+  ], 
+  "TVIX": [
+    "VelocityShares Daily 2x VIX ST ETN", 
+    "Volatility", 
+    "Credit Suisse AG"
+  ], 
+  "UXI": [
+    "ProShares Ultra Industrials", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "TUTI": [
+    "Tuttle Tactical Mgmt Multi-Strat Inc ETF", 
+    "Allocation--15% to 30% Equity", 
+    "Tuttle"
+  ], 
+  "PXLV": [
+    "PowerShares Russell Top 200 Pure Val ETF", 
+    "Large Value", 
+    "PowerShares"
+  ], 
+  "FAUS": [
+    "First Trust Australia AlphaDEX\\u00ae ETF", 
+    "Miscellaneous Region", 
+    "First Trust"
+  ], 
+  "VMBS": [
+    "Vanguard Mortgage-Backed Securities ETF", 
+    "Intermediate-Term Bond", 
+    "Vanguard"
+  ], 
+  "FCAN": [
+    "First Trust Canada AlphaDEX\\u00ae ETF", 
+    "Miscellaneous Region", 
+    "First Trust"
+  ], 
+  "TUTT": [
+    "Tuttle Tactical Management US Core ETF", 
+    "Allocation--50% to 70% Equity", 
+    "Tuttle"
+  ], 
+  "UJB": [
+    "ProShares Ultra High Yield", 
+    "Trading--Leveraged Debt", 
+    "ProShares"
+  ], 
+  "PXLG": [
+    "PowerShares Russell Top 200 Pure Gr ETF", 
+    "Large Growth", 
+    "PowerShares"
+  ], 
+  "IHY": [
+    "VanEck Vectors Intl Hi Yld Bd ETF", 
+    "World Bond", 
+    "Market Vectors"
+  ], 
+  "EELV": [
+    "PowerShares S&P Em Mkts Low Volatil ETF", 
+    "Diversified Emerging Mkts", 
+    "PowerShares"
+  ], 
+  "OIH": [
+    "VanEck Vectors Oil Services ETF", 
+    "Equity Energy", 
+    "Market Vectors"
+  ], 
+  "XIVH": [
+    "VelocityShares VIX Shrt Volatil Hdg ETN", 
+    "Volatility", 
+    "UBS"
+  ], 
+  "IHF": [
+    "iShares US Healthcare Providers", 
+    "Health", 
+    "iShares"
+  ], 
+  "IHE": [
+    "iShares US Pharmaceuticals", 
+    "Health", 
+    "iShares"
+  ], 
+  "GBF": [
+    "iShares Government/Credit Bond", 
+    "Intermediate-Term Bond", 
+    "iShares"
+  ], 
+  "DRN": [
+    "Direxion Daily Real Estate Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "CSLS": [
+    "Credit Suisse X-Links Long/Short Eq ETN", 
+    "Long-Short Equity", 
+    "Credit Suisse AG"
+  ], 
+  "BUZ": [
+    "Sprott Buzz Social Media Insights ETF", 
+    "Large Growth", 
+    "ALPS"
+  ], 
+  "TILT": [
+    "FlexShares Mstar US Mkt Factors Tilt ETF", 
+    "Mid-Cap Blend", 
+    "Flexshares Trust"
+  ], 
+  "CRDT": [
+    "WisdomTree Strategic Corporate Bond ETF", 
+    "World Bond", 
+    "WisdomTree"
+  ], 
+  "AGND": [
+    "WisdomTree Barclays US AggtBd NgtDur ETF", 
+    "Nontraditional Bond", 
+    "WisdomTree"
+  ], 
+  "CBND": [
+    "SPDR\\u00ae Blmbg Barclays Isr Scr CorpBd ETF", 
+    "Corporate Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "TYBS": [
+    "Direxion Daily 20+ Year Trs Bear 1X ETF", 
+    "Trading--Inverse Debt", 
+    "Direxion Funds"
+  ], 
+  "XRT": [
+    "SPDR\\u00ae S&P Retail ETF", 
+    "Consumer Cyclical", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "DVHL": [
+    "UBS ETRACS M Py 2xLvg Divers Hi Inc ETN", 
+    "Trading--Leveraged Equity", 
+    "UBS Group AG"
+  ], 
+  "IBDL": [
+    "iShares iBonds Dec 2020 Term Corporate", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "PSJ": [
+    "PowerShares Dynamic Software ETF", 
+    "Technology", 
+    "PowerShares"
+  ], 
+  "PSK": [
+    "SPDR\\u00ae Wells Fargo Preferred Stock ETF", 
+    "Preferred Stock", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "PSI": [
+    "PowerShares Dynamic Semiconductors ETF", 
+    "Technology", 
+    "PowerShares"
+  ], 
+  "PIN": [
+    "PowerShares India ETF", 
+    "India Equity", 
+    "PowerShares"
+  ], 
+  "PSL": [
+    "PowerShares DWA Consumer Staples Mom ETF", 
+    "Consumer Defensive", 
+    "PowerShares"
+  ], 
+  "IBDN": [
+    "iShares iBonds Dec 2022 Term Corporate", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "DXGE": [
+    "WisdomTree Germany Hedged Equity ETF", 
+    "Miscellaneous Region", 
+    "WisdomTree"
+  ], 
+  "MOO": [
+    "VanEck Vectors Agribusiness ETF", 
+    "Natural Resources", 
+    "Market Vectors"
+  ], 
+  "INP": [
+    "iPath\\u00ae MSCI India ETN", 
+    "India Equity", 
+    "Barclays Funds"
+  ], 
+  "PSR": [
+    "PowerShares Active US Real Estate ETF", 
+    "Real Estate", 
+    "PowerShares"
+  ], 
+  "PSP": [
+    "PowerShares Global Listed Private Eq ETF", 
+    "Miscellaneous Sector", 
+    "PowerShares"
+  ], 
+  "PSQ": [
+    "ProShares Short QQQ", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "PST": [
+    "ProShares UltraShort 7-10 Year Treasury", 
+    "Trading--Inverse Debt", 
+    "ProShares"
+  ], 
+  "BCM": [
+    "iPath\\u00ae Pure Beta Broad Commodity ETN", 
+    "Commodities Broad Basket", 
+    "Barclays Funds"
+  ], 
+  "TRNM": [
+    "RBS US Mid Cap Trendpilot\\u2122 ETN", 
+    "Mid-Cap Blend", 
+    "Royal Bank of Scotland NV"
+  ], 
+  "PIE": [
+    "PowerShares DWA Emerging Markets Mom ETF", 
+    "Diversified Emerging Mkts", 
+    "PowerShares"
+  ], 
+  "VRP": [
+    "PowerShares Variable Rate Preferred ETF", 
+    "Preferred Stock", 
+    "PowerShares"
+  ], 
+  "SDIV": [
+    "Global X SuperDividend\\u2122 ETF", 
+    "World Stock", 
+    "Global X Funds"
+  ], 
+  "CN": [
+    "Deutsche X-trackers MSCI All China Eq", 
+    "China Region", 
+    "Deutsche Asset Management"
+  ], 
+  "JDST": [
+    "Direxion Daily Jr Gld Mnrs Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "SRS": [
+    "ProShares UltraShort Real Estate", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "GMTB": [
+    "Columbia Core Bond ETF", 
+    "Intermediate-Term Bond", 
+    "Columbia"
+  ], 
+  "MOGLC": [
+    "Gabelli Media Mogul NextShares", 
+    "Communications", 
+    "Gabelli"
+  ], 
+  "EUFS": [
+    "Direxion Daily Eurp Fincls Bear 1X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "QQQE": [
+    "Direxion NASDAQ-100\\u00ae Equal Wtd ETF", 
+    "Large Growth", 
+    "Direxion Funds"
+  ], 
+  "EDEN": [
+    "iShares MSCI Denmark Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "EMHD": [
+    "EGShares EM Dividend High Income ETF", 
+    "Diversified Emerging Mkts", 
+    "Emerging Global Advisors"
+  ], 
+  "VNQI": [
+    "Vanguard Global ex-US Real Estate ETF", 
+    "Global Real Estate", 
+    "Vanguard"
+  ], 
+  "OILK": [
+    "ProShares K-1 Free Crude Oil Strategy", 
+    "Commodities Energy", 
+    "ProShares"
+  ], 
+  "DBUK": [
+    "Deutsche X-trackers MSCI UK Hedged Eq", 
+    "Miscellaneous Region", 
+    "Deutsche Asset Management"
+  ], 
+  "ISHG": [
+    "iShares 1-3 Year International Trs Bd", 
+    "World Bond", 
+    "iShares"
+  ], 
+  "EMHY": [
+    "iShares Emerging Markets High Yield Bond", 
+    "Emerging Markets Bond", 
+    "iShares"
+  ], 
+  "FTAG": [
+    "First Trust Indxx Global Agriculture ETF", 
+    "Commodities Agriculture", 
+    "First Trust"
+  ], 
+  "OILX": [
+    "UBS ETRACS S&P GSCI Crd OilTtl Rt ETN", 
+    "Commodities Energy", 
+    "UBS AG"
+  ], 
+  "RODI": [
+    "Barclays Return on Disability ETN", 
+    "Large Blend", 
+    "Barclays Funds"
+  ], 
+  "RODM": [
+    "Hartford Multifactor Dev Mkts (exUS) ETF", 
+    "Foreign Large Blend", 
+    "Lattice Strategies LLC"
+  ], 
+  "FHK": [
+    "First Trust Hong Kong AlphaDEX\\u00ae ETF", 
+    "China Region", 
+    "First Trust"
+  ], 
+  "CVY": [
+    "Guggenheim Multi-Asset Income ETF", 
+    "Allocation--85%+ Equity", 
+    "Guggenheim Investments"
+  ], 
+  "YLCO": [
+    "Global X YieldCo ETF", 
+    "World Stock", 
+    "Global X Funds"
+  ], 
+  "LEMB": [
+    "iShares Emerg Mkts Local Currency Bond", 
+    "Emerging-Markets Local-Currency Bond", 
+    "iShares"
+  ], 
+  "ULST": [
+    "SPDR\\u00ae SSgA Ultra Short Term Bond ETF", 
+    "Ultrashort Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "SPVU": [
+    "PowerShares S&P 500 Value", 
+    "Large Value", 
+    "PowerShares"
+  ], 
+  "PGAL": [
+    "Global X MSCI Portugal ETF", 
+    "Miscellaneous Region", 
+    "Global X Funds"
+  ], 
+  "DBIF": [
+    "Deutsche X-trackers S&P Hdgd Glbl Infras", 
+    "Infrastructure", 
+    "Deutsche Asset Management"
+  ], 
+  "QTWN": [
+    "SPDR\\u00ae MSCI Taiwan StrategicFactors ETF", 
+    "China Region", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "TWTI": [
+    "RBS Oil Trendpilot\\u2122 ETN", 
+    "Commodities Energy", 
+    "Royal Bank of Scotland NV"
+  ], 
+  "DBIT": [
+    "Deutsche X-trackers MSCI Italy Hedged Eq", 
+    "Miscellaneous Region", 
+    "Deutsche Asset Management"
+  ], 
+  "VB": [
+    "Vanguard Small-Cap ETF", 
+    "Small Blend", 
+    "Vanguard"
+  ], 
+  "SSTU.TO": [
+    "iPath\\u00ae US Treasury Steepener ETN", 
+    "Trading--Miscellaneous", 
+    "Barclays Funds"
+  ], 
+  "EMFM": [
+    "Global X Next Emerging & Frontier ETF", 
+    "Diversified Emerging Mkts", 
+    "Global X Funds"
+  ], 
+  "VO": [
+    "Vanguard Mid-Cap ETF", 
+    "Mid-Cap Blend", 
+    "Vanguard"
+  ], 
+  "VT": [
+    "Vanguard Total World Stock ETF", 
+    "World Stock", 
+    "Vanguard"
+  ], 
+  "VV": [
+    "Vanguard Large-Cap ETF", 
+    "Large Blend", 
+    "Vanguard"
+  ], 
+  "QTEC": [
+    "First Trust NASDAQ-100-Tech Sector ETF", 
+    "Technology", 
+    "First Trust"
+  ], 
+  "FXC.MX": [
+    "CurrencyShares\\u00ae Canadian Dollar ETF", 
+    "Single Currency", 
+    "Guggenheim Investments"
+  ], 
+  "RJZ": [
+    "ELEMENTS Rogers Intl Cmdty Metals TR ETN", 
+    "Commodities Industrial Metals", 
+    "ELEMENTS"
+  ], 
+  "IDOG": [
+    "ALPS International Sector Div Dogs ETF", 
+    "Foreign Large Value", 
+    "ALPS"
+  ], 
+  "CNDA": [
+    "IQ Canada Small Cap ETF", 
+    "Miscellaneous Region", 
+    "IndexIQ"
+  ], 
+  "RJN": [
+    "ELEMENTS Rogers Intl Cmdty Energy TR ETN", 
+    "Commodities Energy", 
+    "ELEMENTS"
+  ], 
+  "RJI": [
+    "ELEMENTS Rogers Intl Cmdty TR ETN", 
+    "Commodities Broad Basket", 
+    "ELEMENTS"
+  ], 
+  "CANE": [
+    "Teucrium Sugar ETF", 
+    "Commodities Agriculture", 
+    "Teucrium"
+  ], 
+  "DRR": [
+    "Market Vectors\\u00ae Double Short Euro ETN", 
+    "Trading--Miscellaneous", 
+    "Market Vectors"
+  ], 
+  "PXMV": [
+    "PowerShares Russell Midcap Pure Val ETF", 
+    "Mid-Cap Value", 
+    "PowerShares"
+  ], 
+  "DRW": [
+    "WisdomTree Global ex-US Real Estate ETF", 
+    "Global Real Estate", 
+    "WisdomTree"
+  ], 
+  "DRV": [
+    "Direxion Daily Real Estate Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "SGOL": [
+    "ETFS Physical Swiss Gold", 
+    "Commodities Precious Metals", 
+    "ETFS Swiss Gold Trust"
+  ], 
+  "PXMG": [
+    "PowerShares Russell Midcap Pure Gr ETF", 
+    "Mid-Cap Growth", 
+    "PowerShares"
+  ], 
+  "EEMX": [
+    "SPDR\\u00ae MSCI Em Mkts Fossil Fuel Free ETF", 
+    "Diversified Emerging Mkts", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "A1JTWB": [
+    "Global X Social Media ETF", 
+    "Technology", 
+    "Global X Funds"
+  ], 
+  "EEMV": [
+    "iShares Edge MSCI Min Vol Emerging Mkts", 
+    "Diversified Emerging Mkts", 
+    "iShares"
+  ], 
+  "EEMS": [
+    "iShares MSCI Emerging Markets Small-Cap", 
+    "Diversified Emerging Mkts", 
+    "iShares"
+  ], 
+  "IOO": [
+    "iShares Global 100", 
+    "World Stock", 
+    "iShares"
+  ], 
+  "SMDD": [
+    "ProShares UltraPro Short MidCap400", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "BLNG": [
+    "iPath\\u00ae Pure Beta Precious Metals ETN", 
+    "Commodities Precious Metals", 
+    "Barclays Funds"
+  ], 
+  "EEMA": [
+    "iShares MSCI Emerging Markets Asia", 
+    "Pacific/Asia ex-Japan Stk", 
+    "iShares"
+  ], 
+  "RXI": [
+    "iShares Globl Consumer Discretionary", 
+    "Consumer Cyclical", 
+    "iShares"
+  ], 
+  "RXL": [
+    "ProShares Ultra Health Care", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "WDTI": [
+    "WisdomTree Managed Futures Strategy ETF", 
+    "Managed Futures", 
+    "WisdomTree"
+  ], 
+  "RXD": [
+    "ProShares UltraShort Health Care", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "REK": [
+    "ProShares Short Real Estate", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "VIOO": [
+    "Vanguard S&P Small-Cap 600 ETF", 
+    "Small Blend", 
+    "Vanguard"
+  ], 
+  "XSW": [
+    "SPDR\\u00ae S&P Software & Services ETF", 
+    "Technology", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "VIOG": [
+    "Vanguard S&P Small-Cap 600 Growth ETF", 
+    "Small Growth", 
+    "Vanguard"
+  ], 
+  "HACV": [
+    "iShares Edge MSCI Min Vol Global Ccy Hdg", 
+    "World Stock", 
+    "iShares"
+  ], 
+  "HACW": [
+    "iShares Currency Hedged MSCI ACWI", 
+    "World Stock", 
+    "iShares"
+  ], 
+  "XSD": [
+    "SPDR\\u00ae S&P Semiconductor ETF", 
+    "Technology", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "HACK": [
+    "PureFunds ISE Cyber Security\\u2122 ETF", 
+    "Technology", 
+    "Pure Funds"
+  ], 
+  "PTM": [
+    "UBS ETRACS CMCI Lng Platinum Tot Ret ETN", 
+    "Commodities Precious Metals", 
+    "UBS Group AG"
+  ], 
+  "STPZ": [
+    "PIMCO 1-5 Year US TIPS ETF", 
+    "Inflation-Protected Bond", 
+    "Pimco"
+  ], 
+  "SCJ": [
+    "iShares MSCI Japan Small-Cap", 
+    "Japan Stock", 
+    "iShares"
+  ], 
+  "PTF": [
+    "PowerShares DWA Technology Momentum ETF", 
+    "Technology", 
+    "PowerShares"
+  ], 
+  "HDAW": [
+    "Deutsche X-trackers MSCIAWdexUSHDvYdHgEq", 
+    "Foreign Large Value", 
+    "Deutsche Asset Management"
+  ], 
+  "SCC": [
+    "ProShares UltraShort Consumer Services", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "SCZ": [
+    "iShares MSCI EAFE Small-Cap", 
+    "Foreign Small/Mid Blend", 
+    "iShares"
+  ], 
+  "AUNZ": [
+    "WisdomTree Australia & NZL Dbt ETF", 
+    "World Bond", 
+    "WisdomTree"
+  ], 
+  "GBTC": [
+    "Bitcoin Investment Trust", 
+    "Trading--Miscellaneous", 
+    "Grayscale"
+  ], 
+  "PBW": [
+    "PowerShares WilderHill Clean Energy ETF", 
+    "Miscellaneous Sector", 
+    "PowerShares"
+  ], 
+  "CAPX": [
+    "Elkhorn S&P 500 Capital Expenditures", 
+    "Large Blend", 
+    "Elkhorn"
+  ], 
+  "PBS": [
+    "PowerShares Dynamic Media ETF", 
+    "Communications", 
+    "PowerShares"
+  ], 
+  "ASDR": [
+    "VelocityShares Emerging Asia DR ETF", 
+    "Diversified Pacific/Asia", 
+    "ALPS"
+  ], 
+  "FQAL": [
+    "Fidelity\\u00ae Quality Factor ETF", 
+    "Large Blend", 
+    "Fidelity Investments"
+  ], 
+  "PBD": [
+    "PowerShares Global Clean Energy ETF", 
+    "Miscellaneous Sector", 
+    "PowerShares"
+  ], 
+  "EQLT": [
+    "Workplace Equality ETF", 
+    "Large Blend", 
+    "ALPS"
+  ], 
+  "IBCD": [
+    "iShares iBonds Mar 2020 Term Corp exFncl", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "CAPE": [
+    "Barclays ETN+ Shiller Capet", 
+    "Large Value", 
+    "Barclays Funds"
+  ], 
+  "PBJ": [
+    "PowerShares Dynamic Food & Beverage ETF", 
+    "Consumer Defensive", 
+    "PowerShares"
+  ], 
+  "MATF": [
+    "iShares Edge MSCI Multifactor Materials", 
+    "Natural Resources", 
+    "iShares"
+  ], 
+  "WOOD": [
+    "iShares Global Timber & Forestry", 
+    "Natural Resources", 
+    "iShares"
+  ], 
+  "IHDG": [
+    "WisdomTree Intl Hdgd Qual Div Gr ETF", 
+    "Foreign Large Growth", 
+    "WisdomTree"
+  ], 
+  "UWM": [
+    "ProShares Ultra Russell2000", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "AMPS": [
+    "iShares Utilities Bond", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "VOOG": [
+    "Vanguard S&P 500 Growth ETF", 
+    "Large Growth", 
+    "Vanguard"
+  ], 
+  "FENY": [
+    "Fidelity\\u00ae MSCI Energy ETF", 
+    "Equity Energy", 
+    "Fidelity Investments"
+  ], 
+  "FCVT": [
+    "First Trust SSI Strat Convert Secs ETF", 
+    "Convertibles", 
+    "First Trust"
+  ], 
+  "PRME": [
+    "First Trust Heitman Glbl Prm Rl Estt ETF", 
+    "Global Real Estate", 
+    "First Trust"
+  ], 
+  "SUB": [
+    "iShares Short-Term National Muni Bond", 
+    "Muni National Short", 
+    "iShares"
+  ], 
+  "FDTS": [
+    "First Trust DevMkts exUS SC AlphaDEX\\u00aeETF", 
+    "Foreign Small/Mid Value", 
+    "First Trust"
+  ], 
+  "DEEF": [
+    "Deutsche X-trackers FTSE Dev exUSCmpsFtr", 
+    "Foreign Large Blend", 
+    "Deutsche Asset Management"
+  ], 
+  "SLOW": [
+    "ALPS Sector Low Volatility ETF", 
+    "Large Blend", 
+    "ALPS"
+  ], 
+  "TDTT": [
+    "FlexShares iBoxx 3Yr Target Dur TIPS ETF", 
+    "Inflation-Protected Bond", 
+    "Flexshares Trust"
+  ], 
+  "PXNIX": [
+    "Pax MSCI International ESG Idx Instl", 
+    "Foreign Large Blend", 
+    "Pax World"
+  ], 
+  "SQQQ": [
+    "ProShares UltraPro Short QQQ", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "EMIF": [
+    "iShares Emerging Markets Infrastructure", 
+    "Diversified Emerging Mkts", 
+    "iShares"
+  ], 
+  "TDTF": [
+    "FlexShares iBoxx 5Yr Target Dur TIPS ETF", 
+    "Inflation-Protected Bond", 
+    "Flexshares Trust"
+  ], 
+  "QMN": [
+    "IQ Hedge Market Neutral Tracker ETF", 
+    "Market Neutral", 
+    "IndexIQ"
+  ], 
+  "GMM": [
+    "SPDR\\u00ae S&P Emerging Markets ETF", 
+    "Diversified Emerging Mkts", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "GML": [
+    "SPDR\\u00ae S&P Emerging Latin America ETF", 
+    "Latin America Stock", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "DNL": [
+    "WisdomTree Global ex-US Qual Div Gr ETF", 
+    "Foreign Large Growth", 
+    "WisdomTree"
+  ], 
+  "CORN": [
+    "Teucrium Corn ETF", 
+    "Commodities Agriculture", 
+    "Teucrium"
+  ], 
+  "ADZ": [
+    "DB Agriculture Short ETN", 
+    "Trading--Inverse Commodities", 
+    "Deutsche Bank AG"
+  ], 
+  "HUSV": [
+    "First Trust Hrzn MgdVolatil Domestic ETF", 
+    "Large Blend", 
+    "First Trust"
+  ], 
+  "EWRE": [
+    "Guggenheim S&P 500\\u00ae Eql Wght Rel Est ETF", 
+    "Real Estate", 
+    "Guggenheim Investments"
+  ], 
+  "IEFA": [
+    "iShares Core MSCI EAFE", 
+    "Foreign Large Blend", 
+    "iShares"
+  ], 
+  "CORP": [
+    "PIMCO Investment Grade Corporate Bd ETF", 
+    "Corporate Bond", 
+    "Pimco"
+  ], 
+  "ZMLP": [
+    "Direxion Zacks MLP High Income ETF", 
+    "Energy Limited Partnership", 
+    "Direxion Funds"
+  ], 
+  "HUSE": [
+    "US Market Rotation Strategy ETF", 
+    "Large Blend", 
+    "Strategy shares"
+  ], 
+  "XES": [
+    "SPDR\\u00ae S&P Oil & Gas Equipment&Svcs ETF", 
+    "Equity Energy", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "BRF": [
+    "VanEck Vectors Brazil Small-Cap ETF", 
+    "Latin America Stock", 
+    "Market Vectors"
+  ], 
+  "DJCI": [
+    "UBS ETRACS Bloomberg Cmdty Tot Ret ETN", 
+    "Commodities Broad Basket", 
+    "UBS Group AG"
+  ], 
+  "EMGF": [
+    "iShares Edge MSCI Multifactor Emerg Mkts", 
+    "Diversified Emerging Mkts", 
+    "iShares"
+  ], 
+  "RGRO": [
+    "Oppenheimer Global Growth Revenue ETF", 
+    "Foreign Large Value", 
+    "OppenheimerFunds"
+  ], 
+  "JUNE": [
+    "Dhandho Junoon ETF", 
+    "Mid-Cap Blend", 
+    "Dhandho Funds"
+  ], 
+  "TWM": [
+    "ProShares UltraShort Russell2000", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "GNMA": [
+    "iShares GNMA Bond", 
+    "Intermediate Government", 
+    "iShares"
+  ], 
+  "EFFE": [
+    "Global X | JPMorgan Efficiente ETF", 
+    "World Allocation", 
+    "Global X Funds"
+  ], 
+  "ARKK": [
+    "ARK Innovation ETF", 
+    "Technology", 
+    "ARK ETF Trust"
+  ], 
+  "ECNS": [
+    "iShares MSCI China Small-Cap", 
+    "China Region", 
+    "iShares"
+  ], 
+  "ARKG": [
+    "ARK Genomic Revolution Multi-Sector ETF", 
+    "Health", 
+    "ARK ETF Trust"
+  ], 
+  "SMCP": [
+    "AlphaMark Actively Managed Small Cap ETF", 
+    "Small Blend", 
+    "AlphaMark"
+  ], 
+  "LALT": [
+    "PowerShares Multi-Strategy Alt ETF", 
+    "Multialternative", 
+    "PowerShares"
+  ], 
+  "ARKW": [
+    "ARK Web x.0 ETF", 
+    "Technology", 
+    "ARK ETF Trust"
+  ], 
+  "ARKQ": [
+    "ARK Industrial Innovation ETF", 
+    "Technology", 
+    "ARK ETF Trust"
+  ], 
+  "ETHO": [
+    "Etho Climate Leadership US ETF", 
+    "Mid-Cap Growth", 
+    "ETHO Capital"
+  ], 
+  "FEMS": [
+    "First Trust Emerg Mkts SC AlphaDEX\\u00ae ETF", 
+    "Diversified Emerging Mkts", 
+    "First Trust"
+  ], 
+  "ESR": [
+    "iShares MSCI Emerg Mkts Eastern Eur", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "SCO": [
+    "ProShares UltraShort Bloomberg Crude Oil", 
+    "Trading--Inverse Commodities", 
+    "ProShares"
+  ], 
+  "ESG": [
+    "FlexShares STOXX US ESG Impact ETF", 
+    "Large Blend", 
+    "Flexshares Trust"
+  ], 
+  "EFAD": [
+    "ProShares MSCI EAFE Dividend Growers", 
+    "Foreign Large Blend", 
+    "ProShares"
+  ], 
+  "VSS": [
+    "Vanguard FTSE All-World ex-US Sm-Cp ETF", 
+    "Foreign Small/Mid Blend", 
+    "Vanguard"
+  ], 
+  "PTH": [
+    "PowerShares DWA Healthcare Momentum ETF", 
+    "Health", 
+    "PowerShares"
+  ], 
+  "ROUS": [
+    "Hartford Multifactor US Equity ETF", 
+    "Large Blend", 
+    "Lattice Strategies LLC"
+  ], 
+  "CPER": [
+    "United States Copper Index", 
+    "Commodities Industrial Metals", 
+    "United States Commodity Funds LLC"
+  ], 
+  "RYJ": [
+    "Guggenheim Raymond James SB-1 Equity ETF", 
+    "Mid-Cap Blend", 
+    "Guggenheim Investments"
+  ], 
+  "ICLN": [
+    "iShares Global Clean Energy", 
+    "Miscellaneous Sector", 
+    "iShares"
+  ], 
+  "RYF": [
+    "Guggenheim S&P 500\\u00ae Eq Weight Fincl ETF", 
+    "Financial", 
+    "Guggenheim Investments"
+  ], 
+  "RYE": [
+    "Guggenheim S&P 500\\u00ae Equal Wt Energy ETF", 
+    "Equity Energy", 
+    "Guggenheim Investments"
+  ], 
+  "A1JRLN": [
+    "VanEck Vectors Pharmaceutical ETF", 
+    "Health", 
+    "Market Vectors"
+  ], 
+  "RYT": [
+    "Guggenheim S&P 500\\u00ae Eq Wt Technology ETF", 
+    "Technology", 
+    "Guggenheim Investments"
+  ], 
+  "RYU": [
+    "Guggenheim S&P 500\\u00ae Eq Wt Utilities ETF", 
+    "Utilities", 
+    "Guggenheim Investments"
+  ], 
+  "DBEU": [
+    "Deutsche X-trackers MSCI Europe Hedgd Eq", 
+    "Europe Stock", 
+    "Deutsche Asset Management"
+  ], 
+  "SPUN": [
+    "VanEck Vectors Global Spin-Off ETF", 
+    "Mid-Cap Blend", 
+    "Market Vectors"
+  ], 
+  "FIW": [
+    "First Trust ISE Water ETF", 
+    "Miscellaneous Sector", 
+    "First Trust"
+  ], 
+  "724776": [
+    "iShares PHLX Semiconductor", 
+    "Technology", 
+    "iShares"
+  ], 
+  "ONEK": [
+    "SPDR\\u00ae Russell 1000 ETF", 
+    "Large Blend", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "ONEO": [
+    "SPDR\\u00ae Russell 1000 Momentum ETF", 
+    "Mid-Cap Blend", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "ONEQ": [
+    "Fidelity\\u00ae Nasdaq Composite Tr Stk ETF", 
+    "Large Growth", 
+    "Fidelity Investments"
+  ], 
+  "SPUU": [
+    "Direxion Daily S&P 500\\u00ae Bull 2X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "VAW": [
+    "Vanguard Materials ETF", 
+    "Natural Resources", 
+    "Vanguard"
+  ], 
+  "WEET": [
+    "iPath\\u00ae Pure Beta Grains ETN", 
+    "Commodities Agriculture", 
+    "Barclays Funds"
+  ], 
+  "TAPR": [
+    "Barclays Inverse US Treasury Aggt ETN", 
+    "Trading--Inverse Debt", 
+    "Barclays Funds"
+  ], 
+  "LBDC": [
+    "UBS ETRACS 2\\u00d7Lvg Lng WF\\u00ae B D Co ETN SerB", 
+    "Trading--Leveraged Equity", 
+    "UBS Group AG"
+  ], 
+  "EXT": [
+    "WisdomTree Total Earnings ETF", 
+    "Large Blend", 
+    "WisdomTree"
+  ], 
+  "ENZL": [
+    "iShares MSCI New Zealand Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "CMF": [
+    "iShares California Muni Bond", 
+    "Muni California Intermediate", 
+    "iShares"
+  ], 
+  "ASET": [
+    "FlexShares Real Assets Allocation ETF", 
+    "World Stock", 
+    "Flexshares Trust"
+  ], 
+  "ASEA": [
+    "Global X Southeast Asia ETF", 
+    "Pacific/Asia ex-Japan Stk", 
+    "Global X Funds"
+  ], 
+  "SRET": [
+    "Global X SuperDividend\\u00ae REIT ETF", 
+    "Real Estate", 
+    "Global X Funds"
+  ], 
+  "VONV": [
+    "Vanguard Russell 1000 Value ETF", 
+    "Large Value", 
+    "Vanguard"
+  ], 
+  "OUNZ": [
+    "VanEck Merk Gold Trust", 
+    "Commodities Precious Metals", 
+    "Merk Funds"
+  ], 
+  "MAUI": [
+    "AdvisorShares Mkt Adaptive Uncns Inc ETF", 
+    "Nontraditional Bond", 
+    "AdvisorShares"
+  ], 
+  "EDV": [
+    "Vanguard Extended Duration Treasury ETF", 
+    "Long Government", 
+    "Vanguard"
+  ], 
+  "VONE": [
+    "Vanguard Russell 1000 ETF", 
+    "Large Blend", 
+    "Vanguard"
+  ], 
+  "FLAT": [
+    "iPath\\u00ae US Treasury Flattener ETN", 
+    "Trading--Miscellaneous", 
+    "Barclays Funds"
+  ], 
+  "WDIV": [
+    "SPDR\\u00ae S&P Global Dividend ETF", 
+    "World Stock", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "FLAG": [
+    "WeatherStorm Forensic Accntg Lg-Shrt ETF", 
+    "Large Value", 
+    "Exchange Traded Concepts, LLC"
+  ], 
+  "GEUR": [
+    "AdvisorShares Gartman Gold/Euro ETF", 
+    "Commodities Precious Metals", 
+    "AdvisorShares"
+  ], 
+  "PBE": [
+    "PowerShares Dynamic Biotech & Genome ETF", 
+    "Health", 
+    "PowerShares"
+  ], 
+  "UHN": [
+    "United States Diesel-Heating Oil", 
+    "Commodities Energy", 
+    "United States Commodity Funds LLC"
+  ], 
+  "RWJ": [
+    "Oppenheimer Small Cap Revenue ETF", 
+    "Small Blend", 
+    "OppenheimerFunds"
+  ], 
+  "RWK": [
+    "Oppenheimer Mid Cap Revenue ETF", 
+    "Mid-Cap Value", 
+    "OppenheimerFunds"
+  ], 
+  "RWL": [
+    "Oppenheimer Large Cap Revenue ETF", 
+    "Large Value", 
+    "OppenheimerFunds"
+  ], 
+  "RWM": [
+    "ProShares Short Russell2000", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "INR": [
+    "Market Vectors\\u00ae Indian Rupee/USD ETN", 
+    "Single Currency", 
+    "Market Vectors"
+  ], 
+  "RWO": [
+    "SPDR\\u00ae Dow Jones Global Real Estate ETF", 
+    "Global Real Estate", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "RWR": [
+    "SPDR\\u00ae Dow Jones REIT ETF", 
+    "Real Estate", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "UVXY": [
+    "ProShares Ultra VIX Short-Term Futures", 
+    "Volatility", 
+    "ProShares"
+  ], 
+  "RWV": [
+    "Oppenheimer Navellier Ovrl A100 Revn ETF", 
+    "Mid-Cap Growth", 
+    "OppenheimerFunds"
+  ], 
+  "RWW": [
+    "Oppenheimer Financials Sect Revenue ETF", 
+    "Financial", 
+    "OppenheimerFunds"
+  ], 
+  "RWX": [
+    "SPDR\\u00ae Dow Jones International RelEst ETF", 
+    "Global Real Estate", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "RORE": [
+    "Hartford Multifactor REIT ETF", 
+    "Real Estate", 
+    "Lattice Strategies LLC"
+  ], 
+  "WTRX": [
+    "Summit Water Infras Multifactor ETF", 
+    "Natural Resources", 
+    "Summit Water"
+  ], 
+  "DON": [
+    "WisdomTree MidCap Dividend ETF", 
+    "Mid-Cap Value", 
+    "WisdomTree"
+  ], 
+  "DOO": [
+    "WisdomTree Intl Div ex-Fincls ETF", 
+    "Foreign Large Value", 
+    "WisdomTree"
+  ], 
+  "DOL": [
+    "WisdomTree International LargeCp Div ETF", 
+    "Foreign Large Value", 
+    "WisdomTree"
+  ], 
+  "IQDF": [
+    "FlexShares Intl Qual Div ETF", 
+    "Foreign Large Value", 
+    "Flexshares Trust"
+  ], 
+  "IQDG": [
+    "WisdomTree International Qual Div Gr ETF", 
+    "Foreign Large Growth", 
+    "WisdomTree"
+  ], 
+  "DOD": [
+    "ELEMENTS Dogs of Dow DJ HY Sel 10 TR ETN", 
+    "Large Value", 
+    "ELEMENTS"
+  ], 
+  "IQDE": [
+    "FlexShares Intl Qual Div Defensv ETF", 
+    "Foreign Large Value", 
+    "Flexshares Trust"
+  ], 
+  "GVAL": [
+    "Cambria Global Value ETF", 
+    "Foreign Small/Mid Value", 
+    "CAMBRIA ETF TRUST"
+  ], 
+  "IQDY": [
+    "FlexShares Intl Qual Div Dynamic ETF", 
+    "Foreign Large Value", 
+    "Flexshares Trust"
+  ], 
+  "EWSC": [
+    "Guggenheim S&P SmallCap 600\\u00ae Eql Wt ETF", 
+    "Small Blend", 
+    "Guggenheim Investments"
+  ], 
+  "IBCE": [
+    "iShares iBonds Mar 2023 Term Corp exFncl", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "SCHV": [
+    "Schwab US Large-Cap Value ETF\\u2122", 
+    "Large Value", 
+    "Schwab ETFs"
+  ], 
+  "SCHR": [
+    "Schwab Intermediate-Term US Trs ETF\\u2122", 
+    "Intermediate Government", 
+    "Schwab ETFs"
+  ], 
+  "VIXY": [
+    "ProShares VIX Short-Term Futures", 
+    "Volatility", 
+    "ProShares"
+  ], 
+  "SCHP": [
+    "Schwab US TIPS ETF\\u2122", 
+    "Inflation-Protected Bond", 
+    "Schwab ETFs"
+  ], 
+  "BSV": [
+    "Vanguard Short-Term Bond ETF", 
+    "Short-Term Bond", 
+    "Vanguard"
+  ], 
+  "SCHZ": [
+    "Schwab US Aggregate Bond ETF\\u2122", 
+    "Intermediate-Term Bond", 
+    "Schwab ETFs"
+  ], 
+  "SCHX": [
+    "Schwab US Large-Cap ETF\\u2122", 
+    "Large Blend", 
+    "Schwab ETFs"
+  ], 
+  "SCHF": [
+    "Schwab International Equity ETF\\u2122", 
+    "Foreign Large Blend", 
+    "Schwab ETFs"
+  ], 
+  "SCHG": [
+    "Schwab US Large-Cap Growth ETF\\u2122", 
+    "Large Growth", 
+    "Schwab ETFs"
+  ], 
+  "SCHD": [
+    "Schwab US Dividend Equity ETF\\u2122", 
+    "Large Value", 
+    "Schwab ETFs"
+  ], 
+  "SCHE": [
+    "Schwab Emerging Markets Equity ETF\\u2122", 
+    "Diversified Emerging Mkts", 
+    "Schwab ETFs"
+  ], 
+  "SCHB": [
+    "Schwab US Broad Market ETF\\u2122", 
+    "Large Blend", 
+    "Schwab ETFs"
+  ], 
+  "SCHC": [
+    "Schwab International Small-Cap Eq ETF\\u2122", 
+    "Foreign Small/Mid Blend", 
+    "Schwab ETFs"
+  ], 
+  "SCHA": [
+    "Schwab US Small-Cap ETF\\u2122", 
+    "Small Blend", 
+    "Schwab ETFs"
+  ], 
+  "SCHO": [
+    "Schwab Short-Term US Treasury ETF\\u2122", 
+    "Short Government", 
+    "Schwab ETFs"
+  ], 
+  "SIZE": [
+    "iShares Edge MSCI USA Size Factor", 
+    "Large Blend", 
+    "iShares"
+  ], 
+  "SCHH": [
+    "Schwab US REIT ETF\\u2122", 
+    "Real Estate", 
+    "Schwab ETFs"
+  ], 
+  "DDBI": [
+    "Legg Mason Dev ex-US Divers Cor ETF", 
+    "Foreign Large Blend", 
+    "Legg Mason"
+  ], 
+  "JPGE": [
+    "JPMorgan Diversified Return Glbl Eq ETF", 
+    "World Stock", 
+    "JPMorgan"
+  ], 
+  "HDG": [
+    "ProShares Hedge Replication", 
+    "Multialternative", 
+    "ProShares"
+  ], 
+  "HCRF": [
+    "iShares Edge MSCI Multifactor Healthcare", 
+    "Health", 
+    "iShares"
+  ], 
+  "XTN": [
+    "SPDR\\u00ae S&P Transportation ETF", 
+    "Industrials", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "XTL": [
+    "SPDR\\u00ae S&P Telecom ETF", 
+    "Communications", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "XTH": [
+    "SPDR\\u00ae S&P Technology Hardware ETF", 
+    "Technology", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "SBV": [
+    "iPath\\u00ae Pure Beta S&P GSCI\\u00ae-Weighted ETN", 
+    "Commodities Broad Basket", 
+    "Barclays Funds"
+  ], 
+  "PUI": [
+    "PowerShares DWA Utilities Momentum ETF", 
+    "Utilities", 
+    "PowerShares"
+  ], 
+  "JJU": [
+    "iPath\\u00ae Bloomberg Aluminum SubTR ETN", 
+    "Commodities Industrial Metals", 
+    "Barclays Funds"
+  ], 
+  "JJT": [
+    "iPath\\u00ae Bloomberg Tin SubTR ETN", 
+    "Commodities Industrial Metals", 
+    "Barclays Funds"
+  ], 
+  "JJS": [
+    "iPath\\u00ae Bloomberg Softs SubTR ETN", 
+    "Commodities Agriculture", 
+    "Barclays Funds"
+  ], 
+  "SBB": [
+    "ProShares Short SmallCap600", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "JJN": [
+    "iPath\\u00ae Bloomberg Nickel SubTR ETN", 
+    "Commodities Industrial Metals", 
+    "Barclays Funds"
+  ], 
+  "JJM": [
+    "iPath\\u00ae Bloomberg Ind Metals SubTR ETN", 
+    "Commodities Industrial Metals", 
+    "Barclays Funds"
+  ], 
+  "JJG": [
+    "iPath\\u00ae Bloomberg Grains SubTR ETN", 
+    "Commodities Agriculture", 
+    "Barclays Funds"
+  ], 
+  "JJE": [
+    "iPath\\u00ae Bloomberg Energy SubTR ETN", 
+    "Commodities Energy", 
+    "Barclays Funds"
+  ], 
+  "PUW": [
+    "PowerShares WilderHill Prog Engy ETF", 
+    "Miscellaneous Sector", 
+    "PowerShares"
+  ], 
+  "JJC": [
+    "iPath\\u00ae Bloomberg Copper SubTR ETN", 
+    "Commodities Industrial Metals", 
+    "Barclays Funds"
+  ], 
+  "JJA": [
+    "iPath\\u00ae Bloomberg Agriculture SubTR ETN", 
+    "Commodities Agriculture", 
+    "Barclays Funds"
+  ], 
+  "SBM": [
+    "ProShares Short Basic Materials", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "XHB": [
+    "SPDR\\u00ae S&P Homebuilders ETF", 
+    "Consumer Cyclical", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "KOL": [
+    "VanEck Vectors Coal ETF", 
+    "Miscellaneous Sector", 
+    "Market Vectors"
+  ], 
+  "XHE": [
+    "SPDR\\u00ae S&P Health Care Equipment ETF", 
+    "Health", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "SJNK": [
+    "SPDR\\u00ae Blmbg BarclaysST HY Bd ETF", 
+    "High Yield Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "ERX": [
+    "Direxion Daily Energy Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "ERY": [
+    "Direxion Daily Energy Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "XHS": [
+    "SPDR\\u00ae S&P Health Care Services ETF", 
+    "Health", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "IOIL": [
+    "IQ Global Oil Small Cap ETF", 
+    "Equity Energy", 
+    "IndexIQ"
+  ], 
+  "BAL": [
+    "iPath\\u00ae Bloomberg Cotton SubTR ETN", 
+    "Commodities Agriculture", 
+    "Barclays Funds"
+  ], 
+  "KOR": [
+    "AdvisorShares KIM Korea Equity ETF", 
+    "Miscellaneous Region", 
+    "AdvisorShares"
+  ], 
+  "VPU": [
+    "Vanguard Utilities ETF", 
+    "Utilities", 
+    "Vanguard"
+  ], 
+  "TOTL": [
+    "SPDR\\u00ae DoubleLine Total Return Tact ETF", 
+    "Intermediate-Term Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "SPFF": [
+    "Global X SuperIncome\\u2122 Preferred ETF", 
+    "Preferred Stock", 
+    "Global X Funds"
+  ], 
+  "JSML": [
+    "Janus Small Cap Growth Alpha ETF", 
+    "Small Growth", 
+    "Janus"
+  ], 
+  "VPL": [
+    "Vanguard FTSE Pacific ETF", 
+    "Diversified Pacific/Asia", 
+    "Vanguard"
+  ], 
+  "FBND": [
+    "Fidelity Total Bond ETF", 
+    "Intermediate-Term Bond", 
+    "Fidelity Investments"
+  ], 
+  "LNGR": [
+    "Global X Longevity Thematic ETF", 
+    "Health", 
+    "Global X Funds"
+  ], 
+  "JSMD": [
+    "Janus Small/Mid Cap Growth Alpha ETF", 
+    "Mid-Cap Growth", 
+    "Janus"
+  ], 
+  "HYGH": [
+    "iShares Interest Rate Hedged High Yld Bd", 
+    "High Yield Bond", 
+    "iShares"
+  ], 
+  "HFXE": [
+    "IQ 50 Percent Hedged FTSE Europe ETF", 
+    "Europe Stock", 
+    "IndexIQ"
+  ], 
+  "HFXJ": [
+    "IQ 50 Percent Hedged FTSE Japan ETF", 
+    "Japan Stock", 
+    "IndexIQ"
+  ], 
+  "HFXI": [
+    "IQ 50 Percent Hedged FTSE Intl ETF", 
+    "Foreign Large Blend", 
+    "IndexIQ"
+  ], 
+  "JXI": [
+    "iShares Global Utilities", 
+    "Utilities", 
+    "iShares"
+  ], 
+  "TFI": [
+    "SPDR\\u00ae Nuveen Blmbg Barclays Muni Bd ETF", 
+    "Muni National Long", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "XCEM": [
+    "Columbia EM Core ex-China ETF", 
+    "Diversified Emerging Mkts", 
+    "Columbia"
+  ], 
+  "GENY": [
+    "Principal Millennials ETF", 
+    "World Stock", 
+    "Principal Funds"
+  ], 
+  "EWEM": [
+    "Guggenheim MSCI Em Mkts Eql Cntry Wt ETF", 
+    "Diversified Emerging Mkts", 
+    "Guggenheim Investments"
+  ], 
+  "FTGC": [
+    "First Trust Global Tact Cmdty Strat ETF", 
+    "Commodities Broad Basket", 
+    "First Trust"
+  ], 
+  "QLD": [
+    "ProShares Ultra QQQ", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "IEUR": [
+    "iShares Core MSCI Europe", 
+    "Europe Stock", 
+    "iShares"
+  ], 
+  "VFH": [
+    "Vanguard Financials ETF", 
+    "Financial", 
+    "Vanguard"
+  ], 
+  "ECON": [
+    "Columbia Emerging Markets Consumer ETF", 
+    "Diversified Emerging Mkts", 
+    "Columbia"
+  ], 
+  "FNY": [
+    "First Trust Mid Cap Growth AlphaDEX\\u00ae ETF", 
+    "Mid-Cap Growth", 
+    "First Trust"
+  ], 
+  "FNX": [
+    "First Trust Mid Cap Core AlphaDEX\\u00ae ETF", 
+    "Mid-Cap Blend", 
+    "First Trust"
+  ], 
+  "LIT": [
+    "Global X Lithium ETF", 
+    "Natural Resources", 
+    "Global X Funds"
+  ], 
+  "FNK": [
+    "First Trust Mid Cap Value AlphaDEX\\u00ae ETF", 
+    "Small Value", 
+    "First Trust"
+  ], 
+  "INDA": [
+    "iShares MSCI India", 
+    "India Equity", 
+    "iShares"
+  ], 
+  "FNI": [
+    "First Trust ISE Chindia ETF", 
+    "Miscellaneous Region", 
+    "First Trust"
+  ], 
+  "FILL": [
+    "iShares MSCI Global Energy Producers", 
+    "Equity Energy", 
+    "iShares"
+  ], 
+  "JHMH": [
+    "JHancock Multifactor Health Care ETF", 
+    "Health", 
+    "John Hancock"
+  ], 
+  "SBIO": [
+    "ALPS Medical Breakthroughs ETF", 
+    "Health", 
+    "ALPS"
+  ], 
+  "JHMM": [
+    "JHancock Multifactor Mid Cap ETF", 
+    "Mid-Cap Blend", 
+    "John Hancock"
+  ], 
+  "JHML": [
+    "JHancock Multifactor Large Cap ETF", 
+    "Large Blend", 
+    "John Hancock"
+  ], 
+  "IUSG": [
+    "iShares Core Russell US Growth", 
+    "Large Growth", 
+    "iShares"
+  ], 
+  "JHMC": [
+    "JHancock Multifactor Cnsmr Discret ETF", 
+    "Consumer Cyclical", 
+    "John Hancock"
+  ], 
+  "IUSB": [
+    "iShares Core Total USD Bond Market", 
+    "Intermediate-Term Bond", 
+    "iShares"
+  ], 
+  "JHMF": [
+    "JHancock Multifactor Financials ETF", 
+    "Financial", 
+    "John Hancock"
+  ], 
+  "IUSV": [
+    "iShares Core Russell US Value", 
+    "Large Value", 
+    "iShares"
+  ], 
+  "JHMT": [
+    "JHancock Multifactor Technology ETF", 
+    "Technology", 
+    "John Hancock"
+  ], 
+  "EMDD": [
+    "Columbia EM Strategic Opportunities ETF", 
+    "Diversified Emerging Mkts", 
+    "Columbia"
+  ], 
+  "EMDI": [
+    "iShares MSCI Emerging Mkts Cnsmr Discret", 
+    "Diversified Emerging Mkts", 
+    "iShares"
+  ], 
+  "KOLD": [
+    "ProShares UltraShort Bloomberg Natrl Gas", 
+    "Trading--Inverse Commodities", 
+    "ProShares"
+  ], 
+  "EMDV": [
+    "ProShares MSCI Emerg Mkts Div Growers", 
+    "Diversified Emerging Mkts", 
+    "ProShares"
+  ], 
+  "SVXY": [
+    "ProShares Short VIX Short-Term Futures", 
+    "Volatility", 
+    "ProShares"
+  ], 
+  "RHS": [
+    "Guggenheim S&P 500\\u00ae Eq Wt Cons Stapl ETF", 
+    "Consumer Defensive", 
+    "Guggenheim Investments"
+  ], 
+  "FVAL": [
+    "Fidelity\\u00ae Value Factor ETF", 
+    "Large Value", 
+    "Fidelity Investments"
+  ], 
+  "IVAL": [
+    "ValueShares International Quant Val ETF", 
+    "Foreign Large Value", 
+    "Alpha Architect"
+  ], 
+  "QJPN": [
+    "SPDR\\u00ae MSCI Japan StrategicFactors ETF", 
+    "Japan Stock", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "FCFI": [
+    "TrimTabs Intl Free-Cash-Flow ETF", 
+    "Foreign Large Value", 
+    "TrimTabs"
+  ], 
+  "QAUS": [
+    "SPDR\\u00ae MSCI Australia StrategicFactorsETF", 
+    "Miscellaneous Region", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "RINF": [
+    "ProShares Inflation Expectations", 
+    "Trading--Miscellaneous", 
+    "ProShares"
+  ], 
+  "UGL": [
+    "ProShares Ultra Gold", 
+    "Trading--Leveraged Commodities", 
+    "ProShares"
+  ], 
+  "RTM": [
+    "Guggenheim S&P 500\\u00ae Eq Wt Materials ETF", 
+    "Natural Resources", 
+    "Guggenheim Investments"
+  ], 
+  "UGA": [
+    "United States Gasoline", 
+    "Commodities Energy", 
+    "United States Commodity Funds LLC"
+  ], 
+  "RTH": [
+    "VanEck Vectors Retail ETF", 
+    "Consumer Cyclical", 
+    "Market Vectors"
+  ], 
+  "PLND": [
+    "VanEck Vectors Poland ETF", 
+    "Miscellaneous Region", 
+    "Market Vectors"
+  ], 
+  "SNSR": [
+    "Global X Internet of Things Thematic ETF", 
+    "Technology", 
+    "Global X Funds"
+  ], 
+  "RTR": [
+    "Oppenheimer ADR Revenue ETF", 
+    "Foreign Large Value", 
+    "OppenheimerFunds"
+  ], 
+  "RFV": [
+    "Guggenheim S&P MidCap 400\\u00ae Pure Val ETF", 
+    "Small Value", 
+    "Guggenheim Investments"
+  ], 
+  "RFG": [
+    "Guggenheim S&P MidCap 400\\u00ae Pure Gr ETF", 
+    "Mid-Cap Growth", 
+    "Guggenheim Investments"
+  ], 
+  "HEMV": [
+    "iShares Edge MSCI Min Vol EM Ccy Hdg", 
+    "Diversified Emerging Mkts", 
+    "iShares"
+  ], 
+  "RZV": [
+    "Guggenheim S&P SmallCap 600\\u00ae PureVal ETF", 
+    "Small Value", 
+    "Guggenheim Investments"
+  ], 
+  "RALS": [
+    "ProShares RAFI\\u00ae Long/Short", 
+    "Market Neutral", 
+    "ProShares"
+  ], 
+  "MMTM": [
+    "SPDR\\u00ae S&P 1500 Momentum Tilt ETF", 
+    "Large Blend", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "CZA": [
+    "Guggenheim Mid-Cap Core ETF", 
+    "Mid-Cap Blend", 
+    "Guggenheim Investments"
+  ], 
+  "FXH": [
+    "First Trust Health Care AlphaDEX\\u00ae ETF", 
+    "Health", 
+    "First Trust"
+  ], 
+  "IST": [
+    "SPDR\\u00ae S&P International TelecomsSect ETF", 
+    "Communications", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "CQQQ": [
+    "Guggenheim China Technology ETF", 
+    "China Region", 
+    "Guggenheim Investments"
+  ], 
+  "JKL": [
+    "iShares Morningstar Small-Cap Value", 
+    "Small Value", 
+    "iShares"
+  ], 
+  "SEF": [
+    "ProShares Short Financials", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "ENOR": [
+    "iShares MSCI Norway Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "JKH": [
+    "iShares Morningstar Mid-Cap Growth", 
+    "Mid-Cap Growth", 
+    "iShares"
+  ], 
+  "JKJ": [
+    "iShares Morningstar Small-Cap", 
+    "Small Blend", 
+    "iShares"
+  ], 
+  "JKK": [
+    "iShares Morningstar Small-Cap Growth", 
+    "Small Growth", 
+    "iShares"
+  ], 
+  "JKD": [
+    "iShares Morningstar Large-Cap", 
+    "Large Blend", 
+    "iShares"
+  ], 
+  "JKE": [
+    "iShares Morningstar Large-Cap Growth", 
+    "Large Growth", 
+    "iShares"
+  ], 
+  "JKF": [
+    "iShares Morningstar Large-Cap Value", 
+    "Large Value", 
+    "iShares"
+  ], 
+  "JKG": [
+    "iShares Morningstar Mid-Cap", 
+    "Mid-Cap Blend", 
+    "iShares"
+  ], 
+  "CARZ": [
+    "First Trust NASDAQ Global Auto ETF", 
+    "Consumer Cyclical", 
+    "First Trust"
+  ], 
+  "HFEZ": [
+    "SPDR\\u00ae EURO STOXX 50 Currency Hedged ETF", 
+    "Europe Stock", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "HTUS": [
+    "Hull Tactical US ETF", 
+    "Long-Short Equity", 
+    "Exchange Traded Concepts Trust"
+  ], 
+  "FRI": [
+    "First Trust S&P REIT ETF", 
+    "Real Estate", 
+    "First Trust"
+  ], 
+  "DVYL": [
+    "UBS ETRACS Mthly Py 2xLvg DJ Sel Div ETN", 
+    "Trading--Leveraged Equity", 
+    "UBS Group AG"
+  ], 
+  "PDP": [
+    "PowerShares DWA Momentum ETF", 
+    "Mid-Cap Growth", 
+    "PowerShares"
+  ], 
+  "PDN": [
+    "PowerShares FTSE RAFI DvMkt exUS S/M ETF", 
+    "Foreign Small/Mid Value", 
+    "PowerShares"
+  ], 
+  "CLY": [
+    "iShares 10+ Year Credit Bond", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "DTUL": [
+    "iPath\\u00ae US Treasury 2-year Bull ETN", 
+    "Trading--Leveraged Debt", 
+    "Barclays Funds"
+  ], 
+  "CXSE": [
+    "WisdomTree China ex-State-Owd Entpr ETF", 
+    "China Region", 
+    "WisdomTree"
+  ], 
+  "VMIN": [
+    "Rex VolMaxx\\u2122 Invrs VIX Wkly FutsStratETF", 
+    "Volatility", 
+    "VolMAXX"
+  ], 
+  "FLTB": [
+    "Fidelity Limited Term Bond ETF", 
+    "Short-Term Bond", 
+    "Fidelity Investments"
+  ], 
+  "UUP": [
+    "PowerShares DB US Dollar Bullish ETF", 
+    "Multicurrency", 
+    "PowerShares DB"
+  ], 
+  "RUDR": [
+    "VelocityShares Russia Select DR ETF", 
+    "Miscellaneous Region", 
+    "ALPS"
+  ], 
+  "COBO": [
+    "ProShares USD Covered Bond", 
+    "World Bond", 
+    "ProShares"
+  ], 
+  "FLTR": [
+    "VanEck Vectors Investment Grd Fl Rt ETF", 
+    "Ultrashort Bond", 
+    "Market Vectors"
+  ], 
+  "EUFX": [
+    "ProShares Short Euro", 
+    "Trading--Miscellaneous", 
+    "ProShares"
+  ], 
+  "DI": [
+    "PIMCO Diversified Income Active ETF", 
+    "World Bond", 
+    "Pimco"
+  ], 
+  "HREX": [
+    "SPDR\\u00ae MSCI Intl Rl Estt Ccy Hdgd ETF", 
+    "Global Real Estate", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "KLEM": [
+    "Gavekal Knowledge Leaders Emerg Mkts ETF", 
+    "Diversified Emerging Mkts", 
+    "GaveKal"
+  ], 
+  "EUFL": [
+    "Direxion Daily Eurp Fincls Bull 2X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "EUFN": [
+    "iShares MSCI Europe Financials", 
+    "Financial", 
+    "iShares"
+  ], 
+  "AMJL": [
+    "Credit Suisse X-Links MP2xLvgAlrnMLP ETN", 
+    "Trading--Leveraged Equity", 
+    "Credit Suisse AG"
+  ], 
+  "BOTZ": [
+    "Global X Robtcs&Artfcl Intllgnc Thtc ETF", 
+    "Miscellaneous Sector", 
+    "Global X Funds"
+  ], 
+  "GGOV": [
+    "ProShares German Sovereign/Sub-Sovereign", 
+    "World Bond", 
+    "ProShares"
+  ], 
+  "NANR": [
+    "SPDR S&P\\u00ae North American Natural Res ETF", 
+    "Natural Resources", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "DNO": [
+    "United States Short Oil", 
+    "Trading--Inverse Commodities", 
+    "United States Commodity Funds LLC"
+  ], 
+  "INTF": [
+    "iShares Edge MSCI Multifactor Intl", 
+    "Foreign Large Blend", 
+    "iShares"
+  ], 
+  "MLN": [
+    "VanEck Vectors AMT-Free Long Muni ETF", 
+    "Muni National Long", 
+    "Market Vectors"
+  ], 
+  "MUNI": [
+    "PIMCO Intermediate Municipal Bd Actv ETF", 
+    "Muni National Interm", 
+    "Pimco"
+  ], 
+  "COPX": [
+    "Global X Copper Miners ETF", 
+    "Natural Resources", 
+    "Global X Funds"
+  ], 
+  "DHS": [
+    "WisdomTree High Dividend ETF", 
+    "Large Value", 
+    "WisdomTree"
+  ], 
+  "BTEC": [
+    "Principal Healthcare Innovators ETF", 
+    "Health", 
+    "Principal Funds"
+  ], 
+  "AADR": [
+    "AdvisorShares Dorsey Wright ADR ETF", 
+    "Foreign Large Growth", 
+    "AdvisorShares"
+  ], 
+  "UDN": [
+    "PowerShares DB US Dollar Bearish ETF", 
+    "Multicurrency", 
+    "PowerShares DB"
+  ], 
+  "SCID": [
+    "Global X Scientific Beta Europe ETF", 
+    "Europe Stock", 
+    "Global X Funds"
+  ], 
+  "SCIF": [
+    "VanEck Vectors India Small-Cap ETF", 
+    "India Equity", 
+    "Market Vectors"
+  ], 
+  "SCIJ": [
+    "Global X Scientific Beta Japan ETF", 
+    "Japan Stock", 
+    "Global X Funds"
+  ], 
+  "SCIN": [
+    "Columbia India Small Cap ETF", 
+    "India Equity", 
+    "Columbia"
+  ], 
+  "QAT": [
+    "iShares MSCI Qatar Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "EMEY": [
+    "iShares MSCI Emerging Mkts Energy Capped", 
+    "Diversified Emerging Mkts", 
+    "iShares"
+  ], 
+  "EWHS": [
+    "iShares MSCI Hong Kong Small-Cap", 
+    "China Region", 
+    "iShares"
+  ], 
+  "QAI": [
+    "IQ Hedge Multi-Strategy Tracker ETF", 
+    "Multialternative", 
+    "IndexIQ"
+  ], 
+  "IDHQ": [
+    "PowerShares S&P Intl Dev Quality ETF", 
+    "Foreign Small/Mid Value", 
+    "PowerShares"
+  ], 
+  "VEGA": [
+    "AdvisorShares STAR Global Buy-Write ETF", 
+    "Option Writing", 
+    "AdvisorShares"
+  ], 
+  "VEGI": [
+    "iShares MSCI Glbl Agriculture Producers", 
+    "Natural Resources", 
+    "iShares"
+  ], 
+  "HAO": [
+    "Guggenheim China Small Cap ETF", 
+    "China Region", 
+    "Guggenheim Investments"
+  ], 
+  "RISE": [
+    "Sit Rising Rate ETF", 
+    "Nontraditional Bond", 
+    "RISE"
+  ], 
+  "GYLD": [
+    "Arrow Dow Jones Global Yield ETF", 
+    "World Allocation", 
+    "ArrowShares"
+  ], 
+  "BNO": [
+    "United States Brent Oil", 
+    "Commodities Energy", 
+    "United States Commodity Funds LLC"
+  ], 
+  "EQL": [
+    "ALPS Equal Sector Weight ETF", 
+    "Large Blend", 
+    "ALPS"
+  ], 
+  "XIV": [
+    "VelocityShares Daily Inverse VIX ST ETN", 
+    "Volatility", 
+    "Credit Suisse AG"
+  ], 
+  "QCAN": [
+    "SPDR\\u00ae MSCI Canada StrategicFactors ETF", 
+    "Miscellaneous Region", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "HAP": [
+    "VanEck Vectors Natural Resources ETF", 
+    "Natural Resources", 
+    "Market Vectors"
+  ], 
+  "BND": [
+    "Vanguard Total Bond Market ETF", 
+    "Intermediate-Term Bond", 
+    "Vanguard"
+  ], 
+  "SYG": [
+    "SPDR\\u00ae MFS Systematic Growth Equity ETF", 
+    "Large Growth", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "SYE": [
+    "SPDR\\u00ae MFS Systematic Core Equity ETF", 
+    "Large Value", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "VQT": [
+    "Barclays ETN+ S&P VEQTOR\\u2122", 
+    "Long-Short Equity", 
+    "Barclays Funds"
+  ], 
+  "CEMB": [
+    "iShares Emerging Markets Corporate Bond", 
+    "Emerging Markets Bond", 
+    "iShares"
+  ], 
+  "EMB": [
+    "iShares JPMorgan USD Emerg Markets Bond", 
+    "Emerging Markets Bond", 
+    "iShares"
+  ], 
+  "ZBIO": [
+    "ProShares UltraPro Short Nasdaq Biotech", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "CNSF": [
+    "iShares Edge MSCI Mltfctr Cnsmr Stpls", 
+    "Consumer Defensive", 
+    "iShares"
+  ], 
+  "KCNY": [
+    "KraneShares E China Comrcl Paper ETF", 
+    "Emerging-Markets Local-Currency Bond", 
+    "KraneShares"
+  ], 
+  "RGI": [
+    "Guggenheim S&P 500\\u00ae Eq Wt Indls ETF", 
+    "Industrials", 
+    "Guggenheim Investments"
+  ], 
+  "HHDG": [
+    "Highland HFR Equity Hedge ETF", 
+    "Long/Short Equity", 
+    "Highland Funds"
+  ], 
+  "SPYB": [
+    "SPDR\\u00ae S&P 500 Buyback ETF", 
+    "Large Blend", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "SPYG": [
+    "SPDR\\u00ae S&P 500 Growth ETF", 
+    "Large Growth", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "IVFGC": [
+    "Ivy Focused Growth NextShares\\u2122", 
+    "Large Growth", 
+    "Ivy Funds"
+  ], 
+  "ROOF": [
+    "IQ US Real Estate Small Cap ETF", 
+    "Real Estate", 
+    "IndexIQ"
+  ], 
+  "SPYV": [
+    "SPDR\\u00ae S&P 500 Value ETF", 
+    "Large Value", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "SPYX": [
+    "SPDR\\u00ae S&P 500 Fossil Fuel Rsrv Free ETF", 
+    "Large Blend", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "HVPW": [
+    "US Equity High Volatility Put Write ETF", 
+    "Long-Short Equity", 
+    "ALPS"
+  ], 
+  "STIP": [
+    "iShares 0-5 Year TIPS Bond", 
+    "Inflation-Protected Bond", 
+    "iShares"
+  ], 
+  "VGK": [
+    "Vanguard FTSE Europe ETF", 
+    "Europe Stock", 
+    "Vanguard"
+  ], 
+  "IFLY": [
+    "PureFunds\\u00ae Drone Economy Strategy ETF", 
+    "World Stock", 
+    "Pure Funds"
+  ], 
+  "RIGS": [
+    "RiverFront Strategic Income ETF", 
+    "World Bond", 
+    "ALPS"
+  ], 
+  "VGT": [
+    "Vanguard Information Technology ETF", 
+    "Technology", 
+    "Vanguard"
+  ], 
+  "GULF": [
+    "WisdomTree Middle East Dividend ETF", 
+    "Miscellaneous Region", 
+    "WisdomTree"
+  ], 
+  "ILF": [
+    "iShares Latin America 40", 
+    "Latin America Stock", 
+    "iShares"
+  ], 
+  "CHIX": [
+    "Global X China Financials ETF", 
+    "China Region", 
+    "Global X Funds"
+  ], 
+  "ILB": [
+    "PIMCO Global Advtg Infl-Lkd Bd Actv ETF", 
+    "World Bond", 
+    "Pimco"
+  ], 
+  "PEY": [
+    "PowerShares High Yld Eq Div Achiev\\u2122 ETF", 
+    "Mid-Cap Value", 
+    "PowerShares"
+  ], 
+  "PEZ": [
+    "PowerShares DWA Cnsmr Cyclicals Mom ETF", 
+    "Consumer Cyclical", 
+    "PowerShares"
+  ], 
+  "CHIQ": [
+    "Global X China Consumer ETF", 
+    "China Region", 
+    "Global X Funds"
+  ], 
+  "CHII": [
+    "Global X China Industrials ETF", 
+    "China Region", 
+    "Global X Funds"
+  ], 
+  "PEK": [
+    "VanEck Vectors ChinaAMC CSI 300 ETF", 
+    "China Region", 
+    "Market Vectors"
+  ], 
+  "FSZ": [
+    "First Trust Switzerland AlphaDEX\\u00ae ETF", 
+    "Miscellaneous Region", 
+    "First Trust"
+  ], 
+  "CHIE": [
+    "Global X China Energy ETF", 
+    "China Region", 
+    "Global X Funds"
+  ], 
+  "SNLN": [
+    "Highland/iBoxx Senior Loan ETF", 
+    "Bank Loan", 
+    "Highland Funds"
+  ], 
+  "COMT": [
+    "iShares Commodities Select Strategy", 
+    "Commodities Broad Basket", 
+    "iShares"
+  ], 
+  "FLGE": [
+    "Credit Suisse FI Large Cap Gr Enh ETN", 
+    "Large Growth", 
+    "Credit Suisse AG"
+  ], 
+  "MRGR": [
+    "ProShares Merger", 
+    "Market Neutral", 
+    "ProShares"
+  ], 
+  "FCEF": [
+    "First Trust CEF Income Opportunity ETF", 
+    "Allocation--50% to 70% Equity", 
+    "First Trust"
+  ], 
+  "GYEN": [
+    "AdvisorShares Gartman Gold/Yen ETF", 
+    "Commodities Precious Metals", 
+    "AdvisorShares"
+  ], 
+  "OEW": [
+    "Guggenheim S&P 100\\u00ae Equal Weight ETF", 
+    "Large Blend", 
+    "Guggenheim Investments"
+  ], 
+  "HEZU": [
+    "iShares Currency Hedged MSCI Eurozone", 
+    "Europe Stock", 
+    "iShares"
+  ], 
+  "OEF": [
+    "iShares S&P 100", 
+    "Large Blend", 
+    "iShares"
+  ], 
+  "GNR": [
+    "SPDR\\u00ae S&P Global Natural Resources ETF", 
+    "Natural Resources", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "DIM": [
+    "WisdomTree International MidCap Div ETF", 
+    "Foreign Small/Mid Value", 
+    "WisdomTree"
+  ], 
+  "QESP": [
+    "SPDR\\u00ae MSCI Spain StrategicFactors ETF", 
+    "Miscellaneous Region", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "DIG": [
+    "ProShares Ultra Oil & Gas", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "DIA": [
+    "SPDR\\u00ae Dow Jones Industrial Average ETF", 
+    "Large Value", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "DFVS": [
+    "iPath\\u00ae US Treasury 5-year Bear ETN", 
+    "Trading--Inverse Debt", 
+    "Barclays Funds"
+  ], 
+  "DFVL": [
+    "iPath\\u00ae US Treasury 5-year Bull ETN", 
+    "Trading--Leveraged Debt", 
+    "Barclays Funds"
+  ], 
+  "FEEU": [
+    "Barclays ETN+ FI Enhanced Europe 50", 
+    "Foreign Large Blend", 
+    "Barclays Funds"
+  ], 
+  "DIV": [
+    "Global X SuperDividend\\u2122 US ETF", 
+    "Mid-Cap Value", 
+    "Global X Funds"
+  ], 
+  "AIA": [
+    "iShares Asia 50", 
+    "Pacific/Asia ex-Japan Stk", 
+    "iShares"
+  ], 
+  "HDLS": [
+    "WisdomTree International Hdg SmCp DivETF", 
+    "Foreign Small/Mid Value", 
+    "WisdomTree"
+  ], 
+  "MEAR": [
+    "iShares Short Maturity Municipal Bond", 
+    "Muni National Short", 
+    "iShares"
+  ], 
+  "XXV": [
+    "iPath\\u00ae Inverse S&P 500 VIX ST Fut\\u2122 ETN", 
+    "Volatility", 
+    "Barclays Funds"
+  ], 
+  "ROGS": [
+    "Hartford Multifactor Global SmallCap ETF", 
+    "World Stock", 
+    "Lattice Strategies LLC"
+  ], 
+  "JPEH": [
+    "JPMorgan Divers Ret Eurp Ccy Hdgd ETF", 
+    "Europe Stock", 
+    "JPMorgan"
+  ], 
+  "XVZ": [
+    "iPath\\u00ae S&P 500 Dynamic VIX ETN", 
+    "Volatility", 
+    "Barclays Funds"
+  ], 
+  "JPEM": [
+    "JPMorgan Diversified Return EMkts Eq ETF", 
+    "Diversified Emerging Mkts", 
+    "JPMorgan"
+  ], 
+  "IRV": [
+    "SPDR\\u00ae S&P International Matls Sect ETF", 
+    "Natural Resources", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "PWV": [
+    "PowerShares Dynamic Large Cap Value ETF", 
+    "Large Value", 
+    "PowerShares"
+  ], 
+  "SDP": [
+    "ProShares UltraShort Utilities", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "SDS": [
+    "ProShares UltraShort S&P500", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "SDY": [
+    "SPDR\\u00ae S&P Dividend ETF", 
+    "Large Value", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "SDD": [
+    "ProShares UltraShort SmallCap600", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "PWB": [
+    "PowerShares Dynamic Large Cap Growth ETF", 
+    "Large Growth", 
+    "PowerShares"
+  ], 
+  "PWC": [
+    "PowerShares Dynamic Market ETF", 
+    "Mid-Cap Blend", 
+    "PowerShares"
+  ], 
+  "FTEC": [
+    "Fidelity\\u00ae MSCI Information Tech ETF", 
+    "Technology", 
+    "Fidelity Investments"
+  ], 
+  "GTAA": [
+    "AdvisorShares Morg Crk Glbl Tacticl ETF", 
+    "Tactical Allocation", 
+    "AdvisorShares"
+  ], 
+  "EPV": [
+    "ProShares UltraShort FTSE Europe", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "EPU": [
+    "iShares MSCI All Peru Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "EPS": [
+    "WisdomTree Earnings 500 ETF", 
+    "Large Blend", 
+    "WisdomTree"
+  ], 
+  "EPP": [
+    "iShares MSCI Pacific ex Japan", 
+    "Pacific/Asia ex-Japan Stk", 
+    "iShares"
+  ], 
+  "BOM": [
+    "DB Base Metals Double Short ETN", 
+    "Trading--Inverse Commodities", 
+    "Deutsche Bank AG"
+  ], 
+  "EPI": [
+    "WisdomTree India Earnings ETF", 
+    "India Equity", 
+    "WisdomTree"
+  ], 
+  "PEX": [
+    "ProShares Global Listed Private Equity", 
+    "Miscellaneous Sector", 
+    "ProShares"
+  ], 
+  "COW": [
+    "iPath\\u00ae Bloomberg Livestock SubTR ETN", 
+    "Commodities Agriculture", 
+    "Barclays Funds"
+  ], 
+  "FDIV": [
+    "First Trust Strategic Income ETF", 
+    "Allocation--30% to 50% Equity", 
+    "First Trust"
+  ], 
+  "FDIS": [
+    "Fidelity\\u00ae MSCI Consumer Discret ETF", 
+    "Consumer Cyclical", 
+    "Fidelity Investments"
+  ], 
+  "SPDN": [
+    "Direxion Daily S&P 500\\u00ae Bear 1X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "PRFZ": [
+    "PowerShares FTSE RAFI US 1500 Sm-Mid ETF", 
+    "Small Blend", 
+    "PowerShares"
+  ], 
+  "XLFS": [
+    "Financial Services Select Sector SPDR\\u00ae", 
+    "Financial", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "GSEU": [
+    "Goldman Sachs ActiveBeta\\u00ae Europe Eq ETF", 
+    "Europe Stock", 
+    "Goldman Sachs"
+  ], 
+  "KLDW": [
+    "Gavekal Knowledge Leaders Dev Wld ETF", 
+    "World Stock", 
+    "GaveKal"
+  ], 
+  "HYEM": [
+    "VanEck Vectors EM High Yield Bond ETF", 
+    "Emerging Markets Bond", 
+    "Market Vectors"
+  ], 
+  "GXF": [
+    "Global X FTSE Nordic Region ETF", 
+    "Miscellaneous Region", 
+    "Global X Funds"
+  ], 
+  "GXG": [
+    "Global X MSCI Colombia ETF", 
+    "Miscellaneous Region", 
+    "Global X Funds"
+  ], 
+  "GXC": [
+    "SPDR\\u00ae S&P China ETF", 
+    "China Region", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "EDIV": [
+    "SPDR\\u00ae S&P Emerging Markets Dividend ETF", 
+    "Diversified Emerging Mkts", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "EWGS": [
+    "iShares MSCI Germany Small-Cap", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "EMTL": [
+    "SPDR\\u00ae DoubleLine\\u00ae Emerg Mkts Fxd Inc ETF", 
+    "Emerging Markets Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "KLD": [
+    "iShares MSCI USA ESG Select", 
+    "Large Blend", 
+    "iShares"
+  ], 
+  "BZQ": [
+    "ProShares UltraShort MSCI Brazil Capped", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "FINZ": [
+    "ProShares UltraPro Short Fincl Sel Sect", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "FNDX": [
+    "Schwab Fundamental US Large Company ETF", 
+    "Large Value", 
+    "Schwab ETFs"
+  ], 
+  "FONE": [
+    "First Trust NASDAQ Smartphone ETF", 
+    "Technology", 
+    "First Trust"
+  ], 
+  "CHIM": [
+    "Global X China Materials ETF", 
+    "China Region", 
+    "Global X Funds"
+  ], 
+  "FINU": [
+    "ProShares UltraPro Financial Select Sect", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "VDC": [
+    "Vanguard Consumer Staples ETF", 
+    "Consumer Defensive", 
+    "Vanguard"
+  ], 
+  "FLM": [
+    "First Trust ISE Glb Engnrg And Const ETF", 
+    "Industrials", 
+    "First Trust"
+  ], 
+  "VWOB": [
+    "Vanguard Emerging Markets Govt Bd ETF", 
+    "Emerging Markets Bond", 
+    "Vanguard"
+  ], 
+  "IPOS": [
+    "Renaissance International IPO ETF", 
+    "Foreign Small/Mid Growth", 
+    "Renaissance Capital"
+  ], 
+  "BIZD": [
+    "VanEck Vectors BDC Income ETF", 
+    "Financial", 
+    "Market Vectors"
+  ], 
+  "DBMX": [
+    "Deutsche X-trackers MSCI Mexico Hedgd Eq", 
+    "Miscellaneous Region", 
+    "Deutsche Asset Management"
+  ], 
+  "EMBH": [
+    "iShares Interest Rt Hdgd Emerg Mkts Bd", 
+    "Emerging Markets Bond", 
+    "iShares"
+  ], 
+  "FNDB": [
+    "Schwab Fundamental US Broad Market ETF", 
+    "Large Value", 
+    "Schwab ETFs"
+  ], 
+  "USDU": [
+    "WisdomTree Bloomberg US Dllr Bullish ETF", 
+    "Multicurrency", 
+    "WisdomTree"
+  ], 
+  "KCE": [
+    "SPDR\\u00ae S&P Capital Markets ETF", 
+    "Financial", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "IVOV": [
+    "Vanguard S&P Mid-Cap 400 Value ETF", 
+    "Mid-Cap Value", 
+    "Vanguard"
+  ], 
+  "IVOP": [
+    "iPath\\u00ae Inverse S&P 500 VIX ST Fut\\u2122ETN II", 
+    "Volatility", 
+    "Barclays Funds"
+  ], 
+  "IVOO": [
+    "Vanguard S&P Mid-Cap 400 ETF", 
+    "Mid-Cap Blend", 
+    "Vanguard"
+  ], 
+  "ITOT": [
+    "iShares Core S&P Total US Stock Mkt", 
+    "Large Blend", 
+    "iShares"
+  ], 
+  "IVOG": [
+    "Vanguard S&P Mid-Cap 400 Growth ETF", 
+    "Mid-Cap Growth", 
+    "Vanguard"
+  ], 
+  "HDV": [
+    "iShares Core High Dividend", 
+    "Large Value", 
+    "iShares"
+  ], 
+  "SILJ": [
+    "PureFunds\\u2122 ISE Junior Silver ETF", 
+    "Equity Precious Metals", 
+    "Pure Funds"
+  ], 
+  "TECZ": [
+    "Direxion Daily Technology Bear 1X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "RRF": [
+    "WisdomTree Global Real Return ETF", 
+    "World Bond", 
+    "WisdomTree"
+  ], 
+  "TECS": [
+    "Direxion Daily Technology Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "TECL": [
+    "Direxion Daily Technology Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "MCRO": [
+    "IQ Hedge Macro Tracker ETF", 
+    "World Allocation", 
+    "IndexIQ"
+  ], 
+  "GRES": [
+    "IQ Global Resources ETF", 
+    "Natural Resources", 
+    "IndexIQ"
+  ], 
+  "ELD": [
+    "WisdomTree Emerging Markets Lcl Dbt ETF", 
+    "Emerging-Markets Local-Currency Bond", 
+    "WisdomTree"
+  ], 
+  "TLTE": [
+    "FlexShares Mstar EmgMkts FctTilt ETF", 
+    "Diversified Emerging Mkts", 
+    "Flexshares Trust"
+  ], 
+  "IYLD": [
+    "iShares Morningstar Multi-Asset Income", 
+    "Allocation--30% to 50% Equity", 
+    "iShares"
+  ], 
+  "SPXL": [
+    "Direxion Daily S&P500\\u00ae Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "SMLV": [
+    "SPDR\\u00ae Russell 2000 Low Volatility ETF", 
+    "Small Blend", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "SPXH": [
+    "Janus Velocity Volatility Hdgd Lg Cp ETF", 
+    "Long-Short Equity", 
+    "Janus"
+  ], 
+  "IPAC": [
+    "iShares Core MSCI Pacific", 
+    "Diversified Pacific/Asia", 
+    "iShares"
+  ], 
+  "SPXE": [
+    "ProShares S&P 500\\u00ae ex-Energy", 
+    "Large Blend", 
+    "ProShares"
+  ], 
+  "FBZ": [
+    "First Trust Brazil AlphaDEX\\u00ae ETF", 
+    "Latin America Stock", 
+    "First Trust"
+  ], 
+  "OAPH": [
+    "O'Shares FTSE Asia Pac Qual Div Hdgd ETF", 
+    "Diversified Pacific/Asia", 
+    "O\\u2019Shares Investments"
+  ], 
+  "SMLF": [
+    "iShares Edge MSCI Multifactor USA Sm-Cp", 
+    "Small Blend", 
+    "iShares"
+  ], 
+  "SPXU": [
+    "ProShares UltraPro Short S&P500", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "SPXT": [
+    "ProShares S&P 500\\u00ae ex-Technology", 
+    "Large Blend", 
+    "ProShares"
+  ], 
+  "SPXV": [
+    "ProShares S&P 500\\u00ae ex-Health Care", 
+    "Large Blend", 
+    "ProShares"
+  ], 
+  "IPAY": [
+    "PureFunds ISE Mobile Payments ETF", 
+    "Technology", 
+    "Pure Funds"
+  ], 
+  "SPXS": [
+    "Direxion Daily S&P 500\\u00ae Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "PXSG": [
+    "PowerShares Russell 2000 Pure Growth ETF", 
+    "Small Growth", 
+    "PowerShares"
+  ], 
+  "HEWG": [
+    "iShares Currency Hedged MSCI Germany", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "BSJM": [
+    "Guggenheim BulletShrs 2022 HY CorpBd ETF", 
+    "High Yield Bond", 
+    "Guggenheim Investments"
+  ], 
+  "WMCR": [
+    "Wilshire Micro-Cap ETF", 
+    "Small Blend", 
+    "Guggenheim Investments"
+  ], 
+  "USO": [
+    "United States Oil", 
+    "Commodities Energy", 
+    "United States Commodity Funds LLC"
+  ], 
+  "DDEZ": [
+    "WisdomTree Dynamic Ccy Hdgd Eurp Eq ETF", 
+    "Europe Stock", 
+    "WisdomTree"
+  ], 
+  "USL": [
+    "United States 12 Month Oil", 
+    "Commodities Energy", 
+    "United States Commodity Funds LLC"
+  ], 
+  "HEWJ": [
+    "iShares Currency Hedged MSCI Japan", 
+    "Japan Stock", 
+    "iShares"
+  ], 
+  "HEWU": [
+    "iShares Currency Hedged MSCI UK", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "PXSV": [
+    "PowerShares Russell 2000 Pure Value ETF", 
+    "Small Value", 
+    "PowerShares"
+  ], 
+  "HEWP": [
+    "iShares Currency Hedged MSCI Spain", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "QYLD": [
+    "Recon Capital NASDAQ 100 Cov Call ETF", 
+    "Option Writing", 
+    "Recon Capital Series Trust"
+  ], 
+  "XLV": [
+    "Health Care Select Sector SPDR\\u00ae ETF", 
+    "Health", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "HEWY": [
+    "iShares Currency Hedged MSCI South Korea", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "DTYS": [
+    "iPath\\u00ae US Treasury 10-year Bear ETN", 
+    "Trading--Inverse Debt", 
+    "Barclays Funds"
+  ], 
+  "DVEM": [
+    "WisdomTree Emerging Markets Dividend ETF", 
+    "Diversified Emerging Mkts", 
+    "WisdomTree"
+  ], 
+  "PXR": [
+    "PowerShares Emerging Markets Infras ETF", 
+    "Diversified Emerging Mkts", 
+    "PowerShares"
+  ], 
+  "PXQ": [
+    "PowerShares Dynamic Networking ETF", 
+    "Technology", 
+    "PowerShares"
+  ], 
+  "PXJ": [
+    "PowerShares Dynamic Oil & Gas Svcs ETF", 
+    "Equity Energy", 
+    "PowerShares"
+  ], 
+  "PXI": [
+    "PowerShares DWA Energy Momentum ETF", 
+    "Equity Energy", 
+    "PowerShares"
+  ], 
+  "PXH": [
+    "PowerShares FTSE RAFI Emerging Mkts ETF", 
+    "Diversified Emerging Mkts", 
+    "PowerShares"
+  ], 
+  "ACSI": [
+    "AmericanCustomerSatisfactionCoreAlphaETF", 
+    "Large Blend", 
+    "ACSI"
+  ], 
+  "PXN": [
+    "PowerShares Lux Nanotech", 
+    "Miscellaneous Sector", 
+    "PowerShares"
+  ], 
+  "DTYL": [
+    "iPath\\u00ae US Treasury 10-year Bull ETN", 
+    "Trading--Leveraged Debt", 
+    "Barclays Funds"
+  ], 
+  "VLUE": [
+    "iShares Edge MSCI USA Value Factor", 
+    "Large Value", 
+    "iShares"
+  ], 
+  "PXF": [
+    "PowerShares FTSE RAFI Dev Mkts ex-US ETF", 
+    "Foreign Large Value", 
+    "PowerShares"
+  ], 
+  "PXE": [
+    "PowerShares Dynamic Engy Explr&Prdtn ETF", 
+    "Equity Energy", 
+    "PowerShares"
+  ], 
+  "FPE": [
+    "First Trust Preferred Sec & Inc ETF", 
+    "Preferred Stock", 
+    "First Trust"
+  ], 
+  "ICI": [
+    "iPath\\u00ae Optimized Currency Carry ETN", 
+    "Multicurrency", 
+    "Barclays Funds"
+  ], 
+  "FPA": [
+    "First Trust AsiaPac ex-Jpn AlphaDEX\\u00ae ETF", 
+    "Pacific/Asia ex-Japan Stk", 
+    "First Trust"
+  ], 
+  "ICN": [
+    "WisdomTree Indian Rupee Strategy ETF", 
+    "Single Currency", 
+    "WisdomTree"
+  ], 
+  "ICF": [
+    "iShares Cohen & Steers REIT", 
+    "Real Estate", 
+    "iShares"
+  ], 
+  "CNY": [
+    "Market Vectors\\u00ae Chinese Renminbi/USD ETN", 
+    "Single Currency", 
+    "Market Vectors"
+  ], 
+  "FPX": [
+    "First Trust US IPO ETF", 
+    "Large Growth", 
+    "First Trust"
+  ], 
+  "BRAQ": [
+    "Global X Brazil Consumer ETF", 
+    "Latin America Stock", 
+    "Global X Funds"
+  ], 
+  "PFF": [
+    "iShares US Preferred Stock", 
+    "Preferred Stock", 
+    "iShares"
+  ], 
+  "PFI": [
+    "PowerShares DWA Financial Momentum ETF", 
+    "Financial", 
+    "PowerShares"
+  ], 
+  "BRAZ": [
+    "Global X Brazil Mid Cap ETF", 
+    "Latin America Stock", 
+    "Global X Funds"
+  ], 
+  "PFM": [
+    "PowerShares Dividend Achievers\\u2122 ETF", 
+    "Large Value", 
+    "PowerShares"
+  ], 
+  "INDF": [
+    "iShares Edge MSCI Multifactor Indtls", 
+    "Industrials", 
+    "iShares"
+  ], 
+  "ASHX": [
+    "Deutsche X-trackers CSI300 CHN A Hdgd Eq", 
+    "China Region", 
+    "Deutsche Asset Management"
+  ], 
+  "DXJ": [
+    "WisdomTree Japan Hedged Equity ETF", 
+    "Japan Stock", 
+    "WisdomTree"
+  ], 
+  "FAZZ": [
+    "Direxion Daily Financial Bear 1X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "INDL": [
+    "Direxion Daily India Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "DXD": [
+    "ProShares UltraShort Dow30", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "ASHR": [
+    "Deutsche X-trackers Harvest CSI300 CHN A", 
+    "China Region", 
+    "Deutsche Asset Management"
+  ], 
+  "ASHS": [
+    "Deutsche X-trackers HrvstCSI500CHN A SC", 
+    "China Region", 
+    "Deutsche Asset Management"
+  ], 
+  "TPYP": [
+    "Tortoise North American Pipeline Fund", 
+    "Energy Limited Partnership", 
+    "Tortoise Capital"
+  ], 
+  "PHDG": [
+    "PowerShares S&P 500 Downside Hedged ETF", 
+    "Long-Short Equity", 
+    "PowerShares"
+  ], 
+  "SAGG": [
+    "Direxion Daily Tot Bd Mkt Bear 1X ETF", 
+    "Trading--Inverse Debt", 
+    "Direxion Funds"
+  ], 
+  "GSJY": [
+    "Goldman Sachs ActiveBeta\\u00ae Japan Eq ETF", 
+    "Japan Stock", 
+    "Goldman Sachs"
+  ], 
+  "SIJ": [
+    "ProShares UltraShort Industrials", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "GQRE": [
+    "FlexShares Glbl Quality Real Estate ETF", 
+    "Global Real Estate", 
+    "Flexshares Trust"
+  ], 
+  "LSTK": [
+    "iPath\\u00ae Pure Beta Livestock ETN", 
+    "Commodities Agriculture", 
+    "Barclays Funds"
+  ], 
+  "EUDG": [
+    "WisdomTree Europe Quality Div Gr ETF", 
+    "Europe Stock", 
+    "WisdomTree"
+  ], 
+  "SIL": [
+    "Global X Silver Miners ETF", 
+    "Equity Precious Metals", 
+    "Global X Funds"
+  ], 
+  "RYH": [
+    "Guggenheim S&P 500\\u00ae Eq Weight HC ETF", 
+    "Health", 
+    "Guggenheim Investments"
+  ], 
+  "QEFA": [
+    "SPDR\\u00ae MSCI EAFE StrategicFactors ETF", 
+    "Foreign Large Blend", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "RETL": [
+    "Direxion Daily Retail Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "TAN": [
+    "Guggenheim Solar ETF", 
+    "Miscellaneous Sector", 
+    "Guggenheim Investments"
+  ], 
+  "TAO": [
+    "Guggenheim China Real Estate ETF", 
+    "China Region", 
+    "Guggenheim Investments"
+  ], 
+  "DJP": [
+    "iPath\\u00ae Bloomberg Cmdty TR ETN", 
+    "Commodities Broad Basket", 
+    "Barclays Funds"
+  ], 
+  "IXUS": [
+    "iShares Core MSCI Total Intl Stk", 
+    "Foreign Large Blend", 
+    "iShares"
+  ], 
+  "AMZA": [
+    "InfraCap MLP ETF", 
+    "Energy Limited Partnership", 
+    "InfraCap"
+  ], 
+  "HDMV": [
+    "First Trust Hrzn MgdVolatil Dev Intl ETF", 
+    "Foreign Large Blend", 
+    "First Trust"
+  ], 
+  "GII": [
+    "SPDR\\u00ae S&P Global Infrastructure ETF", 
+    "Infrastructure", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "DDWM": [
+    "WisdomTree Dynamic Ccy Hdgd Intl Eq ETF", 
+    "Foreign Large Value", 
+    "WisdomTree"
+  ], 
+  "LMLP": [
+    "UBS ETRACS M Py 2xLvg WF MLP Ex-Engy ETN", 
+    "Trading--Leveraged Equity", 
+    "UBS Group AG"
+  ], 
+  "BTAL": [
+    "QuantShares US Market Neut Anti-Beta", 
+    "Market Neutral", 
+    "QuantShares"
+  ], 
+  "JPHY": [
+    "JPMorgan Disciplined High Yield ETF", 
+    "High Yield Bond", 
+    "JPMorgan"
+  ], 
+  "SLYV": [
+    "SPDR\\u00ae S&P 600 Small Cap Value ETF", 
+    "Small Value", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "VUSE": [
+    "Vident Core US Equity", 
+    "Mid-Cap Value", 
+    "Vident Financial"
+  ], 
+  "DWLV": [
+    "PowerShares DWA Momentum&Low Vol Rttn", 
+    "Small Value", 
+    "PowerShares"
+  ], 
+  "FTXR": [
+    "First Trust Nasdaq Transportation ETF", 
+    "Industrials", 
+    "First Trust"
+  ], 
+  "EMCB": [
+    "WisdomTree Emerging Markets Corp Bd ETF", 
+    "Emerging Markets Bond", 
+    "WisdomTree"
+  ], 
+  "EMCG": [
+    "WisdomTree Emerging Markets Cnsmr Gr ETF", 
+    "Diversified Emerging Mkts", 
+    "WisdomTree"
+  ], 
+  "GUR": [
+    "SPDR\\u00ae S&P Emerging Europe ETF", 
+    "Miscellaneous Region", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "FTXH": [
+    "First Trust Nasdaq Pharmaceuticals ETF", 
+    "Health", 
+    "First Trust"
+  ], 
+  "FTXN": [
+    "First Trust Nasdaq Oil & Gas ETF", 
+    "Equity Energy", 
+    "First Trust"
+  ], 
+  "FTXO": [
+    "First Trust Nasdaq Bank ETF", 
+    "Financial", 
+    "First Trust"
+  ], 
+  "FTXL": [
+    "First Trust Nasdaq Semiconductor ETF", 
+    "Technology", 
+    "First Trust"
+  ], 
+  "EMCR": [
+    "Columbia Emerging Markets Core ETF", 
+    "Diversified Emerging Mkts", 
+    "Columbia"
+  ], 
+  "FTXG": [
+    "First Trust Nasdaq Food & Beverage ETF", 
+    "Consumer Defensive", 
+    "First Trust"
+  ], 
+  "FTXD": [
+    "First Trust Nasdaq Retail ETF", 
+    "Consumer Cyclical", 
+    "First Trust"
+  ], 
+  "KBA": [
+    "KraneShares Bosera MSCI China A ETF", 
+    "China Region", 
+    "KraneShares"
+  ], 
+  "UGLD": [
+    "VelocityShares 3x Long Gold ETN", 
+    "Trading--Leveraged Commodities", 
+    "Credit Suisse AG"
+  ], 
+  "KBE": [
+    "SPDR\\u00ae S&P Bank ETF", 
+    "Financial", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "HSCZ": [
+    "iShares Currency Hedged MSCI EAFE Sm-Cp", 
+    "Foreign Small/Mid Blend", 
+    "iShares"
+  ], 
+  "NFO": [
+    "Guggenheim Insider Sentiment ETF", 
+    "Mid-Cap Blend", 
+    "Guggenheim Investments"
+  ], 
+  "BLV": [
+    "Vanguard Long-Term Bond ETF", 
+    "Long-Term Bond", 
+    "Vanguard"
+  ], 
+  "SCTO": [
+    "Global X | JPMorgan US Sector Rotat ETF", 
+    "Allocation--70% to 85% Equity", 
+    "Global X Funds"
+  ], 
+  "DSLV": [
+    "VelocityShares 3x Inverse Silver ETN", 
+    "Trading--Inverse Commodities", 
+    "Credit Suisse AG"
+  ], 
+  "VWO": [
+    "Vanguard FTSE Emerging Markets ETF", 
+    "Diversified Emerging Mkts", 
+    "Vanguard"
+  ], 
+  "ZLRG": [
+    "ETFS Zacks Earnings Large-Cap US", 
+    "Large Blend", 
+    "ETF Securities"
+  ], 
+  "REZ": [
+    "iShares Residential Rel Est Capped", 
+    "Real Estate", 
+    "iShares"
+  ], 
+  "EWUS": [
+    "iShares MSCI United Kingdom Small-Cap", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "REW": [
+    "ProShares UltraShort Technology", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "HGJP": [
+    "ProShares Hedged FTSE Japan", 
+    "Japan Stock", 
+    "ProShares"
+  ], 
+  "REM": [
+    "iShares Mortgage Real Estate Capped", 
+    "Real Estate", 
+    "iShares"
+  ], 
+  "SMMV": [
+    "iShares Edge MSCI Min Vol USA Small-Cap", 
+    "Small Blend", 
+    "iShares"
+  ], 
+  "SMMU": [
+    "PIMCO Short Term Municipal Bond Actv ETF", 
+    "Muni National Short", 
+    "Pimco"
+  ], 
+  "UDOW": [
+    "ProShares UltraPro Dow30", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "FCA": [
+    "First Trust China AlphaDEX\\u00ae ETF", 
+    "China Region", 
+    "First Trust"
+  ], 
+  "HHYX": [
+    "iShares Currency Hedged Intl High Yld Bd", 
+    "World Bond", 
+    "iShares"
+  ], 
+  "FCG": [
+    "First Trust ISE-Revere Natural Gas ETF", 
+    "Equity Energy", 
+    "First Trust"
+  ], 
+  "CLAW": [
+    "Direxion Daily Hmbldrs&Supls Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "IMLP": [
+    "iPath\\u00ae S&P MLP ETN", 
+    "Energy Limited Partnership", 
+    "Barclays"
+  ], 
+  "VEU": [
+    "Vanguard FTSE All-World ex-US ETF", 
+    "Foreign Large Blend", 
+    "Vanguard"
+  ], 
+  "KXI": [
+    "iShares Global Consumer Staples", 
+    "Consumer Defensive", 
+    "iShares"
+  ], 
+  "GMMB": [
+    "Columbia Intermediate Municipal Bond ETF", 
+    "Muni National Interm", 
+    "Columbia"
+  ], 
+  "BSJL": [
+    "Guggenheim BulletShrs 2021 HY CorpBd ETF", 
+    "High Yield Bond", 
+    "Guggenheim Investments"
+  ], 
+  "CNCR": [
+    "Loncar Cancer Immunotherapy ETF", 
+    "Health", 
+    "ETF Series Solutions"
+  ], 
+  "FMK": [
+    "First Trust Mega Cap AlphaDEX\\u00ae ETF", 
+    "Large Blend", 
+    "First Trust"
+  ], 
+  "VEA": [
+    "Vanguard FTSE Developed Markets ETF", 
+    "Foreign Large Blend", 
+    "Vanguard"
+  ], 
+  "FMF": [
+    "First Trust Morningstar Mgd FutsStrt ETF", 
+    "Managed Futures", 
+    "First Trust"
+  ], 
+  "FMB": [
+    "First Trust Managed Municipal ETF", 
+    "Muni National Interm", 
+    "First Trust"
+  ], 
+  "LTL": [
+    "ProShares Ultra Telecommunications", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "QUS": [
+    "SPDR\\u00ae MSCI USA StrategicFactors ETF", 
+    "Large Blend", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "PUTX": [
+    "ALPS Enhanced Put Write Strategy ETF", 
+    "Long/Short Equity", 
+    "ALPS"
+  ], 
+  "DBBR": [
+    "Deutsche X-trackers MSCI Brazil Hedgd Eq", 
+    "Latin America Stock", 
+    "Deutsche Asset Management"
+  ], 
+  "SH": [
+    "ProShares Short S&P500", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "QABA": [
+    "First Trust NASDAQ\\u00ae ABA Community Bk ETF", 
+    "Financial", 
+    "First Trust"
+  ], 
+  "HEEM": [
+    "iShares Currency Hedged MSCI Emerg Mkts", 
+    "Diversified Emerging Mkts", 
+    "iShares"
+  ], 
+  "GUNR": [
+    "FlexShares Mstar Glbl Upstrm Nat Res ETF", 
+    "Natural Resources", 
+    "Flexshares Trust"
+  ], 
+  "AGZD": [
+    "WisdomTree Barclays US AggtBd Zr Dur ETF", 
+    "Nontraditional Bond", 
+    "WisdomTree"
+  ], 
+  "VAMO": [
+    "Cambria Value and Momentum ETF", 
+    "Large Value", 
+    "CAMBRIA ETF TRUST"
+  ], 
+  "IBB": [
+    "iShares Nasdaq Biotechnology", 
+    "Health", 
+    "iShares"
+  ], 
+  "VCIT": [
+    "Vanguard Intermediate-Term Corp Bd ETF", 
+    "Corporate Bond", 
+    "Vanguard"
+  ], 
+  "EQAL": [
+    "PowerShares Russell 1000 Equal Wght ETF", 
+    "Mid-Cap Blend", 
+    "PowerShares"
+  ], 
+  "FUTY": [
+    "Fidelity\\u00ae MSCI Utilities ETF", 
+    "Utilities", 
+    "Fidelity Investments"
+  ], 
+  "PGF": [
+    "PowerShares Financial Preferred ETF", 
+    "Preferred Stock", 
+    "PowerShares"
+  ], 
+  "THHY": [
+    "VanEck Vectors Trs-Hdgd Hi Yld Bd ETF", 
+    "Nontraditional Bond", 
+    "Market Vectors"
+  ], 
+  "PGD": [
+    "iPath\\u00ae Asian & Gulf Ccy Reval ETN", 
+    "Multicurrency", 
+    "Barclays Funds"
+  ], 
+  "CHOC": [
+    "iPath\\u00ae Pure Beta Cocoa ETN", 
+    "Commodities Agriculture", 
+    "Barclays Funds"
+  ], 
+  "DYY": [
+    "DB Commodity Double Long ETN", 
+    "Trading--Leveraged Commodities", 
+    "Deutsche Bank AG"
+  ], 
+  "PGM": [
+    "iPath\\u00ae Bloomberg Platinum SubTR ETN", 
+    "Commodities Precious Metals", 
+    "Barclays Funds"
+  ], 
+  "PGJ": [
+    "PowerShares Golden Dragon China ETF", 
+    "China Region", 
+    "PowerShares"
+  ], 
+  "RDVY": [
+    "First Trust NASDAQ Rising Div Achiev ETF", 
+    "Large Value", 
+    "First Trust"
+  ], 
+  "AMUB": [
+    "UBS ETRACS Alerian MLP ETN Series B", 
+    "Energy Limited Partnership", 
+    "UBS Group AG"
+  ], 
+  "PGX": [
+    "PowerShares Preferred ETF", 
+    "Preferred Stock", 
+    "PowerShares"
+  ], 
+  "INCO": [
+    "Columbia India Consumer ETF", 
+    "India Equity", 
+    "Columbia"
+  ], 
+  "GRID": [
+    "First Trust NASDAQ\\u00ae Cln Edge\\u00aeStGidIfsETF", 
+    "Miscellaneous Sector", 
+    "First Trust"
+  ], 
+  "DULL": [
+    "Direxion Daily Silver Mnrs Bear 2X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "URTY": [
+    "ProShares UltraPro Russell2000", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "BSCL": [
+    "Guggenheim BulletShrs 2021 Corp Bd ETF", 
+    "Corporate Bond", 
+    "Guggenheim Investments"
+  ], 
+  "JPUS": [
+    "JPMorgan Diversified Return US Eq ETF", 
+    "Large Blend", 
+    "JPMorgan"
+  ], 
+  "RSX": [
+    "VanEck Vectors Russia ETF", 
+    "Miscellaneous Region", 
+    "Market Vectors"
+  ], 
+  "URTH": [
+    "iShares MSCI World", 
+    "World Stock", 
+    "iShares"
+  ], 
+  "RSP": [
+    "Guggenheim S&P 500\\u00ae Equal Weight ETF", 
+    "Large Blend", 
+    "Guggenheim Investments"
+  ], 
+  "FXEU": [
+    "PowerShares Europe Currency Hdgd Lw Vltl", 
+    "Europe Stock", 
+    "PowerShares"
+  ], 
+  "REET": [
+    "iShares Global REIT", 
+    "Real Estate", 
+    "iShares"
+  ], 
+  "FXEP": [
+    "PowerShares Dev EuroPac Ccy Hdgd Lw Vltl", 
+    "Foreign Large Blend", 
+    "PowerShares"
+  ], 
+  "GHS": [
+    "Rex Gold Hedged S&P 500 ETF", 
+    "Large Blend", 
+    "Rex"
+  ], 
+  "EIDO": [
+    "iShares MSCI Indonesia", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "GHE": [
+    "Rex Gold Hedged FTSE Emerging Mkts ETF", 
+    "Diversified Emerging Mkts", 
+    "Rex"
+  ], 
+  "JPIN": [
+    "JPMorgan Diversified Return Intl Eq ETF", 
+    "Foreign Large Blend", 
+    "JPMorgan"
+  ], 
+  "JPIH": [
+    "JPMorgan Divers Ret Intl Ccy Hdgd ETF", 
+    "Foreign Large Blend", 
+    "JPMorgan"
+  ], 
+  "AOA": [
+    "iShares Core Aggressive Allocation", 
+    "Allocation--70% to 85% Equity", 
+    "iShares"
+  ], 
+  "HDEF": [
+    "Deutsche X-trackers MSCI EAFE HiDvYdHgEq", 
+    "Foreign Large Value", 
+    "Deutsche Asset Management"
+  ], 
+  "AOK": [
+    "iShares Core Conservative Allocation", 
+    "Allocation--30% to 50% Equity", 
+    "iShares"
+  ], 
+  "YANG": [
+    "Direxion Daily FTSE China Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "AOR": [
+    "iShares Core Growth Allocation", 
+    "Allocation--50% to 70% Equity", 
+    "iShares"
+  ], 
+  "URE": [
+    "ProShares Ultra Real Estate", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "URA": [
+    "Global X Uranium ETF", 
+    "Natural Resources", 
+    "Global X Funds"
+  ], 
+  "FNCL": [
+    "Fidelity\\u00ae MSCI Financials ETF", 
+    "Financial", 
+    "Fidelity Investments"
+  ], 
+  "PALL": [
+    "ETFS Physical Palladium", 
+    "Commodities Precious Metals", 
+    "ETF Securities"
+  ], 
+  "URR": [
+    "Market Vectors\\u00ae Double Long Euro ETN", 
+    "Trading--Miscellaneous", 
+    "Market Vectors"
+  ], 
+  "AYT": [
+    "iPath\\u00ae GEMS Asia 8 ETN", 
+    "Multicurrency", 
+    "Barclays Funds"
+  ], 
+  "HEVY": [
+    "iPath\\u00ae Pure Beta Industrial Metals ETN", 
+    "Commodities Industrial Metals", 
+    "Barclays Funds"
+  ], 
+  "ACTX": [
+    "Global X Guru\\u2122 Activist ETF", 
+    "Large Growth", 
+    "Global X Funds"
+  ], 
+  "PYZ": [
+    "PowerShares DWA Basic Materials Mom ETF", 
+    "Natural Resources", 
+    "PowerShares"
+  ], 
+  "IPF": [
+    "SPDR\\u00ae S&P International Fincl Sect ETF", 
+    "Financial", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "IPD": [
+    "SPDR\\u00ae S&P Intl Cnsmr Discret Sect ETF", 
+    "Consumer Cyclical", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "IPE": [
+    "SPDR\\u00ae Blmbg Barclays TIPS ETF", 
+    "Inflation-Protected Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "IPK": [
+    "SPDR\\u00ae S&P International Tech Sect ETF", 
+    "Technology", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "IPN": [
+    "SPDR\\u00ae S&P International Indl Sect ETF", 
+    "Industrials", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "IPO": [
+    "Renaissance IPO ETF", 
+    "Mid-Cap Growth", 
+    "Renaissance Capital"
+  ], 
+  "EQWM": [
+    "PowerShares Russell Midcap Equal Wt ETF", 
+    "Mid-Cap Blend", 
+    "PowerShares"
+  ], 
+  "EQWL": [
+    "PowerShares Russell Top 200 Equal Wt ETF", 
+    "Large Blend", 
+    "PowerShares"
+  ], 
+  "EQWS": [
+    "PowerShares Russell 2000 Equal Wt ETF", 
+    "Small Blend", 
+    "PowerShares"
+  ], 
+  "IPS": [
+    "SPDR\\u00ae S&P Intl Cnsmr Stapl Sect ETF", 
+    "Consumer Defensive", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "AUSE": [
+    "WisdomTree Australia Dividend ETF", 
+    "Miscellaneous Region", 
+    "WisdomTree"
+  ], 
+  "IPW": [
+    "SPDR\\u00ae S&P International Energy Sect ETF", 
+    "Equity Energy", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "IPU": [
+    "SPDR\\u00ae S&P International Utls Sect ETF", 
+    "Utilities", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "ESGG": [
+    "FlexShares STOXX Glbl ESG Impact ETF", 
+    "World Stock", 
+    "Flexshares Trust"
+  ], 
+  "CEW": [
+    "WisdomTree Emerging Currency Strat ETF", 
+    "Multicurrency", 
+    "WisdomTree"
+  ], 
+  "NGE": [
+    "Global X MSCI Nigeria ETF", 
+    "Miscellaneous Region", 
+    "Global X Funds"
+  ], 
+  "XLK": [
+    "Technology Select Sector SPDR\\u00ae ETF", 
+    "Technology", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "XLI": [
+    "Industrial Select Sector SPDR\\u00ae ETF", 
+    "Industrials", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "IRY": [
+    "SPDR\\u00ae S&P International HealthC Sect ETF", 
+    "Health", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "XLG": [
+    "Guggenheim S&P 500\\u00ae Top 50 ETF", 
+    "Large Blend", 
+    "Guggenheim Investments"
+  ], 
+  "XLF": [
+    "Financial Select Sector SPDR\\u00ae ETF", 
+    "Financial", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "XLE": [
+    "Energy Select Sector SPDR\\u00ae ETF", 
+    "Equity Energy", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "TLTD": [
+    "FlexShares Mstar DevMks exUS FctTilt ETF", 
+    "Foreign Large Blend", 
+    "Flexshares Trust"
+  ], 
+  "XLB": [
+    "Materials Select Sector SPDR\\u00ae ETF", 
+    "Natural Resources", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "HSPX": [
+    "Horizons S&P 500\\u00ae Covered Call ETF", 
+    "Option Writing", 
+    "Horizons ETFs"
+  ], 
+  "BSJK": [
+    "Guggenheim BulletShrs 2020 HY CorpBd ETF", 
+    "High Yield Bond", 
+    "Guggenheim Investments"
+  ], 
+  "BSJJ": [
+    "Guggenheim BulletShrs 2019 HY CorpBd ETF", 
+    "High Yield Bond", 
+    "Guggenheim Investments"
+  ], 
+  "BSJI": [
+    "Guggenheim BulletShrs 2018 HY CorpBd ETF", 
+    "High Yield Bond", 
+    "Guggenheim Investments"
+  ], 
+  "BSJH": [
+    "Guggenheim BulletShrs 2017 HY CorpBd ETF", 
+    "High Yield Bond", 
+    "Guggenheim Investments"
+  ], 
+  "KSA": [
+    "iShares MSCI Saudi Arabia Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "BSJN": [
+    "Guggenheim BulletShrs 2023 HY CorpBd ETF", 
+    "High Yield Bond", 
+    "Guggenheim Investments"
+  ], 
+  "XLY": [
+    "Consumer Discret Sel Sect SPDR\\u00ae ETF", 
+    "Consumer Cyclical", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "SPHD": [
+    "PowerShares S&P 500\\u00ae High Div Low VolETF", 
+    "Large Value", 
+    "PowerShares"
+  ], 
+  "KORU": [
+    "Direxion Daily South Korea Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "XLU": [
+    "Utilities Select Sector SPDR\\u00ae ETF", 
+    "Utilities", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "XLP": [
+    "Consumer Staples Select Sector SPDR\\u00ae ETF", 
+    "Consumer Defensive", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "SZK": [
+    "ProShares UltraShort Consumer Goods", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "SZO": [
+    "DB Crude Oil Short ETN", 
+    "Trading--Inverse Commodities", 
+    "Deutsche Bank AG"
+  ], 
+  "SHV": [
+    "iShares Short Treasury Bond", 
+    "Short Government", 
+    "iShares"
+  ], 
+  "QMEX": [
+    "SPDR\\u00ae MSCI Mexico StrategicFactors ETF", 
+    "Miscellaneous Region", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "SHY": [
+    "iShares 1-3 Year Treasury Bond", 
+    "Short Government", 
+    "iShares"
+  ], 
+  "TOFR": [
+    "USCF Stock Split ETF", 
+    "Mid-Cap Growth", 
+    "USCF Equity Trust"
+  ], 
+  "SHE": [
+    "SPDR\\u00ae SSGA Gender Diversity ETF", 
+    "Large Blend", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "SHM": [
+    "SPDR\\u00ae Nuveen Blmbg Barclays ST MunBd ETF", 
+    "Muni National Short", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "MGC": [
+    "Vanguard Mega Cap ETF", 
+    "Large Blend", 
+    "Vanguard"
+  ], 
+  "TBX": [
+    "ProShares Short 7-10 Year Treasury", 
+    "Trading--Inverse Debt", 
+    "ProShares"
+  ], 
+  "TBZ": [
+    "ProShares UltraShort 3-7 Year Treasury", 
+    "Trading--Inverse Debt", 
+    "ProShares"
+  ], 
+  "FXSG": [
+    "CurrencyShares\\u00ae Singapore Dollar ETF", 
+    "Single Currency", 
+    "Guggenheim Investments"
+  ], 
+  "OEUR": [
+    "O'Shares FTSE Europe Quality Div ETF", 
+    "Europe Stock", 
+    "O\\u2019Shares Investments"
+  ], 
+  "MGK": [
+    "Vanguard Mega Cap Growth ETF", 
+    "Large Growth", 
+    "Vanguard"
+  ], 
+  "TBT": [
+    "ProShares UltraShort 20+ Year Treasury", 
+    "Trading--Inverse Debt", 
+    "ProShares"
+  ], 
+  "MGV": [
+    "Vanguard Mega Cap Value ETF", 
+    "Large Value", 
+    "Vanguard"
+  ], 
+  "NASH": [
+    "LocalShares Nashville Area ETF", 
+    "Small Blend", 
+    "LocalShares"
+  ], 
+  "EPOL": [
+    "iShares MSCI Poland Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "TBF": [
+    "ProShares Short 20+ Year Treasury", 
+    "Trading--Inverse Debt", 
+    "ProShares"
+  ], 
+  "IFIX": [
+    "Deutsche X-trckrsBrclys IntlCrpBdHdgdETF", 
+    "World Bond", 
+    "Deutsche Asset Management"
+  ], 
+  "SPHQ": [
+    "PowerShares S&P 500\\u00ae Quality ETF", 
+    "Large Blend", 
+    "PowerShares"
+  ], 
+  "UOP": [
+    "ProShares Ultra Oil & Gas Explor & Prdtn", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "IVFVC": [
+    "Ivy Focused Value NextShares\\u2122", 
+    "Large Value", 
+    "Ivy Funds"
+  ], 
+  "SPHB": [
+    "PowerShares S&P 500 High Beta ETF", 
+    "Mid-Cap Blend", 
+    "PowerShares"
+  ], 
+  "DWAT": [
+    "Arrow DWA Tactical ETF", 
+    "Tactical Allocation", 
+    "ArrowShares"
+  ], 
+  "DWAQ": [
+    "PowerShares DWA NASDAQ Momentum ETF", 
+    "Mid-Cap Growth", 
+    "PowerShares"
+  ], 
+  "DWAS": [
+    "PowerShares DWA SmallCap Momentum ETF", 
+    "Small Growth", 
+    "PowerShares"
+  ], 
+  "WPS": [
+    "iShares International Developed Property", 
+    "Global Real Estate", 
+    "iShares"
+  ], 
+  "TLT": [
+    "iShares 20+ Year Treasury Bond", 
+    "Long Government", 
+    "iShares"
+  ], 
+  "VTI": [
+    "Vanguard Total Stock Market ETF", 
+    "Large Blend", 
+    "Vanguard"
+  ], 
+  "BFIT": [
+    "Global X Health & Wellness Thematic ETF", 
+    "Health", 
+    "Global X Funds"
+  ], 
+  "ATMP": [
+    "Barclays ETN+ Select MLP", 
+    "Energy Limited Partnership", 
+    "Barclays Funds"
+  ], 
+  "GTO": [
+    "Guggenheim Total Return Bond ETF", 
+    "Intermediate-Term Bond", 
+    "Guggenheim Investments"
+  ], 
+  "USFR": [
+    "WisdomTree Bloomberg Floating Rt Trs ETF", 
+    "Short Government", 
+    "WisdomTree"
+  ], 
+  "VTV": [
+    "Vanguard Value ETF", 
+    "Large Value", 
+    "Vanguard"
+  ], 
+  "TLH": [
+    "iShares 10-20 Year Treasury Bond", 
+    "Long Government", 
+    "iShares"
+  ], 
+  "TLO": [
+    "SPDR\\u00ae Blmbg Barclays Long Term Trs ETF", 
+    "Long Government", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "XT": [
+    "iShares Exponential Technologies", 
+    "Miscellaneous Sector", 
+    "iShares"
+  ], 
+  "ZSL": [
+    "ProShares UltraShort Silver", 
+    "Trading--Inverse Commodities", 
+    "ProShares"
+  ], 
+  "SGAR": [
+    "iPath\\u00ae Pure Beta Sugar ETN", 
+    "Commodities Agriculture", 
+    "Barclays Funds"
+  ], 
+  "HEGE": [
+    "Direxion Dly MSCI EUR Ccy Hdgd Bl 2X ETF", 
+    "Trading-Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "UCC": [
+    "ProShares Ultra Consumer Services", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "RPG": [
+    "Guggenheim S&P 500\\u00ae Pure Growth ETF", 
+    "Large Growth", 
+    "Guggenheim Investments"
+  ], 
+  "UCO": [
+    "ProShares Ultra Bloomberg Crude Oil", 
+    "Trading--Leveraged Commodities", 
+    "ProShares"
+  ], 
+  "UCI": [
+    "UBS ETRACS CMCI Total Return ETN", 
+    "Commodities Broad Basket", 
+    "UBS Group AG"
+  ], 
+  "RBL": [
+    "SPDR\\u00ae S&P Russia ETF", 
+    "Miscellaneous Region", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "HGEU": [
+    "ProShares Hedged FTSE Europe", 
+    "Europe Stock", 
+    "ProShares"
+  ], 
+  "UBND": [
+    "WisdomTree Western Asset Uncnstnd Bd ETF", 
+    "Nontraditional Bond", 
+    "WisdomTree"
+  ], 
+  "STOT": [
+    "SPDR\\u00ae DoubleLine\\u00ae Shrt Term TR Tact ETF", 
+    "Short-Term Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "FIBR": [
+    "iShares Edge US Fixed Income Bal Risk", 
+    "Nontraditional Bond", 
+    "iShares"
+  ], 
+  "ROLA": [
+    "iPath\\u00ae Long Extended Russell 1000\\u00aeTR ETN", 
+    "Trading--Leveraged Equity", 
+    "Barclays Funds"
+  ], 
+  "IFGL": [
+    "iShares International Dev Rel Est", 
+    "Global Real Estate", 
+    "iShares"
+  ], 
+  "FIBG": [
+    "Credit Suisse FI Enhanced Big Cap Gr ETN", 
+    "Large Growth", 
+    "Credit Suisse AG"
+  ], 
+  "DPST": [
+    "Direxion Daily Regional Bnks Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "DZK": [
+    "Direxion Daily Dev Mkts Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "HEUS": [
+    "iShares Currency Hedged MSCI Eurp Sm-Cp", 
+    "Europe Stock", 
+    "iShares"
+  ], 
+  "JO": [
+    "iPath\\u00ae Bloomberg Coffee SubTR ETN", 
+    "Commodities Agriculture", 
+    "Barclays Funds"
+  ], 
+  "DZZ": [
+    "DB Gold Double Short ETN", 
+    "Trading--Inverse Commodities", 
+    "Deutsche Bank AG"
+  ], 
+  "IWF": [
+    "iShares Russell 1000 Growth", 
+    "Large Growth", 
+    "iShares"
+  ], 
+  "IWD": [
+    "iShares Russell 1000 Value", 
+    "Large Value", 
+    "iShares"
+  ], 
+  "IWC": [
+    "iShares Micro-Cap", 
+    "Small Blend", 
+    "iShares"
+  ], 
+  "IWB": [
+    "iShares Russell 1000", 
+    "Large Blend", 
+    "iShares"
+  ], 
+  "IWO": [
+    "iShares Russell 2000 Growth", 
+    "Small Growth", 
+    "iShares"
+  ], 
+  "IWN": [
+    "iShares Russell 2000 Value", 
+    "Small Value", 
+    "iShares"
+  ], 
+  "IWM": [
+    "iShares Russell 2000", 
+    "Small Blend", 
+    "iShares"
+  ], 
+  "IWL": [
+    "iShares Russell Top 200", 
+    "Large Blend", 
+    "iShares"
+  ], 
+  "IWV": [
+    "iShares Russell 3000", 
+    "Large Blend", 
+    "iShares"
+  ], 
+  "PZI": [
+    "PowerShares Zacks Micro Cap ETF", 
+    "Small Value", 
+    "PowerShares"
+  ], 
+  "IWR": [
+    "iShares Russell Mid-Cap", 
+    "Mid-Cap Blend", 
+    "iShares"
+  ], 
+  "KEMP": [
+    "KraneShares FTSE Emerging Mkts Plus ETF", 
+    "Diversified Emerging Mkts", 
+    "KraneShares"
+  ], 
+  "PZD": [
+    "PowerShares Cleantech ETF", 
+    "Miscellaneous Sector", 
+    "PowerShares"
+  ], 
+  "AAIT": [
+    "iShares MSCI All Country Asia Info Tech", 
+    "Technology", 
+    "iShares"
+  ], 
+  "IWY": [
+    "iShares Russell Top 200 Growth", 
+    "Large Growth", 
+    "iShares"
+  ], 
+  "IWX": [
+    "iShares Russell Top 200 Value", 
+    "Large Value", 
+    "iShares"
+  ], 
+  "FVL": [
+    "First Trust Value Line\\u00ae 100 ETF ETF", 
+    "Mid-Cap Blend", 
+    "First Trust"
+  ], 
+  "IAI": [
+    "iShares US Broker-Dealers & Secs Exchs", 
+    "Financial", 
+    "iShares"
+  ], 
+  "IAK": [
+    "iShares US Insurance", 
+    "Financial", 
+    "iShares"
+  ], 
+  "NFRA": [
+    "FlexShares STOXX Global Broad Infras ETF", 
+    "Infrastructure", 
+    "Flexshares Trust"
+  ], 
+  "HAWX": [
+    "iShares Currency Hedged MSCI ACWI ex US", 
+    "Foreign Large Blend", 
+    "iShares"
+  ], 
+  "FVD": [
+    "First Trust Value Line\\u00ae Dividend ETF", 
+    "Large Value", 
+    "First Trust"
+  ], 
+  "FRAK": [
+    "VanEck Vectors Unconvnt Oil & Gas ETF", 
+    "Equity Energy", 
+    "Market Vectors"
+  ], 
+  "VONG": [
+    "Vanguard Russell 1000 Growth ETF", 
+    "Large Growth", 
+    "Vanguard"
+  ], 
+  "IAU": [
+    "iShares Gold Trust", 
+    "Commodities Precious Metals", 
+    "iShares"
+  ], 
+  "IAT": [
+    "iShares US Regional Banks", 
+    "Financial", 
+    "iShares"
+  ], 
+  "CJNK": [
+    "SPDR\\u00ae BofA ML Crossover Corp Bd ETF", 
+    "Corporate Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "CHNB": [
+    "Global X GF China Bond ETF", 
+    "Emerging Markets Bond", 
+    "Global X Funds"
+  ], 
+  "PHO": [
+    "PowerShares Water Resources ETF", 
+    "Miscellaneous Sector", 
+    "PowerShares"
+  ], 
+  "MZZ": [
+    "ProShares UltraShort MidCap400", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "MRRL": [
+    "UBS ETRACS M Py 2xLvg MortgREIT ETN SerB", 
+    "Trading--Leveraged Equity", 
+    "UBS Group AG"
+  ], 
+  "HEWL": [
+    "iShares Currency Hedged MSCI SWZ", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "HKOR": [
+    "Horizons Korea KOSPI 200 ETF", 
+    "Miscellaneous Region", 
+    "Horizons ETFs"
+  ], 
+  "TUSA": [
+    "First Trust Total US Market AlphaDEX ETF", 
+    "Mid-Cap Blend", 
+    "First Trust"
+  ], 
+  "NUGT": [
+    "Direxion Daily Gold Miners Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "HAKD": [
+    "Direxion Daily Cyber Sec&IT Bear 2X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "TRSK": [
+    "Janus Velocity Tail Risk Hdgd Lg Cp ETF", 
+    "Long-Short Equity", 
+    "Janus"
+  ], 
+  "WSKY": [
+    "Spirited Funds/ETFMG Whiskey&Spirits ETF", 
+    "Consumer Defensive", 
+    "SpiritedFund"
+  ], 
+  "HAKK": [
+    "Direxion Daily Cyber Sec&IT Bull 2X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "SKF": [
+    "ProShares UltraShort Financials", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "EWZS": [
+    "iShares MSCI Brazil Small-Cap", 
+    "Latin America Stock", 
+    "iShares"
+  ], 
+  "QQXT": [
+    "First Trust NASDAQ-100 ex-Tech Sect ETF", 
+    "Large Growth", 
+    "First Trust"
+  ], 
+  "GEX": [
+    "VanEck Vectors Global Alt Energy ETF", 
+    "Miscellaneous Sector", 
+    "Market Vectors"
+  ], 
+  "EMSH": [
+    "ProShares Short Term USD Emerg Mkts Bd", 
+    "Emerging Markets Bond", 
+    "ProShares"
+  ], 
+  "EMSA": [
+    "iPath\\u00ae Short Enh MSCI Emerg Mkts ETN", 
+    "Trading--Inverse Equity", 
+    "Barclays Funds"
+  ], 
+  "GEM": [
+    "Goldman Sachs ActiveBeta\\u00ae EMkts Eq ETF", 
+    "Diversified Emerging Mkts", 
+    "Goldman Sachs"
+  ], 
+  "EMSD": [
+    "WisdomTree Strong Dlr Emerg Mkts Eq ETF", 
+    "Diversified Emerging Mkts", 
+    "WisdomTree"
+  ], 
+  "DDP": [
+    "DB Commodity Short ETN", 
+    "Trading--Inverse Commodities", 
+    "Deutsche Bank AG"
+  ], 
+  "DDM": [
+    "ProShares Ultra Dow30", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "JPNH": [
+    "Deutsche X-trackersJpnJPXNikkei400HdgdEq", 
+    "Japan Stock", 
+    "Deutsche Asset Management"
+  ], 
+  "MCHI": [
+    "iShares MSCI China", 
+    "China Region", 
+    "iShares"
+  ], 
+  "JPNL": [
+    "Direxion Daily Japan Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "FTC": [
+    "First Trust Large Cap Gr AlphaDEX\\u00ae ETF", 
+    "Large Growth", 
+    "First Trust"
+  ], 
+  "MELT": [
+    "Direxion Dly Gold Miners Bear 1X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "LMBS": [
+    "First Trust Low Duration Oppos ETF", 
+    "Short-Term Bond", 
+    "First Trust"
+  ], 
+  "VIGI": [
+    "Vanguard Intl Div Apprec Idx ETF", 
+    "Foreign Large Blend", 
+    "Vanguard"
+  ], 
+  "DEMG": [
+    "Deutsche X-trackers FTSE Emerg Cmps Ftr", 
+    "Diversified Emerging Mkts", 
+    "Deutsche Asset Management"
+  ], 
+  "TMV": [
+    "Direxion Daily 20+ Yr Trsy Bear 3X ETF", 
+    "Trading--Inverse Debt", 
+    "Direxion Funds"
+  ], 
+  "GWL": [
+    "SPDR\\u00ae S&P World ex-US ETF", 
+    "Foreign Large Blend", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "DSI": [
+    "iShares MSCI KLD 400 Social", 
+    "Large Blend", 
+    "iShares"
+  ], 
+  "AFTY": [
+    "CSOP FTSE China A50 ETF", 
+    "China Region", 
+    "CSOP Asset Management"
+  ], 
+  "EMAG": [
+    "VanEck Vectors EM Aggregate Bond ETF", 
+    "Emerging Markets Bond", 
+    "Market Vectors"
+  ], 
+  "GWX": [
+    "SPDR\\u00ae S&P International Small Cap ETF", 
+    "Foreign Small/Mid Blend", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "QED": [
+    "IQ Hedge Event-Driven Tracker ETF", 
+    "Market Neutral", 
+    "IndexIQ"
+  ], 
+  "QEH": [
+    "AdvisorShares QAM Equity Hedge ETF", 
+    "Long-Short Equity", 
+    "AdvisorShares"
+  ], 
+  "BSWN": [
+    "VelocityShares VIX Tail Risk ETN", 
+    "Volatility", 
+    "UBS"
+  ], 
+  "FHLC": [
+    "Fidelity\\u00ae MSCI Health Care ETF", 
+    "Health", 
+    "Fidelity Investments"
+  ], 
+  "FTHI": [
+    "First Trust High Income ETF", 
+    "Long-Short Equity", 
+    "First Trust"
+  ], 
+  "XSLV": [
+    "PowerShares S&P SmallCap Low Volatil ETF", 
+    "Small Value", 
+    "PowerShares"
+  ], 
+  "XME": [
+    "SPDR\\u00ae S&P Metals and Mining ETF", 
+    "Natural Resources", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "SLIM": [
+    "The Obesity ETF", 
+    "Health", 
+    "Janus"
+  ], 
+  "KRU": [
+    "ProShares Ultra S&P Regional Banking", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "LVHI": [
+    "Legg Mason Intl Low Volatil Hi Div ETF", 
+    "Foreign Large Value", 
+    "Legg Mason"
+  ], 
+  "NDQ": [
+    "PowerShares QQQ ETF", 
+    "Large Growth", 
+    "PowerShares"
+  ], 
+  "LVHD": [
+    "Legg Mason Low Volatility High Div ETF", 
+    "Large Value", 
+    "Legg Mason"
+  ], 
+  "LVHB": [
+    "Elkhorn Lunt Low Vol/High Beta Tact", 
+    "Large Blend", 
+    "Elkhorn"
+  ], 
+  "KRE": [
+    "SPDR\\u00ae S&P Regional Banking ETF", 
+    "Financial", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "FDLO": [
+    "Fidelity\\u00ae Low Volatility Factor ETF", 
+    "Large Blend", 
+    "Fidelity Investments"
+  ], 
+  "PMPT": [
+    "iSectors\\u00ae Post-MPT Growth ETF", 
+    "Allocation--50% to 70% Equity", 
+    "iSectors"
+  ], 
+  "YYY": [
+    "YieldShares High Income ETF", 
+    "Allocation--70% to 85% Equity", 
+    "YieldShares"
+  ], 
+  "EIS": [
+    "iShares MSCI Israel Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "HYD": [
+    "VanEck Vectors High-Yield Municipal ETF", 
+    "High Yield Muni", 
+    "Market Vectors"
+  ], 
+  "HYG": [
+    "iShares iBoxx $ High Yield Corporate Bd", 
+    "High Yield Bond", 
+    "iShares"
+  ], 
+  "GBIL": [
+    "Goldman Sachs TreasuryAccess 0-1 YearETF", 
+    "Ultrashort Bond", 
+    "Goldman Sachs"
+  ], 
+  "XMPT": [
+    "VanEck Vectors CEF Municipal Income ETF", 
+    "Muni National Long", 
+    "Market Vectors"
+  ], 
+  "YINN": [
+    "Direxion Daily FTSE China Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "HYS": [
+    "PIMCO 0-5 Year High Yield Corp Bd ETF", 
+    "High Yield Bond", 
+    "Pimco"
+  ], 
+  "TQQQ": [
+    "ProShares UltraPro QQQ", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "RCD": [
+    "Guggenheim S&P 500\\u00ae Eq Wt Cons Discr ETF", 
+    "Consumer Cyclical", 
+    "Guggenheim Investments"
+  ], 
+  "QCLN": [
+    "First Trust NASDAQ\\u00ae Cln Edge\\u00ae GrnEngyETF", 
+    "Miscellaneous Sector", 
+    "First Trust"
+  ], 
+  "FAZ": [
+    "Direxion Daily Financial Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "FAS": [
+    "Direxion Daily Financial Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "FIEU": [
+    "Credit Suisse FI Enhanced Europe50 ETN", 
+    "Europe Stock", 
+    "Credit Suisse AG"
+  ], 
+  "FAN": [
+    "First Trust ISE Global Wind Energy ETF", 
+    "Miscellaneous Sector", 
+    "First Trust"
+  ], 
+  "LEDD": [
+    "iPath\\u00ae Pure Beta Lead ETN", 
+    "Commodities Industrial Metals", 
+    "Barclays Funds"
+  ], 
+  "FAB": [
+    "First Trust Multi Cap Val AlphaDEX\\u00ae ETF", 
+    "Mid-Cap Value", 
+    "First Trust"
+  ], 
+  "HEWW": [
+    "iShares Currency Hedged MSCI Mexico", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "FIEE": [
+    "UBS AG FI Enhanced Europe 50 ETN", 
+    "Europe Stock", 
+    "UBS Group AG"
+  ], 
+  "FAD": [
+    "First Trust Multi Cap Gr AlphaDEX\\u00ae ETF", 
+    "Mid-Cap Growth", 
+    "First Trust"
+  ], 
+  "FIEG": [
+    "DB FI Enhanced Global High Yield ETN", 
+    "World Stock", 
+    "Deutsche Bank AG"
+  ], 
+  "DSXJ": [
+    "JPMorgan 2X Short US 10 Yr Trsy Fut ETN", 
+    "Trading-Inverse Debt", 
+    "JPMorgan"
+  ], 
+  "ADRU": [
+    "BLDRS Europe Select ADR ETF", 
+    "Europe Stock", 
+    "PowerShares"
+  ], 
+  "NUAG": [
+    "NuShares Enhanced Yield US Aggt Bd ETF", 
+    "Intermediate-Term Bond", 
+    "Nuveen"
+  ], 
+  "IVLU": [
+    "iShares Edge MSCI Intl Value Factor", 
+    "Foreign Large Value", 
+    "iShares"
+  ], 
+  "ADRE": [
+    "BLDRS Emerging Markets 50 ADR ETF", 
+    "Diversified Emerging Mkts", 
+    "PowerShares"
+  ], 
+  "ADRD": [
+    "BLDRS Developed Markets 100 ADR ETF", 
+    "Foreign Large Value", 
+    "PowerShares"
+  ], 
+  "SFLA": [
+    "iPath\\u00ae Long Extended S&P 500\\u00ae TR ETN", 
+    "Trading--Leveraged Equity", 
+    "Barclays Funds"
+  ], 
+  "VGSH": [
+    "Vanguard Short-Term Government Bond ETF", 
+    "Short Government", 
+    "Vanguard"
+  ], 
+  "LVL": [
+    "Guggenheim S&P Global Dividend Opps ETF", 
+    "World Stock", 
+    "Guggenheim Investments"
+  ], 
+  "GMOM": [
+    "Cambria Global Momentum ETF", 
+    "World Allocation", 
+    "CAMBRIA ETF TRUST"
+  ], 
+  "A1CSX3": [
+    "Global X NASDAQ China Technology ETF", 
+    "China Region", 
+    "Global X Funds"
+  ], 
+  "GHYG": [
+    "iShares Global High Yield Corporate Bond", 
+    "World Bond", 
+    "iShares"
+  ], 
+  "RPV": [
+    "Guggenheim S&P 500\\u00ae Pure Value ETF", 
+    "Large Value", 
+    "Guggenheim Investments"
+  ], 
+  "MIDZ": [
+    "Direxion Daily Mid Cap Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "EFNL": [
+    "iShares MSCI Finland Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "MIDU": [
+    "Direxion Daily Mid Cap Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "AAXJ": [
+    "iShares MSCI All Country Asia ex Japan", 
+    "Pacific/Asia ex-Japan Stk", 
+    "iShares"
+  ], 
+  "QEMM": [
+    "SPDR\\u00ae MSCI Emerging Mkts StratcFacts ETF", 
+    "Diversified Emerging Mkts", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "SOVB": [
+    "Cambria Sovereign High Yield Bond ETF", 
+    "Emerging Markets Bond", 
+    "CAMBRIA ETF TRUST"
+  ], 
+  "MYY": [
+    "ProShares Short MidCap400", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "IBDH": [
+    "iShares iBonds Dec 2018 Term Corporate", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "IBDK": [
+    "iShares iBonds Dec 2019 Term Corporate", 
+    "Short-Term Bond", 
+    "iShares"
+  ], 
+  "IBDJ": [
+    "iShares iBonds Dec 2017 Term Corporate", 
+    "Short-Term Bond", 
+    "iShares"
+  ], 
+  "IBDM": [
+    "iShares iBonds Dec 2021 Term Corporate", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "ENGN": [
+    "iShares Industrials Bond", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "IBDO": [
+    "iShares iBonds Dec 2023 Term Corporate", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "PIO": [
+    "PowerShares Global Water ETF", 
+    "Miscellaneous Sector", 
+    "PowerShares"
+  ], 
+  "ETFSPHYSICAL": [
+    "ETFS Physical White Metal Basket", 
+    "Commodities Precious Metals", 
+    "ETF Securities"
+  ], 
+  "IBDC": [
+    "iShares iBonds Mar 2020 Term Corporate", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "IBDB": [
+    "iShares iBonds Mar 2018 Term Corporate", 
+    "Short-Term Bond", 
+    "iShares"
+  ], 
+  "PID": [
+    "PowerShares Intl Div Achiev ETF", 
+    "Foreign Large Blend", 
+    "PowerShares"
+  ], 
+  "IBDD": [
+    "iShares iBonds Mar 2023 Term Corporate", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "PIZ": [
+    "PowerShares DWA Developed Mkts Mom ETF", 
+    "Foreign Large Growth", 
+    "PowerShares"
+  ], 
+  "IBDQ": [
+    "iShares iBonds Dec 2025 Term Corporate", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "IBDP": [
+    "iShares iBonds Dec 2024 Term Corporate", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "6KSA": [
+    "KraneShares CSI China Internet ETF", 
+    "China Region", 
+    "KraneShares"
+  ], 
+  "GREK": [
+    "Global X MSCI Greece ETF", 
+    "Miscellaneous Region", 
+    "Global X Funds"
+  ], 
+  "OASI": [
+    "O'Shares FTSE Asia Pacific Qual Div ETF", 
+    "Diversified Pacific/Asia", 
+    "O\\u2019Shares Investments"
+  ], 
+  "GLD": [
+    "SPDR\\u00ae Gold Shares", 
+    "Commodities Precious Metals", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "WMW": [
+    "ELEMENTS Morningstar WideMoat Foc TR ETN", 
+    "Large Blend", 
+    "ELEMENTS"
+  ], 
+  "DOG": [
+    "ProShares Short Dow30", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "JHDG": [
+    "WisdomTree Japan Hedged Qual Div Gr ETF", 
+    "Japan Stock", 
+    "WisdomTree"
+  ], 
+  "SKOR": [
+    "FlexShares Credit-Scored US Corp Bd ETF", 
+    "Corporate Bond", 
+    "Flexshares Trust"
+  ], 
+  "UBT": [
+    "ProShares Ultra 20+ Year Treasury", 
+    "Trading--Leveraged Debt", 
+    "ProShares"
+  ], 
+  "HEFV": [
+    "iShares Edge MSCI Min Vol EAFE Ccy Hdg", 
+    "Foreign Large Blend", 
+    "iShares"
+  ], 
+  "TWOK": [
+    "SPDR\\u00ae Russell 2000 ETF", 
+    "Small Blend", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "UBR": [
+    "ProShares Ultra MSCI Brazil Capped", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "SMN": [
+    "ProShares UltraShort Basic Materials", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "UBG": [
+    "UBS ETRACS CMCI Gold Total Return ETN", 
+    "Commodities Precious Metals", 
+    "UBS Group AG"
+  ], 
+  "HEFA": [
+    "iShares Currency Hedged MSCI EAFE", 
+    "Foreign Large Blend", 
+    "iShares"
+  ], 
+  "UBC": [
+    "UBS ETRACS CMCI Livestock Tot Ret ETN", 
+    "Commodities Agriculture", 
+    "UBS Group AG"
+  ], 
+  "UBM": [
+    "UBS ETRACS CMCI Indl Mtls Tot Ret ETN", 
+    "Commodities Industrial Metals", 
+    "UBS Group AG"
+  ], 
+  "UBN": [
+    "UBS ETRACS CMCI Energy Total Return ETN", 
+    "Commodities Energy", 
+    "UBS Group AG"
+  ], 
+  "CUPM": [
+    "iPath\\u00ae Pure Beta Copper ETN", 
+    "Commodities Industrial Metals", 
+    "Barclays Funds"
+  ], 
+  "DGLD": [
+    "VelocityShares 3x Inverse Gold ETN", 
+    "Trading--Inverse Commodities", 
+    "Credit Suisse AG"
+  ], 
+  "JDG": [
+    "WisdomTree Japan Quality Dividend Gr ETF", 
+    "Japan Stock", 
+    "WisdomTree"
+  ], 
+  "DES": [
+    "WisdomTree SmallCap Dividend ETF", 
+    "Small Value", 
+    "WisdomTree"
+  ], 
+  "DEW": [
+    "WisdomTree Global High Dividend ETF", 
+    "World Stock", 
+    "WisdomTree"
+  ], 
+  "REGL": [
+    "ProShares S&P MidCap 400 Dividend Arst", 
+    "Mid-Cap Value", 
+    "ProShares"
+  ], 
+  "DEM": [
+    "WisdomTree Emerging Markets High Div ETF", 
+    "Diversified Emerging Mkts", 
+    "WisdomTree"
+  ], 
+  "DEE": [
+    "DB Commodity Double Short ETN", 
+    "Trading--Inverse Commodities", 
+    "Deutsche Bank AG"
+  ], 
+  "DEF": [
+    "Guggenheim Defensive Equity ETF", 
+    "Large Value", 
+    "Guggenheim Investments"
+  ], 
+  "DDJP": [
+    "WisdomTree Dynamic Ccy Hdgd Jpn Eq ETF", 
+    "Japan Stock", 
+    "WisdomTree"
+  ], 
+  "AMJ": [
+    "JPMorgan Alerian MLP ETN", 
+    "Energy Limited Partnership", 
+    "JPMorgan"
+  ], 
+  "CROC": [
+    "ProShares UltraShort Australian Dollar", 
+    "Trading--Miscellaneous", 
+    "ProShares"
+  ], 
+  "TLDH": [
+    "FlexShares Ccy Hdgd MSDM ex-USFct TltIdx", 
+    "Foreign Large Value", 
+    "Flexshares Trust"
+  ], 
+  "AMU": [
+    "UBS ETRACS Alerian MLP ETN", 
+    "Energy Limited Partnership", 
+    "UBS Group AG"
+  ], 
+  "MVIN": [
+    "Natixis Seeyond Intl Mnmm Volatil ETF", 
+    " ", 
+    "Natixis"
+  ], 
+  "PNQI": [
+    "PowerShares NASDAQ Internet ETF", 
+    "Technology", 
+    "PowerShares"
+  ], 
+  "UPW": [
+    "ProShares Ultra Utilities", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "XMLV": [
+    "PowerShares S&P MidCap Low Volatil ETF", 
+    "Mid-Cap Value", 
+    "PowerShares"
+  ], 
+  "IVE": [
+    "iShares S&P 500 Value", 
+    "Large Value", 
+    "iShares"
+  ], 
+  "UTLF": [
+    "iShares Edge MSCI Multifactor Utilities", 
+    "Utilities", 
+    "iShares"
+  ], 
+  "RFAP": [
+    "First Trust RiverFront Dyn Asia Pac ETF", 
+    "Diversified Pacific/Asia", 
+    "First Trust"
+  ], 
+  "ANGL": [
+    "VanEck Vectors Fallen Angel HiYld Bd ETF", 
+    "High Yield Bond", 
+    "Market Vectors"
+  ], 
+  "IVV": [
+    "iShares Core S&P 500", 
+    "Large Blend", 
+    "iShares"
+  ], 
+  "IVW": [
+    "iShares S&P 500 Growth", 
+    "Large Growth", 
+    "iShares"
+  ], 
+  "SMK": [
+    "ProShares UltraShort MSCI Mexico Cpd IMI", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "IGOV": [
+    "iShares International Treasury Bond", 
+    "World Bond", 
+    "iShares"
+  ], 
+  "FINX": [
+    "Global X FinTech Thematic ETF", 
+    "Technology", 
+    "Global X Funds"
+  ], 
+  "GVIP": [
+    "Goldman Sachs Hedge Industry VIP ETF", 
+    " ", 
+    "Goldman Sachs"
+  ], 
+  "RING": [
+    "iShares MSCI Global Gold Miners", 
+    "Equity Precious Metals", 
+    "iShares"
+  ], 
+  "XSOE": [
+    "WisdomTree EmMkts ex-Stt-Ownd EntrprsETF", 
+    "Diversified Emerging Mkts", 
+    "WisdomTree"
+  ], 
+  "BKF": [
+    "iShares MSCI BRIC", 
+    "Diversified Emerging Mkts", 
+    "iShares"
+  ], 
+  "FDMO": [
+    "Fidelity\\u00ae Momentum Factor ETF", 
+    "Large Growth", 
+    "Fidelity Investments"
+  ], 
+  "FKU": [
+    "First Trust United Kingdom AlphaDEX\\u00ae ETF", 
+    "Miscellaneous Region", 
+    "First Trust"
+  ], 
+  "YXI": [
+    "ProShares Short FTSE China 50", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "TYNS": [
+    "Direxion Daily 7-10 Yr Trs Bear 1X ETF", 
+    "Trading--Inverse Debt", 
+    "Direxion Funds"
+  ], 
+  "GDXJ": [
+    "VanEck Vectors Junior Gold Miners ETF", 
+    "Equity Precious Metals", 
+    "Market Vectors"
+  ], 
+  "GSIE": [
+    "Goldman Sachs ActiveBeta\\u00ae Intl Eq ETF", 
+    "Foreign Large Blend", 
+    "Goldman Sachs"
+  ], 
+  "QUAL": [
+    "iShares Edge MSCI USA Quality Factor", 
+    "Large Growth", 
+    "iShares"
+  ], 
+  "HYIH": [
+    "Deutsche X-trackers HY Corp Bd IntrRtHdg", 
+    "Nontraditional Bond", 
+    "Deutsche Asset Management"
+  ], 
+  "GDXS": [
+    "ProShares UltraShort Gold Miners", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "SJB": [
+    "ProShares Short High Yield", 
+    "Trading--Inverse Debt", 
+    "ProShares"
+  ], 
+  "SCHM": [
+    "Schwab US Mid-Cap ETF\\u2122", 
+    "Mid-Cap Blend", 
+    "Schwab ETFs"
+  ], 
+  "IQLT": [
+    "iShares Edge MSCI Intl Quality Factor", 
+    "Foreign Large Blend", 
+    "iShares"
+  ], 
+  "GDX": [
+    "VanEck Vectors Gold Miners ETF", 
+    "Equity Precious Metals", 
+    "Market Vectors"
+  ], 
+  "BYLD": [
+    "iShares Yield Optimized Bond", 
+    "Intermediate-Term Bond", 
+    "iShares"
+  ], 
+  "EPHE": [
+    "iShares MSCI Philippines", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "VDE": [
+    "Vanguard Energy ETF", 
+    "Equity Energy", 
+    "Vanguard"
+  ], 
+  "VHT": [
+    "Vanguard Health Care ETF", 
+    "Health", 
+    "Vanguard"
+  ], 
+  "LWC": [
+    "SPDR\\u00ae Blmbg Barclays LT Corp Bd ETF", 
+    "Corporate Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "MVV": [
+    "ProShares Ultra MidCap400", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "SDOG": [
+    "ALPS Sector Dividend Dogs ETF", 
+    "Large Value", 
+    "ALPS"
+  ], 
+  "OSMS": [
+    "Barclays OFI SteelPath MLP ETN", 
+    "Equity Energy", 
+    "Barclays Funds"
+  ], 
+  "QQEW": [
+    "First Trust NASDAQ-100 Equal Wtd ETF", 
+    "Large Growth", 
+    "First Trust"
+  ], 
+  "SDOW": [
+    "ProShares UltraPro Short Dow30", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "MDYV": [
+    "SPDR\\u00ae S&P 400 Mid Cap Value ETF", 
+    "Mid-Cap Value", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "GVI": [
+    "iShares Interm Government/Credit Bd", 
+    "Intermediate-Term Bond", 
+    "iShares"
+  ], 
+  "BDCL": [
+    "UBS ETRACS 2xLvg Lng WF Busn Dev Co ETN", 
+    "Trading--Leveraged Equity", 
+    "UBS Group AG"
+  ], 
+  "SLVP": [
+    "iShares MSCI Global Silver Miners", 
+    "Equity Precious Metals", 
+    "iShares"
+  ], 
+  "SLVO": [
+    "Credit Suisse X-Links Silver CovCall ETN", 
+    "Commodities Precious Metals", 
+    "Credit Suisse AG"
+  ], 
+  "BDCZ": [
+    "UBS ETRACS Wells Fargo\\u00ae Busn Dev Co ETN", 
+    "Financial", 
+    "UBS Group AG"
+  ], 
+  "MDYG": [
+    "SPDR\\u00ae S&P 400 Mid Cap Growth ETF", 
+    "Mid-Cap Growth", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "TNA": [
+    "Direxion Daily Small Cap Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "BDCS": [
+    "UBS ETRACS Wells Fargo Busn Dev Co ETN", 
+    "Financial", 
+    "UBS Group AG"
+  ], 
+  "ISRA": [
+    "VanEck Vectors Israel ETF", 
+    "Miscellaneous Region", 
+    "Market Vectors"
+  ], 
+  "QDF": [
+    "FlexShares Quality Dividend ETF", 
+    "Large Value", 
+    "Flexshares Trust"
+  ], 
+  "EZY": [
+    "WisdomTree LargeCap Value ETF", 
+    "Large Value", 
+    "WisdomTree"
+  ], 
+  "EZU": [
+    "iShares MSCI Eurozone", 
+    "Europe Stock", 
+    "iShares"
+  ], 
+  "DBSE": [
+    "Deutsche X-trackers MSCI SthrnEurpHdgdEq", 
+    "Europe Stock", 
+    "Deutsche Asset Management"
+  ], 
+  "EZM": [
+    "WisdomTree MidCap Earnings ETF", 
+    "Mid-Cap Blend", 
+    "WisdomTree"
+  ], 
+  "EZJ": [
+    "ProShares Ultra MSCI Japan", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "EZA": [
+    "iShares MSCI South Africa", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "DBSP": [
+    "Deutsche X-trackers MSCI Spain Hedged Eq", 
+    "Miscellaneous Region", 
+    "Deutsche Asset Management"
+  ], 
+  "CPI": [
+    "IQ Real Return ETF", 
+    "Tactical Allocation", 
+    "IndexIQ"
+  ], 
+  "SYLD": [
+    "Cambria Shareholder Yield ETF", 
+    "Mid-Cap Value", 
+    "CAMBRIA ETF TRUST"
+  ], 
+  "IBUY": [
+    "Amplify Online Retail ETF", 
+    "Consumer Cyclical", 
+    "Amplifyetfs"
+  ], 
+  "ACWV": [
+    "iShares Edge MSCI Min Vol Global", 
+    "World Stock", 
+    "iShares"
+  ], 
+  "FALN": [
+    "iShares US Fallen Angels USD Bond", 
+    "High Yield Bond", 
+    "iShares"
+  ], 
+  "AXJL": [
+    "WisdomTree Asia Pacific ex-Japan ETF", 
+    "Pacific/Asia ex-Japan Stk", 
+    "WisdomTree"
+  ], 
+  "CAFE": [
+    "iPath\\u00ae Pure Beta Coffee ETN", 
+    "Commodities Agriculture", 
+    "Barclays Funds"
+  ], 
+  "WDRW": [
+    "Direxion Daily Regional Bnks Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "OUSA": [
+    "O'Shares FTSE US Quality Dividend ETF", 
+    "Large Value", 
+    "O\\u2019Shares Investments"
+  ], 
+  "UAE": [
+    "iShares MSCI UAE Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "UAG": [
+    "UBS ETRACS CMCI Agriculture Tot Ret ETN", 
+    "Commodities Agriculture", 
+    "UBS Group AG"
+  ], 
+  "MONY": [
+    "iShares Financials Bond", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "NOBL": [
+    "ProShares S&P 500 Dividend Aristocrats", 
+    "Large Blend", 
+    "ProShares"
+  ], 
+  "DBAU": [
+    "Deutsche X-trackers MSCI Aust Hdgd Eq", 
+    "Miscellaneous Region", 
+    "Deutsche Asset Management"
+  ], 
+  "DBAW": [
+    "Deutsche X-trackers MSCI AlWd exUS HgdEq", 
+    "Foreign Large Blend", 
+    "Deutsche Asset Management"
+  ], 
+  "DBAP": [
+    "Deutsche X-trackers MSCI AsPc exJp HgdEq", 
+    "Pacific/Asia ex-Japan Stk", 
+    "Deutsche Asset Management"
+  ], 
+  "EVAL": [
+    "iShares MSCI Emerging Markets Value", 
+    "Diversified Emerging Mkts", 
+    "iShares"
+  ], 
+  "DUST": [
+    "Direxion Daily Gold Miners Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "IFEU": [
+    "iShares Europe Developed Real Estate", 
+    "Global Real Estate", 
+    "iShares"
+  ], 
+  "FFR": [
+    "First Trust FTSE EN Dev Mkts Rel Est ETF", 
+    "Global Real Estate", 
+    "First Trust"
+  ], 
+  "FIDU": [
+    "Fidelity\\u00ae MSCI Industrials ETF", 
+    "Industrials", 
+    "Fidelity Investments"
+  ], 
+  "ROBO": [
+    "Robo Global\\u2122 Robotics&Automation ETF", 
+    "Miscellaneous Sector", 
+    "Exchange Traded Concepts Trust"
+  ], 
+  "SMHD": [
+    "UBS ETRACS M Py 2xLvg US Sm Cp HiDiv ETN", 
+    "Trading--Leveraged Equity", 
+    "UBS Group AG"
+  ], 
+  "DTH": [
+    "WisdomTree International High Div ETF", 
+    "Foreign Large Value", 
+    "WisdomTree"
+  ], 
+  "DTO": [
+    "DB Crude Oil Double Short ETN", 
+    "Trading--Inverse Commodities", 
+    "Deutsche Bank AG"
+  ], 
+  "DTN": [
+    "WisdomTree Dividend ex-Financials ETF", 
+    "Large Value", 
+    "WisdomTree"
+  ], 
+  "BDD": [
+    "DB Base Metals Double Long ETN", 
+    "Trading--Leveraged Commodities", 
+    "Deutsche Bank AG"
+  ], 
+  "WREI": [
+    "Wilshire US REIT ETF", 
+    "Real Estate", 
+    "Guggenheim Investments"
+  ], 
+  "DTD": [
+    "WisdomTree Total Dividend ETF", 
+    "Large Value", 
+    "WisdomTree"
+  ], 
+  "PCEF": [
+    "PowerShares CEF Income Composite ETF", 
+    "Allocation--30% to 50% Equity", 
+    "PowerShares"
+  ], 
+  "AGGE": [
+    "IQ Enhanced Core Bond US ETF", 
+    "Intermediate-Term Bond", 
+    "IndexIQ"
+  ], 
+  "EWL": [
+    "iShares MSCI Switzerland Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "YCS": [
+    "ProShares UltraShort Yen", 
+    "Trading--Miscellaneous", 
+    "ProShares"
+  ], 
+  "AGGP": [
+    "IQ Enhanced Core Plus Bond US ETF", 
+    "Intermediate-Term Bond", 
+    "IndexIQ"
+  ], 
+  "AGGY": [
+    "WisdomTree Barclays US AggtBd EnhYld ETF", 
+    "Intermediate-Term Bond", 
+    "WisdomTree"
+  ], 
+  "IGV": [
+    "iShares North American Tech-Software", 
+    "Technology", 
+    "iShares"
+  ], 
+  "FTW": [
+    "First Trust Taiwan AlphaDEX\\u00ae ETF", 
+    "China Region", 
+    "First Trust"
+  ], 
+  "EWG": [
+    "iShares MSCI Germany", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "FTA": [
+    "First Trust Large Cap Val AlphaDEX\\u00ae ETF", 
+    "Large Value", 
+    "First Trust"
+  ], 
+  "IGF": [
+    "iShares Global Infrastructure", 
+    "Infrastructure", 
+    "iShares"
+  ], 
+  "IGE": [
+    "iShares North American Natural Resources", 
+    "Natural Resources", 
+    "iShares"
+  ], 
+  "UDBI": [
+    "Legg Mason US Diversified Core ETF", 
+    "Large Blend", 
+    "Legg Mason"
+  ], 
+  "IGN": [
+    "iShares North American Tech-Multimd Ntwk", 
+    "Technology", 
+    "iShares"
+  ], 
+  "IGM": [
+    "iShares North American Tech", 
+    "Technology", 
+    "iShares"
+  ], 
+  "THRK": [
+    "SPDR\\u00ae Russell 3000 ETF", 
+    "Large Blend", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "PSAU": [
+    "PowerShares Global Gold & Prec Mtls ETF", 
+    "Equity Precious Metals", 
+    "PowerShares"
+  ], 
+  "CHLC": [
+    "Market Vectors\\u00ae Renminbi Bond ETF", 
+    "Emerging Markets Bond", 
+    "Market Vectors"
+  ], 
+  "MXI": [
+    "iShares Global Materials", 
+    "Natural Resources", 
+    "iShares"
+  ], 
+  "PJP": [
+    "PowerShares Dynamic Pharmaceuticals ETF", 
+    "Health", 
+    "PowerShares"
+  ], 
+  "FV": [
+    "First Trust Dorsey Wright Focus 5 ETF", 
+    "Mid-Cap Growth", 
+    "First Trust"
+  ], 
+  "CROP": [
+    "IQ Global Agribusiness Small Cap ETF", 
+    "Consumer Defensive", 
+    "IndexIQ"
+  ], 
+  "FLQH": [
+    "Franklin LibertyQ Intl Eq Hdgd ETF", 
+    "Foreign Large Blend", 
+    "Franklin Templeton Investments"
+  ], 
+  "BZF": [
+    "WisdomTree Brazilian Real Strategy ETF", 
+    "Single Currency", 
+    "WisdomTree"
+  ], 
+  "ACIM": [
+    "SPDR\\u00ae MSCI ACWI IMI ETF", 
+    "World Stock", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "ADRA": [
+    "BLDRS Asia 50 ADR ETF", 
+    "Diversified Pacific/Asia", 
+    "PowerShares"
+  ], 
+  "KNOW": [
+    "Direxion All Cap Insider Sentiment ETF", 
+    "Mid-Cap Blend", 
+    "Direxion Funds"
+  ], 
+  "SMH": [
+    "VanEck Vectors Semiconductor ETF", 
+    "Technology", 
+    "Market Vectors"
+  ], 
+  "VYMI": [
+    "Vanguard Intl Hi Div Yld Idx ETF", 
+    "Foreign Large Value", 
+    "Vanguard"
+  ], 
+  "FM": [
+    "iShares MSCI Frontier 100", 
+    "Diversified Emerging Mkts", 
+    "iShares"
+  ], 
+  "DXJF": [
+    "WisdomTree Japan Hedged Financials ETF", 
+    "Japan Stock", 
+    "WisdomTree"
+  ], 
+  "HYHG": [
+    "ProShares High Yield\\u2014Interest Rate Hdgd", 
+    "Nontraditional Bond", 
+    "ProShares"
+  ], 
+  "DXJC": [
+    "WisdomTree Japan Hedged Capital Gds ETF", 
+    "Japan Stock", 
+    "WisdomTree"
+  ], 
+  "AMLP": [
+    "Alerian MLP ETF", 
+    "Energy Limited Partnership", 
+    "ALPS"
+  ], 
+  "DXJH": [
+    "WisdomTree Japan Hedged Health Care ETF", 
+    "Japan Stock", 
+    "WisdomTree"
+  ], 
+  "MDY": [
+    "SPDR\\u00ae S&P MidCap 400 ETF", 
+    "Mid-Cap Blend", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "DXJR": [
+    "WisdomTree Japan Hedged Real Estate ETF", 
+    "Japan Stock", 
+    "WisdomTree"
+  ], 
+  "DXJS": [
+    "WisdomTree Japan Hedged SmallCap Eq ETF", 
+    "Japan Stock", 
+    "WisdomTree"
+  ], 
+  "IWS": [
+    "iShares Russell Mid-Cap Value", 
+    "Mid-Cap Value", 
+    "iShares"
+  ], 
+  "SHNY": [
+    "Direxion Daily Silver Mnrs Bull 2X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "DGAZ": [
+    "VelocityShares 3x Inv Natural Gas ETN", 
+    "Trading--Inverse Commodities", 
+    "Credit Suisse AG"
+  ], 
+  "BOND": [
+    "PIMCO Total Return Active ETF", 
+    "Intermediate-Term Bond", 
+    "Pimco"
+  ], 
+  "AXJS": [
+    "iShares MSCI AC Asia ex Japan Small-Cap", 
+    "Pacific/Asia ex-Japan Stk", 
+    "iShares"
+  ], 
+  "ACWF": [
+    "iShares Edge MSCI Multifactor Global", 
+    "World Stock", 
+    "iShares"
+  ], 
+  "ACWI": [
+    "iShares MSCI ACWI", 
+    "World Stock", 
+    "iShares"
+  ], 
+  "IWP": [
+    "iShares Russell Mid-Cap Growth", 
+    "Mid-Cap Growth", 
+    "iShares"
+  ], 
+  "DFJ": [
+    "WisdomTree Japan SmallCap Dividend ETF", 
+    "Japan Stock", 
+    "WisdomTree"
+  ], 
+  "DFE": [
+    "WisdomTree Europe SmallCap Dividend ETF", 
+    "Europe Stock", 
+    "WisdomTree"
+  ], 
+  "ACWX": [
+    "iShares MSCI ACWI ex US", 
+    "Foreign Large Blend", 
+    "iShares"
+  ], 
+  "EURL": [
+    "Direxion Daily FTSE Europe Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "JEM": [
+    "iPath\\u00ae GEMS ETN", 
+    "Multicurrency", 
+    "Barclays Funds"
+  ], 
+  "VIIX": [
+    "VelocityShares VIX ST ETN", 
+    "Volatility", 
+    "Credit Suisse AG"
+  ], 
+  "VIIZ": [
+    "VelocityShares VIX MT ETN", 
+    "Volatility", 
+    "Credit Suisse AG"
+  ], 
+  "WBIA": [
+    "WBI Tactical SMG Shares ETF", 
+    "Mid-Cap Blend", 
+    "WBI Investments"
+  ], 
+  "ALD": [
+    "WisdomTree Asia Local Debt ETF", 
+    "Emerging-Markets Local-Currency Bond", 
+    "WisdomTree"
+  ], 
+  "VTWV": [
+    "Vanguard Russell 2000 Value ETF", 
+    "Small Value", 
+    "Vanguard"
+  ], 
+  "TLEH": [
+    "FlexShares Ccy Hdgd MS EM Fct TiltIdx", 
+    "Diversified Emerging Mkts", 
+    "Flexshares Trust"
+  ], 
+  "VTWO": [
+    "Vanguard Russell 2000 ETF", 
+    "Small Blend", 
+    "Vanguard"
+  ], 
+  "VTWG": [
+    "Vanguard Russell 2000 Growth ETF", 
+    "Small Growth", 
+    "Vanguard"
+  ], 
+  "CMBS": [
+    "iShares CMBS", 
+    "Intermediate-Term Bond", 
+    "iShares"
+  ], 
+  "PAGG": [
+    "PowerShares Global Agriculture ETF", 
+    "Natural Resources", 
+    "PowerShares"
+  ], 
+  "FLCO": [
+    "Franklin Liberty Investment Grd Corp ETF", 
+    "Corporate Bond", 
+    "Franklin Templeton Investments"
+  ], 
+  "WBIR": [
+    "WBI Tactical Rotation Shares", 
+    "Multialternative", 
+    "WBI Investments"
+  ], 
+  "SOIL": [
+    "Global X Fertilizers/Potash ETF", 
+    "Natural Resources", 
+    "Global X Funds"
+  ], 
+  "GHII": [
+    "Guggenheim S&P High Income Infras ETF", 
+    "Infrastructure", 
+    "Guggenheim Investments"
+  ], 
+  "USAG": [
+    "United States Agriculture Index", 
+    "Commodities Agriculture", 
+    "United States Commodity Funds LLC"
+  ], 
+  "TOK": [
+    "iShares MSCI Kokusai", 
+    "World Stock", 
+    "iShares"
+  ], 
+  "WBIB": [
+    "WBI Tactical SMV Shares ETF", 
+    "Mid-Cap Blend", 
+    "WBI Investments"
+  ], 
+  "WBIC": [
+    "WBI Tactical SMY Shares ETF", 
+    "Mid-Cap Value", 
+    "WBI Investments"
+  ], 
+  "WBID": [
+    "WBI Tactical SMS Shares ETF", 
+    "Mid-Cap Blend", 
+    "WBI Investments"
+  ], 
+  "WBIE": [
+    "WBI Tactical LCG Shares ETF", 
+    "Large Growth", 
+    "WBI Investments"
+  ], 
+  "WBIF": [
+    "WBI Tactical LCV Shares ETF", 
+    "Large Blend", 
+    "WBI Investments"
+  ], 
+  "WBIG": [
+    "WBI Tactical LCY Shares ETF", 
+    "Large Blend", 
+    "WBI Investments"
+  ], 
+  "WBIH": [
+    "WBI Tactical High Income Shares ETF", 
+    "Allocation--15% to 30% Equity", 
+    "WBI Investments"
+  ], 
+  "WBII": [
+    "WBI Tactical Income Shares ETF", 
+    "Allocation--15% to 30% Equity", 
+    "WBI Investments"
+  ], 
+  "ERO": [
+    "iPath\\u00ae EUR/USD Exchange Rate ETN", 
+    "Single Currency", 
+    "Barclays Funds"
+  ], 
+  "BNDX": [
+    "Vanguard Total International Bond ETF", 
+    "World Bond", 
+    "Vanguard"
+  ], 
+  "XOP": [
+    "SPDR\\u00ae S&P Oil & Gas Explor & Prodtn ETF", 
+    "Equity Energy", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "FVC": [
+    "First Trust Dorsey Wright Dynamic Foc 5", 
+    "Mid-Cap Blend", 
+    "First Trust"
+  ], 
+  "EMQQ": [
+    "EMQQ Emerging Markets Intrnt & Ecmrc ETF", 
+    "Diversified Emerging Mkts", 
+    "Exchange Traded Concepts Trust"
+  ], 
+  "VTEB": [
+    "Vanguard Tax-Exempt Bond ETF", 
+    "Muni National Long", 
+    "Vanguard"
+  ], 
+  "HGI": [
+    "Guggenheim Intl Multi-Asset Inc ETF", 
+    "Foreign Large Value", 
+    "Guggenheim Investments"
+  ], 
+  "MLPS": [
+    "UBS ETRACS 1xM Shrt Alrn MLP Infr TR ETN", 
+    "Trading--Inverse Equity", 
+    "UBS Group AG"
+  ], 
+  "FDRR": [
+    "Fidelity\\u00ae Dividend ETF for Rising Rates", 
+    "Large Value", 
+    "Fidelity Investments"
+  ], 
+  "MLPZ": [
+    "UBS ETRACS 2x M Lvg S&P MLP ETN SerB", 
+    "Trading--Leveraged Equity", 
+    "UBS AG"
+  ], 
+  "MLPG": [
+    "UBS ETRACS Alerian Natural Gas MLP ETN", 
+    "Energy Limited Partnership", 
+    "UBS Group AG"
+  ], 
+  "MLPC": [
+    "C-Tracks ETN Bsd on Perf of M/H MLP Fdmt", 
+    "Energy Limited Partnership", 
+    "Citigroup"
+  ], 
+  "MLPB": [
+    "UBS ETRACS Alerian MLPInfrs ETN SerB", 
+    "Energy Limited Partnership", 
+    "UBS Group AG"
+  ], 
+  "MLPA": [
+    "Global X MLP ETF", 
+    "Energy Limited Partnership", 
+    "Global X Funds"
+  ], 
+  "MLPO": [
+    "Credit Suisse S&P MLP ETN", 
+    "Energy Limited Partnership", 
+    "Credit Suisse AG"
+  ], 
+  "MLPJ": [
+    "Global X Junior MLP ETF", 
+    "Energy Limited Partnership", 
+    "Global X Funds"
+  ], 
+  "MLPI": [
+    "UBS ETRACS Alerian MLP Infras ETN", 
+    "Energy Limited Partnership", 
+    "UBS Group AG"
+  ], 
+  "CRAK": [
+    "VanEck Vectors Oil Refiners ETF", 
+    "Equity Energy", 
+    "Market Vectors"
+  ], 
+  "FTRI": [
+    "First Trust Indxx Glbl Natrl Res Inc ETF", 
+    "Equity Precious Metals", 
+    "First Trust"
+  ], 
+  "BXUC": [
+    "Barclays ETN+ Long C Leveraged", 
+    "Trading-Leveraged Equity", 
+    "Barclays Funds"
+  ], 
+  "BXUB": [
+    "Barclays ETN+ Long B Leveraged", 
+    "Trading-Leveraged Equity", 
+    "Barclays Funds"
+  ], 
+  "FGM": [
+    "First Trust Germany AlphaDEX\\u00ae ETF", 
+    "Miscellaneous Region", 
+    "First Trust"
+  ], 
+  "SMIN": [
+    "iShares MSCI India Small-Cap", 
+    "India Equity", 
+    "iShares"
+  ], 
+  "ROAM": [
+    "Hartford Multifactor Emerging Mkts ETF", 
+    "Diversified Emerging Mkts", 
+    "Lattice Strategies LLC"
+  ], 
+  "FGD": [
+    "First Trust Dow Jones Global Sel Div ETF", 
+    "World Stock", 
+    "First Trust"
+  ], 
+  "LBJ": [
+    "Direxion Daily Latin America Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "FOIL": [
+    "iPath\\u00ae Pure Beta Aluminum ETN", 
+    "Commodities Industrial Metals", 
+    "Barclays Funds"
+  ], 
+  "OIL": [
+    "iPath\\u00ae S&P GSCI\\u00ae Crude Oil TR ETN", 
+    "Commodities Energy", 
+    "Barclays Funds"
+  ], 
+  "RVNU": [
+    "Deutsche X-trackers Muni Infras Revn Bd", 
+    "Muni National Long", 
+    "Deutsche Asset Management"
+  ], 
+  "TYO": [
+    "Direxion Daily 7-10 Yr Trs Bear 3X ETF", 
+    "Trading--Inverse Debt", 
+    "Direxion Funds"
+  ], 
+  "VIG": [
+    "Vanguard Dividend Appreciation ETF", 
+    "Large Blend", 
+    "Vanguard"
+  ], 
+  "GURU": [
+    "Global X Guru\\u2122 ETF", 
+    "Large Growth", 
+    "Global X Funds"
+  ], 
+  "TYD": [
+    "Direxion Daily 7-10 Yr Trs Bull 3X ETF", 
+    "Trading--Leveraged Debt", 
+    "Direxion Funds"
+  ], 
+  "SPMO": [
+    "PowerShares S&P 500 Momentum", 
+    "Large Growth", 
+    "PowerShares"
+  ], 
+  "TFLO": [
+    "iShares Treasury Floating Rate Bond", 
+    "Short Government", 
+    "iShares"
+  ], 
+  "VIS": [
+    "Vanguard Industrials ETF", 
+    "Industrials", 
+    "Vanguard"
+  ], 
+  "FBGX": [
+    "UBS AG FI Enhanced Large Cap Growth ETN", 
+    "Large Growth", 
+    "UBS Group AG"
+  ], 
+  "GURI": [
+    "Global X Guru\\u2122 International ETF", 
+    "Foreign Large Blend", 
+    "Global X Funds"
+  ], 
+  "PILL": [
+    "Direxion Daily Pharmctcl&Medcl Bl 2X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "FUT": [
+    "ProShares Managed Futures Strategy", 
+    "Managed Futures", 
+    "ProShares"
+  ], 
+  "FUE": [
+    "ELEMENTS MLCX Biofuels Exch Ser TR ETN", 
+    "Commodities Agriculture", 
+    "ELEMENTS"
+  ], 
+  "FWDD": [
+    "AdvisorShares Madrona Domestic ETF", 
+    "Large Blend", 
+    "AdvisorShares"
+  ], 
+  "PKW": [
+    "PowerShares Buyback Achievers ETF", 
+    "Large Blend", 
+    "PowerShares"
+  ], 
+  "RUSL": [
+    "Direxion Daily Russia Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "FWDB": [
+    "AdvisorShares Madrona Global Bond ETF", 
+    "World Bond", 
+    "AdvisorShares"
+  ], 
+  "FLOT": [
+    "iShares Floating Rate Bond", 
+    "Ultrashort Bond", 
+    "iShares"
+  ], 
+  "PKB": [
+    "PowerShares Dynamic Building & Const ETF", 
+    "Industrials", 
+    "PowerShares"
+  ], 
+  "IHI": [
+    "iShares US Medical Devices", 
+    "Health", 
+    "iShares"
+  ], 
+  "SICK": [
+    "Direxion Daily Healthcare Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "RUSS": [
+    "Direxion Daily Russia Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "CSM": [
+    "ProShares Large Cap Core Plus", 
+    "Large Blend", 
+    "ProShares"
+  ], 
+  "DWTI": [
+    "VelocityShares 3x Inverse Crude Oil ETN", 
+    "Trading--Inverse Commodities", 
+    "Credit Suisse AG"
+  ], 
+  "BICK": [
+    "First Trust BICK ETF", 
+    "Diversified Emerging Mkts", 
+    "First Trust"
+  ], 
+  "CSJ": [
+    "iShares 1-3 Year Credit Bond", 
+    "Short-Term Bond", 
+    "iShares"
+  ], 
+  "CSD": [
+    "Guggenheim S&P Spin-Off ETF", 
+    "Mid-Cap Blend", 
+    "Guggenheim Investments"
+  ], 
+  "CSF": [
+    "Victory CEMP US Discv Enh Vol Wtd ETF", 
+    "Small Blend", 
+    "Victory"
+  ], 
+  "CSA": [
+    "Victory CEMP US Sm Cp Vol Wtd ETF", 
+    "Small Blend", 
+    "Victory"
+  ], 
+  "CSB": [
+    "Victory CEMP US Sm Cp Hh Dv Vol Wtd ETF", 
+    "Small Value", 
+    "Victory"
+  ], 
+  "DWTR": [
+    "PowerShares DWA Tactical Sector Rtn", 
+    "Mid-Cap Growth", 
+    "PowerShares"
+  ], 
+  "FIGY": [
+    "Barclays ETN+ FI Enhanced Glb Hi Yld", 
+    "World Stock", 
+    "Barclays Funds"
+  ], 
+  "FCOR": [
+    "Fidelity Corporate Bond ETF", 
+    "Corporate Bond", 
+    "Fidelity Investments"
+  ], 
+  "HJPX": [
+    "iShares Currency Hedged JPX-Nikkei 400", 
+    "Japan Stock", 
+    "iShares"
+  ], 
+  "SGDM": [
+    "Sprott Gold Miners ETF", 
+    "Equity Precious Metals", 
+    "ALPS"
+  ], 
+  "SGDJ": [
+    "ALPS Sprott Junior Gold Miners ETF", 
+    "Equity Precious Metals", 
+    "ALPS"
+  ], 
+  "HEDJ": [
+    "WisdomTree Europe Hedged Equity ETF", 
+    "Europe Stock", 
+    "WisdomTree"
+  ], 
+  "FCOM": [
+    "Fidelity\\u00ae MSCI Telecommunication Svc ETF", 
+    "Communications", 
+    "Fidelity Investments"
+  ], 
+  "CHAD": [
+    "Direxion Dly CSI 300 Chn A Shr Br 1X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "IGHG": [
+    "ProShares Investment Grade\\u2014Intr Rt Hdgd", 
+    "Nontraditional Bond", 
+    "ProShares"
+  ], 
+  "EUSC": [
+    "WisdomTree Europe Hedged SmallCap Eq ETF", 
+    "Europe Stock", 
+    "WisdomTree"
+  ], 
+  "GOVT": [
+    "iShares US Treasury Bond", 
+    "Intermediate Government", 
+    "iShares"
+  ], 
+  "EUSA": [
+    "iShares MSCI USA Equal Weighted", 
+    "Large Blend", 
+    "iShares"
+  ], 
+  "CURE": [
+    "Direxion Daily Healthcare Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "CHAU": [
+    "Direxion Dly CSI 300 CHN A Shr Bl 2X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "XLRE": [
+    "Real Estate Select Sector SPDR\\u00ae", 
+    "Real Estate", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "JPMV": [
+    "iShares Edge MSCI Min Vol Japan", 
+    "Japan Stock", 
+    "iShares"
+  ], 
+  "DDLS": [
+    "WisdomTree Dyn Ccy Hdgd Intl SmCp Eq ETF", 
+    "Foreign Small/Mid Value", 
+    "WisdomTree"
+  ], 
+  "DGL": [
+    "PowerShares DB Gold ETF", 
+    "Commodities Precious Metals", 
+    "PowerShares DB"
+  ], 
+  "DGS": [
+    "WisdomTree Emerging Markets SmCp Div ETF", 
+    "Diversified Emerging Mkts", 
+    "WisdomTree"
+  ], 
+  "DGP": [
+    "DB Gold Double Long ETN", 
+    "Trading--Leveraged Commodities", 
+    "Deutsche Bank AG"
+  ], 
+  "JPME": [
+    "JPMorgan Divers Ret US Mid Cp Eq ETF", 
+    "Mid-Cap Blend", 
+    "JPMorgan"
+  ], 
+  "DGT": [
+    "SPDR\\u00ae Global Dow ETF", 
+    "World Stock", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "DGZ": [
+    "DB Gold Short ETN", 
+    "Trading--Inverse Commodities", 
+    "Deutsche Bank AG"
+  ], 
+  "YDIV": [
+    "International MA Divers Inc ETF", 
+    "World Allocation", 
+    "First Trust"
+  ], 
+  "FSTA": [
+    "Fidelity\\u00ae MSCI Consumer Staples ETF", 
+    "Consumer Defensive", 
+    "Fidelity Investments"
+  ], 
+  "DUG": [
+    "ProShares UltraShort Oil & Gas", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "UNG": [
+    "United States Natural Gas", 
+    "Commodities Energy", 
+    "United States Commodity Funds LLC"
+  ], 
+  "UNL": [
+    "United States 12 Month Natural Gas", 
+    "Commodities Energy", 
+    "United States Commodity Funds LLC"
+  ], 
+  "ITM": [
+    "VanEck Vectors AMT-Free Interm Muni ETF", 
+    "Muni National Interm", 
+    "Market Vectors"
+  ], 
+  "MLPQ": [
+    "UBS ETRACS 2xMLvgAlerianMLPIfr ETN SerB", 
+    "Trading--Leveraged Equity", 
+    "UBS AG"
+  ], 
+  "SSG": [
+    "ProShares UltraShort Semiconductors", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "ITE": [
+    "SPDR\\u00ae Blmbg Barclays Interm Term Trs ETF", 
+    "Intermediate Government", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "ITB": [
+    "iShares US Home Construction", 
+    "Consumer Cyclical", 
+    "iShares"
+  ], 
+  "ITA": [
+    "iShares US Aerospace & Defense", 
+    "Industrials", 
+    "iShares"
+  ], 
+  "ITR": [
+    "SPDR\\u00ae Blmbg Barclays IntmTermCorpBd ETF", 
+    "Corporate Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "IEMG": [
+    "iShares Core MSCI Emerging Markets", 
+    "Diversified Emerging Mkts", 
+    "iShares"
+  ], 
+  "EDOG": [
+    "ALPS Emerging Sector Dividend Dogs ETF", 
+    "Diversified Emerging Mkts", 
+    "ALPS"
+  ], 
+  "HYZD": [
+    "WisdomTree BofA Mrl Lynch HYBd ZrDr ETF", 
+    "Nontraditional Bond", 
+    "WisdomTree"
+  ], 
+  "TOLZ": [
+    "ProShares DJ Brookfield Global Infras", 
+    "Infrastructure", 
+    "ProShares"
+  ], 
+  "BIL": [
+    "SPDR\\u00ae Blmbg Barclays 1-3 Mth T-Bill ETF", 
+    "Ultrashort Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "PTLC": [
+    "Pacer Trendpilot\\u2122 750 ETF", 
+    "Large Blend", 
+    "Pacer"
+  ], 
+  "DXUS": [
+    "WisdomTree Global ex-US Hedged Div ETF", 
+    "Foreign Large Value", 
+    "WisdomTree"
+  ], 
+  "TIPX": [
+    "SPDR\\u00ae Blmbg Barclays 1-10 Year TIPS ETF", 
+    "Inflation-Protected Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "TIPZ": [
+    "PIMCO Broad US TIPS ETF", 
+    "Inflation-Protected Bond", 
+    "Pimco"
+  ], 
+  "KWT": [
+    "VanEck Vectors Solar Energy ETF", 
+    "Miscellaneous Sector", 
+    "Market Vectors"
+  ], 
+  "BIV": [
+    "Vanguard Intermediate-Term Bond ETF", 
+    "Intermediate-Term Bond", 
+    "Vanguard"
+  ], 
+  "BIS": [
+    "ProShares UltraShort Nasdaq Biotech", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "SLX": [
+    "VanEck Vectors Steel ETF", 
+    "Natural Resources", 
+    "Market Vectors"
+  ], 
+  "SLY": [
+    "SPDR\\u00ae S&P 600 Small Cap ETF", 
+    "Small Blend", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "GLL": [
+    "ProShares UltraShort Gold", 
+    "Trading--Inverse Commodities", 
+    "ProShares"
+  ], 
+  "SLV": [
+    "iShares Silver Trust", 
+    "Commodities Precious Metals", 
+    "iShares"
+  ], 
+  "HAHA": [
+    "CSOP China CSI 300 A-H Dynamic ETF", 
+    "China Region", 
+    "CSOP Asset Management"
+  ], 
+  "PSCT": [
+    "PowerShares S&P SmallCap Info Tech ETF", 
+    "Technology", 
+    "PowerShares"
+  ], 
+  "ENFR": [
+    "Alerian Energy Infrastructure ETF", 
+    "Energy Limited Partnership", 
+    "ALPS"
+  ], 
+  "HOLD": [
+    "AdvisorShares Sage Core Reserves ETF", 
+    "Ultrashort Bond", 
+    "AdvisorShares"
+  ], 
+  "IEUS": [
+    "iShares MSCI Europe Small-Cap", 
+    "Europe Stock", 
+    "iShares"
+  ], 
+  "BRZU": [
+    "Direxion Daily Brazil Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "SOXL": [
+    "Direxion Daily Semicondct Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "JPN": [
+    "Deutsche X-trackers JPN JPX-Nikkei400 Eq", 
+    "Japan Stock", 
+    "Deutsche Asset Management"
+  ], 
+  "WEAT": [
+    "Teucrium Wheat ETF", 
+    "Commodities Agriculture", 
+    "Teucrium"
+  ], 
+  "DXKW": [
+    "WisdomTree Korea Hedged Equity ETF", 
+    "Miscellaneous Region", 
+    "WisdomTree"
+  ], 
+  "SOXS": [
+    "Direxion Daily Semicondct Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "HIPS": [
+    "Master Income ETF", 
+    "Allocation--70% to 85% Equity", 
+    "Master Shares"
+  ], 
+  "EXI": [
+    "iShares Global Industrials", 
+    "Industrials", 
+    "iShares"
+  ], 
+  "YLD": [
+    "Principal EDGE Active Income ETF", 
+    "Allocation--30% to 50% Equity", 
+    "Principal Funds"
+  ], 
+  "LQD": [
+    "iShares iBoxx $ Invst Grade Crp Bond", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "ICSH": [
+    "iShares Ultra Short-Term Bond", 
+    "Ultrashort Bond", 
+    "iShares"
+  ], 
+  "MINT": [
+    "PIMCO Enhanced Short Maturity Active ETF", 
+    "Ultrashort Bond", 
+    "Pimco"
+  ], 
+  "VNM": [
+    "VanEck Vectors Vietnam ETF", 
+    "Miscellaneous Region", 
+    "Market Vectors"
+  ], 
+  "CEFL": [
+    "UBS ETRACS Mthly Py 2xLvg Closed-End ETN", 
+    "Trading--Miscellaneous", 
+    "UBS Group AG"
+  ], 
+  "TZA": [
+    "Direxion Daily Small Cap Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "GUSH": [
+    "Direxion Dly S&P Oil&Gs Ex&Prd Bl 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "VNQ": [
+    "Vanguard REIT ETF", 
+    "Real Estate", 
+    "Vanguard"
+  ], 
+  "SPLV": [
+    "PowerShares S&P 500 Low Volatility ETF", 
+    "Large Value", 
+    "PowerShares"
+  ], 
+  "SPLX": [
+    "UBS ETRACS M Reset 2xLvg S&P 500\\u00ae TR ETN", 
+    "Trading--Leveraged Equity", 
+    "UBS Group AG"
+  ], 
+  "SMB": [
+    "VanEck Vectors AMT-Free Short Muni ETF", 
+    "Muni National Short", 
+    "Market Vectors"
+  ], 
+  "EMLP": [
+    "First Trust North Amer Engy InfrasETF", 
+    "Equity Energy", 
+    "First Trust"
+  ], 
+  "VXF": [
+    "Vanguard Extended Market ETF", 
+    "Mid-Cap Blend", 
+    "Vanguard"
+  ], 
+  "SRTY": [
+    "ProShares UltraPro Short Russell2000", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "NAIL": [
+    "Direxion Daily Hmbldrs&Supls Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "PPLT": [
+    "ETFS Physical Platinum", 
+    "Commodities Precious Metals", 
+    "ETF Securities"
+  ], 
+  "VXX": [
+    "iPath\\u00ae S&P 500 VIX ST Futures\\u2122 ETN", 
+    "Volatility", 
+    "Barclays Funds"
+  ], 
+  "VXZ": [
+    "iPath\\u00ae S&P 500 VIX MT Futures\\u2122 ETN", 
+    "Volatility", 
+    "Barclays Funds"
+  ], 
+  "EMLB": [
+    "iPath\\u00ae Long Enhanced MSCI Emerg Mkts ETN", 
+    "Trading--Leveraged Equity", 
+    "Barclays Funds"
+  ], 
+  "EMLC": [
+    "VanEck Vectors JP Morgan EM LC Bd ETF", 
+    "Emerging-Markets Local-Currency Bond", 
+    "Market Vectors"
+  ], 
+  "THD": [
+    "iShares MSCI Thailand Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "BOIL": [
+    "ProShares Ultra Bloomberg Natural Gas", 
+    "Trading--Leveraged Commodities", 
+    "ProShares"
+  ], 
+  "ISTB": [
+    "iShares Core 1-5 Year USD Bond", 
+    "Short-Term Bond", 
+    "iShares"
+  ], 
+  "UGAZ": [
+    "VelocityShares 3x Long Natural Gas ETN", 
+    "Trading--Leveraged Commodities", 
+    "Credit Suisse AG"
+  ], 
+  "NIB": [
+    "iPath\\u00ae Bloomberg Cocoa SubTR ETN", 
+    "Commodities Agriculture", 
+    "Barclays Funds"
+  ], 
+  "FBT": [
+    "First Trust NYSE Arca Biotech ETF", 
+    "Health", 
+    "First Trust"
+  ], 
+  "ITEQ": [
+    "BlueStar TA-BIGITech\\u2122 Israel Tech ETF", 
+    "Technology", 
+    "BlueStar Global Investors"
+  ], 
+  "ERYY": [
+    "Direxion Daily Energy Bear 1X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "KIE": [
+    "SPDR\\u00ae S&P Insurance ETF", 
+    "Financial", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "FDD": [
+    "First Trust STOXX\\u00ae European Sel Div ETF", 
+    "Europe Stock", 
+    "First Trust"
+  ], 
+  "LLSC": [
+    "Direxion Daily Small Cap Bull 1.25X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "FDM": [
+    "First Trust Dow Jones Sel MicroCap ETF", 
+    "Small Blend", 
+    "First Trust"
+  ], 
+  "FDL": [
+    "First Trust Morningstar Div Leaders ETF", 
+    "Large Value", 
+    "First Trust"
+  ], 
+  "DLBS": [
+    "iPath\\u00ae US Treasury Long Bond Bear ETN", 
+    "Trading--Inverse Debt", 
+    "Barclays Funds"
+  ], 
+  "FDT": [
+    "First Trust Dev Mkts Ex-US AlphaDEX\\u00ae ETF", 
+    "Foreign Large Blend", 
+    "First Trust"
+  ], 
+  "GLDI": [
+    "Credit Suisse X-Links Gold Cov Call ETN", 
+    "Commodities Precious Metals", 
+    "Credit Suisse AG"
+  ], 
+  "DRIP": [
+    "Direxion Dly S&P Oil&Gs Ex&Prd Br 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "SCIX": [
+    "Global X Scientific Beta Asia ex-JPN ETF", 
+    "Pacific/Asia ex-Japan Stk", 
+    "Global X Funds"
+  ], 
+  "HECO": [
+    "EcoLogical Strategy ETF", 
+    "Miscellaneous Sector", 
+    "Strategy shares"
+  ], 
+  "NINI": [
+    "iPath\\u00ae Pure Beta Nickel ETN", 
+    "Commodities Industrial Metals", 
+    "Barclays Funds"
+  ], 
+  "KRMA": [
+    "Global X Conscious Companies ETF", 
+    "Large Blend", 
+    "Global X Funds"
+  ], 
+  "SDEM": [
+    "Global X SuperDividend\\u00ae Emerg Mkts ETF", 
+    "Diversified Emerging Mkts", 
+    "Global X Funds"
+  ], 
+  "EFZ": [
+    "ProShares Short MSCI EAFE", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "FTSD": [
+    "Franklin Liberty Short Dur US Govt ETF", 
+    "Short Government", 
+    "Franklin Templeton Investments"
+  ], 
+  "TAGS": [
+    "Teucrium Agricultural ETF", 
+    "Commodities Agriculture", 
+    "Teucrium"
+  ], 
+  "FTSM": [
+    "First Trust Enhanced Short Maturity ETF", 
+    "Ultrashort Bond", 
+    "First Trust"
+  ], 
+  "FTSL": [
+    "First Trust Senior Loan ETF", 
+    "Bank Loan", 
+    "First Trust"
+  ], 
+  "EFU": [
+    "ProShares UltraShort MSCI EAFE", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "EFV": [
+    "iShares MSCI EAFE Value", 
+    "Foreign Large Value", 
+    "iShares"
+  ], 
+  "EGRW": [
+    "iShares MSCI Emerging Markets Growth", 
+    "Diversified Emerging Mkts", 
+    "iShares"
+  ], 
+  "DBGR": [
+    "Deutsche X-trackers MSCI Germany Hdgd Eq", 
+    "Miscellaneous Region", 
+    "Deutsche Asset Management"
+  ], 
+  "EFA": [
+    "iShares MSCI EAFE", 
+    "Foreign Large Blend", 
+    "iShares"
+  ], 
+  "EFG": [
+    "iShares MSCI EAFE Growth", 
+    "Foreign Large Growth", 
+    "iShares"
+  ], 
+  "ALTL": [
+    "RBS US Large Cap Alternator ETN\\u2122", 
+    "Large Blend", 
+    "Royal Bank of Scotland NV"
+  ], 
+  "GERJ": [
+    "Market Vectors\\u00ae Germany Small-Cap ETF", 
+    "Miscellaneous Region", 
+    "Market Vectors"
+  ], 
+  "ALTY": [
+    "Global X SuperDividend\\u00ae Alternatives ETF", 
+    "World Allocation", 
+    "Global X Funds"
+  ], 
+  "CNXT": [
+    "VanEck Vectors ChinaAMC SME-ChiNext ETF", 
+    "China Region", 
+    "Market Vectors"
+  ], 
+  "ALTS": [
+    "ProShares Morningstar Alts Solu", 
+    "Multialternative", 
+    "ProShares"
+  ], 
+  "LDUR": [
+    "PIMCO Low Duration Active ETF", 
+    "Short-Term Bond", 
+    "Pimco"
+  ], 
+  "UMX": [
+    "ProShares Ultra MSCI Mexico Capped IMI", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "USD": [
+    "ProShares Ultra Semiconductors", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "DVY": [
+    "iShares Select Dividend", 
+    "Mid-Cap Value", 
+    "iShares"
+  ], 
+  "VMAX": [
+    "Rex VolMaxx\\u2122 Lng VIX Wkly Futs Strat ETF", 
+    "Volatility", 
+    "VolMAXX"
+  ], 
+  "DVP": [
+    "Deep Value ETF", 
+    "Large Value", 
+    "TWM FUNDS"
+  ], 
+  "OLD": [
+    "The Long-Term Care ETF", 
+    "Real Estate", 
+    "Janus"
+  ], 
+  "OLO": [
+    "DB Crude Oil Long ETN", 
+    "Commodities Energy", 
+    "Deutsche Bank AG"
+  ], 
+  "RFDI": [
+    "First Trust RiverFront Dyn Dev Intl ETF", 
+    "Foreign Large Blend", 
+    "First Trust"
+  ], 
+  "RFDA": [
+    "RiverFront Dynamic US Dividend Advtg ETF", 
+    "Large Blend", 
+    "ALPS"
+  ], 
+  "AND": [
+    "Global X FTSE Andean 40 ETF", 
+    "Latin America Stock", 
+    "Global X Funds"
+  ], 
+  "IEZ": [
+    "iShares US Oil Equipment&Services", 
+    "Equity Energy", 
+    "iShares"
+  ], 
+  "FREL": [
+    "Fidelity\\u00ae MSCI Real Estate ETF", 
+    "Real Estate", 
+    "Fidelity Investments"
+  ], 
+  "ALFI": [
+    "AlphaClone International ETF", 
+    "Long-Short Equity", 
+    "AlphaClone"
+  ], 
+  "IEV": [
+    "iShares Europe", 
+    "Europe Stock", 
+    "iShares"
+  ], 
+  "IEI": [
+    "iShares 3-7 Year Treasury Bond", 
+    "Intermediate Government", 
+    "iShares"
+  ], 
+  "QKOR": [
+    "SPDR\\u00ae MSCI South Korea StrategicFactsETF", 
+    "Miscellaneous Region", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "IEO": [
+    "iShares US Oil&Gas Explor&Prodtn", 
+    "Equity Energy", 
+    "iShares"
+  ], 
+  "VGLT": [
+    "Vanguard Long-Term Government Bond ETF", 
+    "Long Government", 
+    "Vanguard"
+  ], 
+  "IBND": [
+    "SPDR\\u00ae Blmbg Barclays Intl Corp Bd ETF", 
+    "World Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "IEF": [
+    "iShares 7-10 Year Treasury Bond", 
+    "Long Government", 
+    "iShares"
+  ], 
+  "CDL": [
+    "Victory CEMP US Lg Cp Hh Dv Vol Wtd ETF", 
+    "Large Value", 
+    "Victory"
+  ], 
+  "MORT": [
+    "VanEck Vectors Mortgage REIT Income ETF", 
+    "Real Estate", 
+    "Market Vectors"
+  ], 
+  "PSCU": [
+    "PowerShares S&P SmallCap Utilities ETF", 
+    "Utilities", 
+    "PowerShares"
+  ], 
+  "PSCH": [
+    "PowerShares S&P SmallCap Health Care ETF", 
+    "Health", 
+    "PowerShares"
+  ], 
+  "PSCI": [
+    "PowerShares S&P SmallCap Industrials ETF", 
+    "Industrials", 
+    "PowerShares"
+  ], 
+  "PSCM": [
+    "PowerShares S&P SmallCap Materials ETF", 
+    "Natural Resources", 
+    "PowerShares"
+  ], 
+  "PSCC": [
+    "PowerShares S&P SmallCap Cnsmr Stapl ETF", 
+    "Consumer Defensive", 
+    "PowerShares"
+  ], 
+  "PSCF": [
+    "PowerShares S&P SmallCap Financials ETF", 
+    "Financial", 
+    "PowerShares"
+  ], 
+  "VCLT": [
+    "Vanguard Long-Term Corporate Bond ETF", 
+    "Corporate Bond", 
+    "Vanguard"
+  ], 
+  "PSCD": [
+    "PowerShares S&P SmCap Cnsmr Discret ETF", 
+    "Consumer Cyclical", 
+    "PowerShares"
+  ], 
+  "PSCE": [
+    "PowerShares S&P SmallCap Energy ETF", 
+    "Equity Energy", 
+    "PowerShares"
+  ], 
+  "IYE": [
+    "iShares US Energy", 
+    "Equity Energy", 
+    "iShares"
+  ], 
+  "IYG": [
+    "iShares US Financial Services", 
+    "Financial", 
+    "iShares"
+  ], 
+  "IYF": [
+    "iShares US Financials", 
+    "Financial", 
+    "iShares"
+  ], 
+  "IYC": [
+    "iShares US Consumer Services", 
+    "Consumer Cyclical", 
+    "iShares"
+  ], 
+  "IYM": [
+    "iShares US Basic Materials", 
+    "Natural Resources", 
+    "iShares"
+  ], 
+  "IYH": [
+    "iShares US Healthcare", 
+    "Health", 
+    "iShares"
+  ], 
+  "IYK": [
+    "iShares US Consumer Goods", 
+    "Consumer Defensive", 
+    "iShares"
+  ], 
+  "IYJ": [
+    "iShares US Industrials", 
+    "Industrials", 
+    "iShares"
+  ], 
+  "IYT": [
+    "iShares Transportation Average", 
+    "Industrials", 
+    "iShares"
+  ], 
+  "IYW": [
+    "iShares US Technology", 
+    "Technology", 
+    "iShares"
+  ], 
+  "IYR": [
+    "iShares US Real Estate", 
+    "Real Estate", 
+    "iShares"
+  ], 
+  "SCAP": [
+    "AdvisorShares Cornerstone Small Cap ETF", 
+    "Small Blend", 
+    "AdvisorShares"
+  ], 
+  "IYY": [
+    "iShares Dow Jones US", 
+    "Large Blend", 
+    "iShares"
+  ], 
+  "GSLC": [
+    "Goldman Sachs ActiveBeta\\u00ae US LgCp Eq ETF", 
+    "Large Blend", 
+    "Goldman Sachs"
+  ], 
+  "IYZ": [
+    "iShares US Telecommunications", 
+    "Communications", 
+    "iShares"
+  ], 
+  "PPA": [
+    "PowerShares Aerospace & Defense ETF", 
+    "Industrials", 
+    "PowerShares"
+  ], 
+  "GAZ": [
+    "iPath\\u00ae Bloomberg Natural Gas SubTR ETN", 
+    "Commodities Energy", 
+    "Barclays Funds"
+  ], 
+  "HYND": [
+    "WisdomTree BofA Mrl Lynch HYBd NgtDr ETF", 
+    "Nontraditional Bond", 
+    "WisdomTree"
+  ], 
+  "MBG": [
+    "SPDR\\u00ae Blmbg Barclays Mortg Backed Bd ETF", 
+    "Intermediate-Term Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "HDEZ": [
+    "Deutsche X-trackers MSCI Eurozone HiDivY", 
+    "Europe Stock", 
+    "Deutsche Asset Management"
+  ], 
+  "MBB": [
+    "iShares MBS", 
+    "Intermediate-Term Bond", 
+    "iShares"
+  ], 
+  "SOP": [
+    "ProShares UltraShrt Oil&Gas Explor&Prdtn", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "HDEE": [
+    "Deutsche X-trackers MSCI EMktsHiDvYdHgEq", 
+    "Diversified Emerging Mkts", 
+    "Deutsche Asset Management"
+  ], 
+  "GAL": [
+    "SPDR\\u00ae SSgA Global Allocation ETF", 
+    "World Allocation", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "SOYB": [
+    "Teucrium Soybean ETF", 
+    "Commodities Agriculture", 
+    "Teucrium"
+  ], 
+  "GAF": [
+    "SPDR\\u00ae S&P Emerging Middle East&Afr ETF", 
+    "Miscellaneous Region", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "GAA": [
+    "Cambria Global Asset Allocation ETF", 
+    "Multialternative", 
+    "CAMBRIA ETF TRUST"
+  ], 
+  "HYXU": [
+    "iShares International High Yield Bond", 
+    "World Bond", 
+    "iShares"
+  ], 
+  "SIVR": [
+    "ETFS Physical Silver", 
+    "Commodities Precious Metals", 
+    "ETF Securities"
+  ], 
+  "FLRT": [
+    "AdvisorShares Pacific Asst Enh Fl Rt ETF", 
+    "Bank Loan", 
+    "AdvisorShares"
+  ], 
+  "OEUH": [
+    "O'Shares FTSE Europe Qual Div Hdgd ETF", 
+    "Europe Stock", 
+    "O\\u2019Shares Investments"
+  ], 
+  "HYXE": [
+    "iShares iBoxx $ HY ex Oil & Gas Corp Bd", 
+    "High Yield Bond", 
+    "iShares"
+  ], 
+  "MTK": [
+    "SPDR\\u00ae Morgan Stanley Technology ETF", 
+    "Technology", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "FLRN": [
+    "SPDR\\u00ae Blmbg Barclays Inv Grd Flt Rt ETF", 
+    "Short-Term Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "BBRC": [
+    "Columbia Beyond BRICs ETF", 
+    "Diversified Emerging Mkts", 
+    "Columbia"
+  ], 
+  "KBWY": [
+    "PowerShares KBW Premium Yld Eq REIT ETF", 
+    "Real Estate", 
+    "PowerShares"
+  ], 
+  "KBWR": [
+    "PowerShares KBW Regional Bank ETF", 
+    "Financial", 
+    "PowerShares"
+  ], 
+  "KBWP": [
+    "PowerShares KBW Prpty & Casualty Ins ETF", 
+    "Financial", 
+    "PowerShares"
+  ], 
+  "KBWI": [
+    "PowerShares KBW Insurance ETF", 
+    "Financial", 
+    "PowerShares"
+  ], 
+  "TPS": [
+    "ProShares UltraShort TIPs", 
+    "Trading--Inverse Debt", 
+    "ProShares"
+  ], 
+  "KBWB": [
+    "PowerShares KBW Bank ETF", 
+    "Financial", 
+    "PowerShares"
+  ], 
+  "HDWM": [
+    "WisdomTree International Hedged Eq ETF", 
+    "Foreign Large Value", 
+    "WisdomTree"
+  ], 
+  "GSP": [
+    "iPath\\u00ae S&P GSCI\\u00ae Total Return ETN", 
+    "Commodities Broad Basket", 
+    "Barclays Funds"
+  ], 
+  "VUG": [
+    "Vanguard Growth ETF", 
+    "Large Growth", 
+    "Vanguard"
+  ], 
+  "GSY": [
+    "Guggenheim Enhanced Short Dur ETF", 
+    "Ultrashort Bond", 
+    "Guggenheim Investments"
+  ], 
+  "TIP": [
+    "iShares TIPS Bond", 
+    "Inflation-Protected Bond", 
+    "iShares"
+  ], 
+  "GSC": [
+    "GS Connect S&P GSCI Enh Commodity TR ETN", 
+    "Commodities Broad Basket", 
+    "Goldman Sachs"
+  ], 
+  "HDWX": [
+    "SPDR\\u00ae S&P International Div Ccy Hdgd ETF", 
+    "Foreign Large Value", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "GSG": [
+    "iShares S&P GSCI Commodity-Indexed Trust", 
+    "Commodities Broad Basket", 
+    "iShares"
+  ], 
+  "USCI": [
+    "United States Commodity Index", 
+    "Commodities Broad Basket", 
+    "United States Commodity Funds LLC"
+  ], 
+  "VYM": [
+    "Vanguard High Dividend Yield ETF", 
+    "Large Value", 
+    "Vanguard"
+  ], 
+  "QID": [
+    "ProShares UltraShort QQQ", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "EYLD": [
+    "Cambria Emerging Shareholder Yield ETF", 
+    "Diversified Emerging Mkts", 
+    "CAMBRIA ETF TRUST"
+  ], 
+  "RTLA": [
+    "iPath\\u00ae Long Extended Russell 2000\\u00aeTR ETN", 
+    "Trading--Leveraged Equity", 
+    "Barclays Funds"
+  ], 
+  "QGBR": [
+    "SPDR\\u00ae MSCI United Kingdom StratFacts ETF", 
+    "Miscellaneous Region", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "XAR": [
+    "SPDR\\u00ae S&P Aerospace & Defense ETF", 
+    "Industrials", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "FTLS": [
+    "First Trust Long/Short Equity ETF", 
+    "Long-Short Equity", 
+    "First Trust"
+  ], 
+  "ISCF": [
+    "iShares Edge MSCI Multifactor Intl Sm-Cp", 
+    "Foreign Small/Mid Blend", 
+    "iShares"
+  ], 
+  "FTLB": [
+    "First Trust Low Beta Income ETF", 
+    "Long-Short Equity", 
+    "First Trust"
+  ], 
+  "IBCC": [
+    "iShares iBonds Mar 2018 Term Corp exFncl", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "PTMC": [
+    "Pacer Trendpilot\\u2122 450 ETF", 
+    "Mid-Cap Blend", 
+    "Pacer"
+  ], 
+  "SGG": [
+    "iPath\\u00ae Bloomberg Sugar SubTR ETN", 
+    "Commodities Agriculture", 
+    "Barclays Funds"
+  ], 
+  "LATM": [
+    "Market Vectors\\u00ae Latin America Sm-Cp ETF", 
+    "Latin America Stock", 
+    "Market Vectors"
+  ], 
+  "TMF": [
+    "Direxion Daily 20+ Yr Trsy Bull 3X ETF", 
+    "Trading--Leveraged Debt", 
+    "Direxion Funds"
+  ], 
+  "EET": [
+    "ProShares Ultra MSCI Emerging Markets", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "EEV": [
+    "ProShares UltraShort MSCI Emerging Mkts", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "ARGT": [
+    "Global X MSCI Argentina ETF", 
+    "Miscellaneous Region", 
+    "Global X Funds"
+  ], 
+  "EES": [
+    "WisdomTree SmallCap Earnings ETF", 
+    "Small Blend", 
+    "WisdomTree"
+  ], 
+  "EEM": [
+    "iShares MSCI Emerging Markets", 
+    "Diversified Emerging Mkts", 
+    "iShares"
+  ], 
+  "EEH": [
+    "ELEMENTS SPECTRUM Lg Cp US Sect Mom ETN", 
+    "Large Blend", 
+    "ELEMENTS"
+  ], 
+  "IGVT": [
+    "Deutsche X-trckrsBrclys IntlTrsBdHdgdETF", 
+    "World Bond", 
+    "Deutsche Asset Management"
+  ], 
+  "SHYG": [
+    "iShares 0-5 Year High Yield Corp Bd", 
+    "High Yield Bond", 
+    "iShares"
+  ], 
+  "SHYD": [
+    "VanEck Vectors Short High-Yield Muni ETF", 
+    "High Yield Muni", 
+    "Market Vectors"
+  ], 
+  "EEB": [
+    "Guggenheim BRIC ETF", 
+    "Diversified Emerging Mkts", 
+    "Guggenheim Investments"
+  ], 
+  "ROM": [
+    "ProShares Ultra Technology", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "TCHF": [
+    "iShares Edge MSCI Multifactor Technology", 
+    "Technology", 
+    "iShares"
+  ], 
+  "UBIO": [
+    "ProShares UltraPro Nasdaq Biotechnology", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "IPFF": [
+    "iShares International Preferred Stock", 
+    "Preferred Stock", 
+    "iShares"
+  ], 
+  "LGLV": [
+    "SPDR\\u00ae Russell 1000 Low Volatility ETF", 
+    "Large Value", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "EWK": [
+    "iShares MSCI Belgium Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "EWJ": [
+    "iShares MSCI Japan", 
+    "Japan Stock", 
+    "iShares"
+  ], 
+  "EWI": [
+    "iShares MSCI Italy Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "EWO": [
+    "iShares MSCI Austria Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "EWN": [
+    "iShares MSCI Netherlands", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "EWM": [
+    "iShares MSCI Malaysia", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "LABD": [
+    "Direxion Daily S&P Biotech Bear 3X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "EWC": [
+    "iShares MSCI Canada", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "CRUD": [
+    "Teucrium WTI Crude Oil ETF", 
+    "Commodities Energy", 
+    "Teucrium"
+  ], 
+  "EWD": [
+    "iShares MSCI Sweden Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "LABS": [
+    "Direxion Daily S&P Biotech Bear 1X ETF", 
+    "Trading--Inverse Equity", 
+    "Direxion Funds"
+  ], 
+  "EWZ": [
+    "iShares MSCI Brazil Capped", 
+    "Latin America Stock", 
+    "iShares"
+  ], 
+  "EWX": [
+    "SPDR\\u00ae S&P Emerging Markets Small Cap ETF", 
+    "Diversified Emerging Mkts", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "DSTJ": [
+    "JPMorgan 2X Short US Long Trsy Fut ETN", 
+    "Trading-Inverse Debt", 
+    "JPMorgan"
+  ], 
+  "LABU": [
+    "Direxion Daily S&P Biotech Bull 3X ETF", 
+    "Trading--Leveraged Equity", 
+    "Direxion Funds"
+  ], 
+  "YCL": [
+    "ProShares Ultra Yen", 
+    "Trading--Miscellaneous", 
+    "ProShares"
+  ], 
+  "EWQ": [
+    "iShares MSCI France", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "EWP": [
+    "iShares MSCI Spain Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "EWW": [
+    "iShares MSCI Mexico Capped", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "EWV": [
+    "ProShares UltraShort MSCI Japan", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "EWU": [
+    "iShares MSCI United Kingdom", 
+    "Miscellaneous Region", 
+    "iShares"
+  ], 
+  "EWT": [
+    "iShares MSCI Taiwan Capped", 
+    "China Region", 
+    "iShares"
+  ], 
+  "QWLD": [
+    "SPDR\\u00ae MSCI World StrategicFactors ETF", 
+    "World Stock", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "VOE": [
+    "Vanguard Mid-Cap Value ETF", 
+    "Mid-Cap Value", 
+    "Vanguard"
+  ], 
+  "VOO": [
+    "Vanguard 500 ETF", 
+    "Large Blend", 
+    "Vanguard"
+  ], 
+  "VOT": [
+    "Vanguard Mid-Cap Growth ETF", 
+    "Mid-Cap Growth", 
+    "Vanguard"
+  ], 
+  "DBRE": [
+    "Deutsche X-trackers DJ Hdgd Intl Rl Estt", 
+    "Global Real Estate", 
+    "Deutsche Asset Management"
+  ], 
+  "IPKW": [
+    "PowerShares Intl BuyBack Achiev\\u2122 ETF", 
+    "Foreign Large Blend", 
+    "PowerShares"
+  ], 
+  "VOX": [
+    "Vanguard Telecommunication Services ETF", 
+    "Communications", 
+    "Vanguard"
+  ], 
+  "IDX": [
+    "VanEck Vectors Indonesia ETF", 
+    "Miscellaneous Region", 
+    "Market Vectors"
+  ], 
+  "IDV": [
+    "iShares International Select Dividend", 
+    "Foreign Large Value", 
+    "iShares"
+  ], 
+  "IDU": [
+    "iShares US Utilities", 
+    "Utilities", 
+    "iShares"
+  ], 
+  "IFV": [
+    "First Trust Dorsey Wright Intl Foc 5", 
+    "Foreign Large Blend", 
+    "First Trust"
+  ], 
+  "PMR": [
+    "PowerShares Dynamic Retail ETF", 
+    "Consumer Cyclical", 
+    "PowerShares"
+  ], 
+  "SKYY": [
+    "First Trust ISE Cloud Computing ETF", 
+    "Technology", 
+    "First Trust"
+  ], 
+  "ULE": [
+    "ProShares Ultra Euro", 
+    "Trading--Miscellaneous", 
+    "ProShares"
+  ], 
+  "VCSH": [
+    "Vanguard Short-Term Corporate Bond ETF", 
+    "Short-Term Bond", 
+    "Vanguard"
+  ], 
+  "CGW": [
+    "Guggenheim S&P Global Water ETF", 
+    "Miscellaneous Sector", 
+    "Guggenheim Investments"
+  ], 
+  "CUT": [
+    "Guggenheim MSCI Global Timber ETF", 
+    "Natural Resources", 
+    "Guggenheim Investments"
+  ], 
+  "FEM": [
+    "First Trust Emerging Mrkts AlphaDEX\\u00ae ETF", 
+    "Diversified Emerging Mkts", 
+    "First Trust"
+  ], 
+  "QDEF": [
+    "FlexShares Quality Dividend Defensv ETF", 
+    "Large Value", 
+    "Flexshares Trust"
+  ], 
+  "FEU": [
+    "SPDR\\u00ae STOXX Europe 50 ETF", 
+    "Europe Stock", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "FEP": [
+    "First Trust Europe AlphaDEX\\u00ae ETF", 
+    "Europe Stock", 
+    "First Trust"
+  ], 
+  "FEZ": [
+    "SPDR\\u00ae EURO STOXX 50 ETF", 
+    "Europe Stock", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "FEX": [
+    "First Trust Large Cap Core AlphaDEX\\u00ae ETF", 
+    "Large Blend", 
+    "First Trust"
+  ], 
+  "CATH": [
+    "Global X S&P 500\\u00ae Catholic Values ETF", 
+    "Large Blend", 
+    "Global X Funds"
+  ], 
+  "DBJP": [
+    "Deutsche X-trackers MSCI Japan Hedged Eq", 
+    "Japan Stock", 
+    "Deutsche Asset Management"
+  ], 
+  "WIP": [
+    "SPDR\\u00ae Citi Intl Govt Infl-Prot Bd ETF", 
+    "World Bond", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "MOAT": [
+    "VanEck Vectors Morningstar Wide Moat ETF", 
+    "Large Blend", 
+    "Market Vectors"
+  ], 
+  "CID": [
+    "Victory CEMP Intl High Dv Vol Wtd ETF", 
+    "Foreign Large Value", 
+    "Victory"
+  ], 
+  "INDY": [
+    "iShares India 50", 
+    "India Equity", 
+    "iShares"
+  ], 
+  "CIL": [
+    "Victory CEMP International Vol Wtd ETF", 
+    "Foreign Large Blend", 
+    "Victory"
+  ], 
+  "INKM": [
+    "SPDR\\u00ae SSgA Income Allocation ETF", 
+    "Allocation--50% to 70% Equity", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "CIU": [
+    "iShares Intermediate Credit Bond", 
+    "Corporate Bond", 
+    "iShares"
+  ], 
+  "CIZ": [
+    "Victory CEMP Developed Enh Vol Wtd ETF", 
+    "Foreign Large Blend", 
+    "Victory"
+  ], 
+  "FEMB": [
+    "First Trust Emerging Mkts Lcl Ccy Bd ETF", 
+    "Emerging-Markets Local-Currency Bond", 
+    "First Trust"
+  ], 
+  "DAG": [
+    "DB Agriculture Double Long ETN", 
+    "Trading--Leveraged Commodities", 
+    "Deutsche Bank AG"
+  ], 
+  "LRGF": [
+    "iShares Edge MSCI Multifactor USA", 
+    "Large Value", 
+    "iShares"
+  ], 
+  "KRS": [
+    "ProShares Short S&P Regional Banking", 
+    "Trading--Inverse Equity", 
+    "ProShares"
+  ], 
+  "MCEF": [
+    "First Trust Municipal CEF Income Opp ETF", 
+    "Muni National Interm", 
+    "First Trust"
+  ], 
+  "UMDD": [
+    "ProShares UltraPro MidCap400", 
+    "Trading--Leveraged Equity", 
+    "ProShares"
+  ], 
+  "DWX": [
+    "SPDR\\u00ae S&P International Dividend ETF", 
+    "Foreign Large Value", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "DWM": [
+    "WisdomTree International Equity ETF", 
+    "Foreign Large Value", 
+    "WisdomTree"
+  ], 
+  "IJR": [
+    "iShares Core S&P Small-Cap", 
+    "Small Blend", 
+    "iShares"
+  ], 
+  "IJS": [
+    "iShares S&P Small-Cap 600 Value", 
+    "Small Value", 
+    "iShares"
+  ], 
+  "IJT": [
+    "iShares S&P Small-Cap 600 Growth", 
+    "Small Growth", 
+    "iShares"
+  ], 
+  "VIXH": [
+    "First Trust CBOE\\u00ae S&P 500 VIX\\u00aeTail H ETF", 
+    "Long-Short Equity", 
+    "First Trust"
+  ], 
+  "DEFA": [
+    "iShares Adaptive Ccy Hdgd MSCI EAFE", 
+    "Foreign Large Blend", 
+    "iShares"
+  ], 
+  "RFEU": [
+    "First Trust RiverFront Dynamic Eurp ETF", 
+    "Europe Stock", 
+    "First Trust"
+  ], 
+  "QDEU": [
+    "SPDR\\u00ae MSCI Germany StrategicFactors ETF", 
+    "Miscellaneous Region", 
+    "SPDR State Street Global Advisors"
+  ], 
+  "RFEM": [
+    "First Trust RiverFront Dyn Em Mkts ETF", 
+    "Diversified Emerging Mkts", 
+    "First Trust"
+  ], 
+  "IJJ": [
+    "iShares S&P Mid-Cap 400 Value", 
+    "Mid-Cap Value", 
+    "iShares"
+  ], 
+  "IJK": [
+    "iShares S&P Mid-Cap 400 Growth", 
+    "Mid-Cap Growth", 
+    "iShares"
+  ], 
+  "SCPB": [
+    "SPDR\\u00ae Blmbg Barclays ST Corp Bd ETF", 
+    "Short-Term Bond", 
+    "SPDR State Street Global Advisors"
+  ]
+}
