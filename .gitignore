@@ -1,2 +1,5 @@
 *.pyc
 temp.txt
+daily.log
+data (copy)/*
+
