@@ -19,4 +19,4 @@ for t in no_data_now:
 date = datetime.datetime.now().date() - datetime.timedelta(1)
 
 # date = datetime.datetime(2017, 1, 20)
-etfscrape.getTodayData(tickers, date)
+etfscrape.getTodayData(tickers, date, folder='data_5year')

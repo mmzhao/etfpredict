@@ -6,6 +6,7 @@ import json
 import numpy as np
 import pandas as pd
 import pandas_datareader.data as web
+import os
 import re
 import requests
 import time
@@ -83,18 +84,25 @@ def getMetadata():
         etf_metadata = json.load(f)
     return etf_metadata
 
-def getPreviousData(tickers):
-    start = time.time()
+def getPreviousData(tickers, start=None, folder='data_default'):
+    start_time = time.time()
+
+    if not os.path.exists("{}".format(folder)):
+        os.makedirs("{}".format(folder))
+
     # gets data from 1/1/2016 to 1/19/2017
     tries = 5
     s = requests.Session()
 
-    start = (1,1,2016)
-    end = (1,19,2017)
+    if start == None:
+        start = (1,1,2016)
+    end = (2,7,2017)
 
     failed = []
     for i in range(len(tickers)):
         t = tickers[i]
+        if (i+1)%100 == 0:
+            print '[INFO] fetched {} etfs, time spent: {}'.format(i+1, time.time() - start_time)
         print '[INFO] fetching previous data for ticker {0}'.format((t, i))
         for _ in range(tries):
             try:
@@ -103,7 +111,7 @@ def getPreviousData(tickers):
                 res = s.get(url)
                 if res.status_code != 200:
                     raise Exception("failed request, status: {0}".format(res.status_code))
-                with open("data/{0}.csv".format(t), 'w') as f:
+                with open("{}/{}.csv".format(folder, t), 'w') as f:
                     f.write(res.text)
                 time.sleep(1)
                 break
@@ -119,19 +127,23 @@ def getPreviousData(tickers):
                 time.sleep(1)
                 continue
     print failed
-    print "[INFO] time to get today's data: {0}".format(time.time() - start)
+    print "[INFO] time to get today's data: {0}".format(time.time() - start_time)
 
-def reverseData(tickers):
+def reverseData(tickers, folder='data_default'):
     for i in range(len(tickers)):
         t = tickers[i]
-        df = pd.read_csv('data/{0}.csv'.format(t))
+        df = pd.read_csv('{}/{}.csv'.format(folder, t))
         df = df.iloc[::-1]
-        df.to_csv('data/{0}.csv'.format(t), sep=',', index=False)
+        df.to_csv('{}/{}.csv'.format(folder, t), sep=',', index=False)
         if (i+1)%100 == 0:
             print 'finished reversing {0} ETFs'.format(i+1)
 
-def getTodayData(tickers, date):
-    print '[GETTING ETF DATA FOR {0}]'.format(date)
+def getETFData(ticker, folder='data_default'):
+    df = pd.read_csv('{}/{}.csv'.format(folder, ticker))
+    return df.values
+
+def getTodayData(tickers, date, folder='data_default'):
+    log('[GETTING ETF DATA FOR {0}]'.format(date))
     start = time.time()
     tries = 3
     failed = []
@@ -139,11 +151,11 @@ def getTodayData(tickers, date):
     for i in range(len(tickers)):
         t = tickers[i]
         if i and i%100 == 0:
-            print '[INFO] got data for {0}/{1} ETFs so far today'.format(updated, i)
+            log('[INFO] got data for {0}/{1} ETFs so far today'.format(updated, i))
         for _ in range(tries):
             try:
                 df = web.DataReader(t, 'yahoo', date, date)
-                with open('data/{0}.csv'.format(t), 'a') as f:
+                with open('{}/{}.csv'.format(folder, t), 'a') as f:
                     df.to_csv(f, header=False, sep=',')
                 if len(df):
                     updated += 1
@@ -152,24 +164,47 @@ def getTodayData(tickers, date):
                 print "forced termination"
                 return
             except Exception as e:
-                print "[EXCEPTION] on ticker {0} on try {1}".format(t, _+1)
+                log("[EXCEPTION] on ticker {0} on try {1}".format(t, _+1))
                 print e
                 if _ == tries - 1:
                     failed += [t]
-                    print "[FAILED]: ticker {0} failed".format(t)
+                    log("[FAILED]: ticker {0} failed".format(t))
                 time.sleep(1)
                 continue
     if len(failed) > 0:
-        print "[FAILED] tickers: {0}".format(failed)
-    print "[INFO] scraped {0}/{1} tickers today".format(updated, len(tickers))
-    print "[INFO] time to get today's data: {0}\n".format(time.time() - start)
+        log("[FAILED] tickers: {0}".format(failed))
+    log("[INFO] scraped {0}/{1} tickers today".format(updated, len(tickers)))
+    log("[INFO] time to get today's data: {0}\n".format(time.time() - start))
+
+def fixData(tickers, folder='data_default'):
+    for i in range(len(tickers)):
+        t = tickers[i]
+        df = pd.read_csv('{}/{}.csv'.format(folder, t))
+        # print len(df.index)
+        dropped = 0
+        i = 1
+        while i < len(df.index):
+            if df.iloc[i]['Date'] == df.iloc[i - 1]['Date']:
+                df.drop(i, inplace=True)
+                dropped += 1
+            else:
+                i += 1
+        # print len(df.index)
+        df.to_csv('{}/{}.csv'.format(folder, t), index=False)
+        print "[INFO] {} repeated days for {}".format(dropped, (t, i))
+
 
 def no_data_tickers():
     # these have data but not through the api
     # tickers of ETFs that have a bugged previous data link
-    no_data_past_year = [u'SLDR', u'CRBQ', u'ERGF', u'IFAS', u'724776', u'A1JTWB', u'TRNM', u'MOGLC', u'EMHD', u'TWTI', u'SSTU.TO', u'ASDR', u'AMPS', u'SLOW', u'ESR', u'A1JRLN', u'EMDI', u'EWHS', u'CNSF', u'HHDG', u'PXN', u'PUTX', u'RUDR', u'HEGE', u'AAIT', u'CHNB', u'NDQ', u'DSXJ', u'A1CSX3', u'ENGN', u'ETFSPHYSICAL', u'6KSA', u'AXJS', u'OSMS', u'MONY', u'EVAL', u'CRUD', u'CHLC', u'BXUC', u'BXUB', u'EGRW', u'ALTL', u'GERJ', u'KBWI', u'LATM', u'TCHF', u'DSTJ']
+    no_data_past_year= [u'SLDR', u'CRBQ', u'ERGF', u'IFAS', u'724776', u'A1JTWB', u'TRNM', u'MOGLC', u'EMHD', u'TWTI', u'SSTU.TO', u'ASDR', u'AMPS', u'SLOW', u'ESR', u'A1JRLN', u'EMDI', u'EWHS', u'CNSF', u'HHDG', u'PXN', u'PUTX', u'RUDR', u'HEGE', u'AAIT', u'CHNB', u'NDQ', u'DSXJ', u'A1CSX3', u'ENGN', u'ETFSPHYSICAL', u'6KSA', u'AXJS', u'OSMS', u'DBSP', u'MONY', u'EVAL', u'CRUD', u'CHLC', u'BXUC', u'BXUB', u'EGRW', u'ALTL', u'GERJ', u'KBWI', u'LATM', u'TCHF', u'DSTJ']
     no_data_now = [u'LSC', u'SBEU', u'BSCG', u'QTWN', u'FXC.MX', u'RWV', u'FCFI', u'HREX', u'XLFS', u'QMEX', u'ROLA', u'DWTI', u'QKOR']
     return no_data_past_year, no_data_now
+
+def log(message):
+    with open('daily.log', 'a') as f:
+        f.write(message + "\n")
+    print message
 
 
 if __name__ == '__main__':
@@ -184,14 +219,15 @@ if __name__ == '__main__':
     for t in no_data_now:
         tickers.remove(t)
 
-    # getPreviousData(tickers)
-    # reverseData(tickers)
+    getPreviousData(tickers, start=(1,1,2012), folder='data_5year')
+    reverseData(tickers, folder='data_5year')
 
 
-    date = datetime.datetime.now().date()
+    # date = datetime.datetime.now().date()
 
     # date = datetime.datetime(2017, 1, 20)
-    getTodayData(tickers, date)
+    # getTodayData(tickers, date)
+    # fixData(tickers, folder='data')
 
 
 
